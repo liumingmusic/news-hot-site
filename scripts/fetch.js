@@ -2,10 +2,10 @@
 // 抓取各平台热榜 -> 按 16 个领域归一化 -> 写带时间戳的快照 + 更新 manifest + 清理 30 天前数据
 // 零外部依赖（使用 Node 内置 fetch，需 Node >= 18）
 //
-// 数据源（全部免 key）：
+// 数据源（全部免 key / 全中文优先）：
 //   1) DailyHotApi 兼容实例（多实例自动回退，用第一个能连通的）
-//   2) 60s.viki.moe（Cloudflare Workers，仅 weibo/zhihu/douyin/toutiao，作为保底）
-//   3) Hacker News Algolia API（科技 / 人工智能的保底源，永不落空）
+//   2) 60s.viki.moe（Cloudflare Workers，仅 weibo/zhihu/douyin/toutiao，纯中文保底）
+//   不再引入 Hacker News 等英文源，确保内容以中文为主
 import { writeFile, mkdir, readFile, unlink } from 'node:fs/promises';
 import { existsSync } from 'node:fs';
 import { join, dirname } from 'node:path';
@@ -30,7 +30,6 @@ const FULL_PROVIDERS = (process.env.DAILYHOT_API_BASE ||
 
 const SIXTY_BASE = 'https://60s.viki.moe';
 const SIXTY_SUPPORTED = new Set(['weibo', 'zhihu', 'douyin', 'toutiao']);
-const HN_URL = 'https://hn.algolia.com/api/v1/search?tags=front_page&hitsPerPage=60';
 
 // 平台调用名 -> 中文展示名
 const PLATFORM_LABELS = {
@@ -52,10 +51,22 @@ const PLATFORM_LABELS = {
 // 无 kw: 直接采用该平台热榜; 有 kw: 仅保留标题/摘要命中任一关键词的条目
 const DOMAINS = {
   '科技': [
+    // 中文保底源（60s 支持，即使完整实例不可达也有中文内容）
+    { p: 'zhihu', kw: ['科技','AI','人工智能','数码','编程','互联网','芯片','手机','电脑','软件','技术','智能','5G','6G','量子','开源','苹果','华为','小米'] },
+    { p: 'weibo', kw: ['科技','AI','人工智能','数码','编程','芯片','手机','互联网','软件','智能','苹果','华为','小米','谷歌','微软','特斯拉','机器人'] },
+    { p: 'baidu', kw: ['科技','人工智能','AI','数码','芯片','手机','互联网','软件','智能','苹果','华为','小米'] },
+    { p: 'toutiao', kw: ['科技','AI','人工智能','数码','芯片','手机','互联网','软件','智能','苹果','华为'] },
+    // 完整 DailyHotApi 实例（有简介、更多字段）
     { p: 'sspai' }, { p: 'ithome' }, { p: '36kr' }, { p: 'juejin' },
     { p: 'coolapk' }, { p: 'ifanr' }, { p: 'v2ex' }, { p: 'hellogithub' },
   ],
   '人工智能': [
+    // 中文保底源（60s 支持）
+    { p: 'zhihu', kw: ['AI','人工智能','大模型','ChatGPT','GPT','机器学习','深度学习','AIGC','算力','芯片','自然语言处理','计算机视觉','自动驾驶','机器人','OpenAI','Claude','Gemini','文心一言','通义千问','Kimi','DeepSeek','智谱'] },
+    { p: 'weibo', kw: ['AI','人工智能','大模型','ChatGPT','GPT','AIGC','算力','机器人','OpenAI','Claude','Gemini','文心一言','通义千问','Kimi'] },
+    { p: 'baidu', kw: ['AI','人工智能','大模型','ChatGPT','GPT','AIGC','算力','芯片','机器人','OpenAI','Claude','文心一言','通义千问'] },
+    { p: 'toutiao', kw: ['AI','人工智能','大模型','ChatGPT','GPT','AIGC','算力','芯片','OpenAI','文心一言'] },
+    // 完整 DailyHotApi 实例
     { p: '36kr', kw: ['AI', '人工智能', '大模型', 'LLM', 'GPT', '机器学习', '深度学习', '算力', '芯片', '机器人'] },
     { p: 'sspai', kw: ['AI', '人工智能', '大模型', 'LLM', 'GPT'] },
     { p: 'ithome', kw: ['AI', '人工智能', '大模型', '芯片', '算力'] },
@@ -244,34 +255,13 @@ async function fetchFromSixty(platform) {
   }
 }
 
-// Hacker News 热门（科技 / AI 保底）
-async function fetchHN() {
-  try {
-    const json = await getJson(HN_URL, 9000);
-    const hits = json && json.hits;
-    if (!Array.isArray(hits)) throw new Error('响应缺少 hits');
-    return hits
-      .map((h) => ({
-        title: h.title || h.story_title || '',
-        url: h.url || h.story_url || '',
-        hot: h.points ?? null,
-        desc: h.story_text || h.comment_text || '',
-        time: h.created_at_i ? h.created_at_i * 1000 : null,
-      }))
-      .filter((x) => x.title);
-  } catch (e) {
-    console.warn(`[warn] HN 抓取失败: ${e.message}`);
-    return [];
-  }
-}
-
 // ---------- 主流程 ----------
 async function main() {
   const generatedAt = new Date();
   console.log(`[info] 探测 DailyHotApi 兼容实例（共 ${FULL_PROVIDERS.length} 个）…`);
   const fullBase = await pickFullProvider();
   if (fullBase) console.log(`[info] 选定主实例: ${fullBase}`);
-  else console.log(`[warn] 所有 DailyHotApi 实例均不可达，将仅用 60s + HN 保底源`);
+  else console.log(`[warn] 所有 DailyHotApi 实例均不可达，将仅用 60s 中文保底源`);
 
   // 收集所有需要的平台
   const platforms = new Set();
@@ -288,8 +278,6 @@ async function main() {
     for (const it of s) { if (!seen.has(it.url || it.title)) { arr.push(it); seen.add(it.url || it.title); } }
     cache[p] = arr;
   }));
-
-  const hnItems = await fetchHN();
 
   const categories = {};
   const counts = {};
@@ -321,15 +309,6 @@ async function main() {
         for (const it of arr) { if (pool.length >= MIN_PER_DOMAIN) break; add(it, c.p); }
       }
     }
-    // 科技 / 人工智能：注入 HN 保底源（去重后追加到候选池）
-    if ((domain === '科技' || domain === '人工智能') && hnItems.length) {
-      for (const it of hnItems) {
-        const key = it.url || it.title;
-        if (key && !seen.has(key)) { seen.add(key); pool.push({ ...it, source: 'Hacker News' }); }
-      }
-      console.log(`[info] ${domain} 候选池 ${pool.length} 条（含 HN 保底）`);
-    }
-
     // 随机抽 6–12 条：先打乱再从候选池取随机数量，最后按热度排序保证可读性
     const target = Math.min(pool.length, randInt(MIN_PER_DOMAIN, MAX_PER_DOMAIN));
     const items = shuffle(pool)
@@ -345,7 +324,7 @@ async function main() {
 
   await mkdir(SNAP_DIR, { recursive: true });
   const file = fmtFile(generatedAt) + '.json';
-  const snapshot = { generatedAt: generatedAt.toISOString(), source: fullBase || '60s.viki.moe + HN', categories, total };
+  const snapshot = { generatedAt: generatedAt.toISOString(), source: fullBase || '60s.viki.moe', categories, total };
   await writeFile(join(SNAP_DIR, file), JSON.stringify(snapshot, null, 2), 'utf8');
 
   // 更新 manifest + 清理
