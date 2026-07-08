@@ -34,7 +34,7 @@
 2. **推代码**：把本仓库全部文件推到 `main` 分支根目录（`index.html` 在根）。
 3. **配置密钥**：仓库 `Settings → Secrets and variables → Actions → New repository secret`：
    - 名称：`DAILYHOT_API_BASE`
-   - 值：DailyHotApi 实例地址，默认填 `https://api-hot.imsyy.top`（维护者公开实例，可能限流；建议自托管，见下文）。
+   - 值：**可选**。脚本已内置多实例自动回退（DailyHotApi 兼容实例列表）+ `60s.viki.moe` 保底 + `HN Algolia` 保底，**完全免 key**，不配置也能正常出数据。若想指定自己的 DailyHotApi 实例，填逗号分隔的地址（如 `https://your-dailyhot.workers.dev`）。
 4. **开启 Pages**：`Settings → Pages → Build and deployment → Source` 选择 **Deploy from a branch** → 分支 `main` → 目录 `(root)`，保存。
 5. **首次抓取**：进入仓库 `Actions` 标签，找到 **Fetch news hot** 工作流，点 **Run workflow** 手动跑一次（调度任务每两天 09:00 北京时间自动跑）。
 6. 访问 `https://<你的用户名>.github.io/<仓库名>/`。
@@ -43,11 +43,17 @@
 
 ## 数据源说明
 
-数据来自 DailyHotApi 聚合的各平台公开热榜（微博 / 知乎 / 百度 / 抖音 / B站 / 36氪 / 少数派 / IT之家 / 掘金 / 酷安 / 爱范儿 / V2EX / 果壳 / 微信读书 / 简书 / 豆瓣 / 澎湃 / 头条 / 腾讯新闻 / 新浪 / 网易 / 虎嗅 / 虎扑 / NGA / 各大游戏板等）。
+数据来源（**全部免 key**，脚本自动回退）：
+
+1. **DailyHotApi 兼容实例**（脚本内置 9 个公开实例列表，自动探测并用第一个能连通的）：聚合微博 / 知乎 / 百度 / 抖音 / B站 / 36氪 / 少数派 / IT之家 / 掘金 / 酷安 / 爱范儿 / V2EX / 果壳 / 微信读书 / 简书 / 豆瓣 / 澎湃 / 头条 / 腾讯新闻 / 新浪 / 网易 / 虎嗅 / 虎扑 / NGA / 各大游戏板等热榜。
+2. **`60s.viki.moe`**（Cloudflare Workers 部署）：保底提供微博 / 知乎 / 抖音 / 今日头条 4 大平台热榜。
+3. **`HN Algolia`**（Hacker News 官方 API）：保底提供科技 / 人工智能领域热榜，永不落空。
 
 > ⚠️ DailyHotApi 按**平台**聚合，不是按**话题领域**聚合。本项目的 16 个领域映射规则见 `scripts/fetch.js` 中的 `DOMAINS`：
 > - 有对应平台的直接采用（科技 / 娱乐 / 游戏 / 财经 / 体育 / 文化等）；
 > - 无专属平台的用综合平台（微博 / 知乎 / 百度）按**关键词过滤**（社会 / 教育 / 医疗 / 人文 / 美食 / 旅游 / 军事 / 国际 / 人工智能 / 汽车）。
+>
+> 公开 DailyHotApi 实例普遍不稳定（官方 `api-hot.imsyy.top` 常挂）。本项目通过「多实例回退 + 60s + HN 三重保底」保证站点始终有真实数据；若所有 DailyHotApi 实例都不可达，仍至少有 60s 的 4 大平台 + HN 的科技/AI 撑起全站。
 
 ### 自托管 DailyHotApi（更稳，推荐）
 
