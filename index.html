@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>热点聚合 · 每日新闻热榜</title>
+    <meta name="description" content="按领域分类聚合各大新闻平台热点，每日自动更新，支持历史回溯。" />
+    <link rel="stylesheet" href="assets/css/style.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="header-top">
+        <div class="brand">🔥 热点聚合</div>
+        <div class="controls">
+          <input id="search" type="search" placeholder="搜索标题…" aria-label="搜索" />
+          <select id="history" aria-label="历史快照"></select>
+        </div>
+      </div>
+      <div class="subtitle">每日各平台热点 · 按 16 个领域分类</div>
+      <div id="updated" class="updated"></div>
+    </header>
+
+    <nav id="tabs" class="tabs" aria-label="领域导航"></nav>
+
+    <main id="content" class="content"></main>
+
+    <footer class="site-footer">
+      数据来自 DailyHotApi 聚合的各平台公开热榜，仅供研究参考 · 由 GitHub Actions 每两天自动抓取
+    </footer>
+
+    <script src="assets/js/app.js"></script>
+  </body>
+</html>

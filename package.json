@@ -1,0 +1,13 @@
+{
+  "name": "news-hot-site",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "静态新闻热点聚合站：按领域分类聚合各平台热榜，部署到 GitHub Pages",
+  "scripts": {
+    "fetch": "node scripts/fetch.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
