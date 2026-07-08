@@ -18,8 +18,8 @@ const SNAP_DIR = join(DATA_DIR, 'snapshots');
 const MANIFEST = join(DATA_DIR, 'manifest.json');
 
 const RETENTION_DAYS = Number(process.env.RETENTION_DAYS || 30);
-const MAX_PER_DOMAIN = 13;
-const MIN_PER_DOMAIN = 6;
+const MAX_PER_DOMAIN = 12; // 每个领域最多 12 条
+const MIN_PER_DOMAIN = 6;  // 每个领域至少 6 条（不足则用各平台热榜补齐）
 
 // DailyHotApi 兼容实例列表（逗号分隔可覆盖，按顺序自动回退）
 const FULL_PROVIDERS = (process.env.DAILYHOT_API_BASE ||
@@ -136,6 +136,43 @@ function kwMatch(item, kws) {
   return kws.some((k) => hay.includes(k.toLowerCase()));
 }
 
+// 把各种时间字段归一化为毫秒时间戳（无法解析则返回 null）
+function parseTime(raw) {
+  if (raw == null) return null;
+  let t = raw;
+  if (typeof t === 'string') {
+    // 形如 "1710000000" 的纯数字字符串
+    if (/^\d+$/.test(t.trim())) t = Number(t.trim());
+    else { const n = Date.parse(t); return isNaN(n) ? null : n; }
+  }
+  if (typeof t === 'number') {
+    if (t > 1e12) return Math.floor(t);       // 毫秒
+    if (t > 1e9) return Math.floor(t * 1000); // 秒
+    return null;
+  }
+  return null;
+}
+
+function randInt(min, max) {
+  return min + Math.floor(Math.random() * (max - min + 1));
+}
+
+function shuffle(arr) {
+  const a = arr.slice();
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
+// 热度排序辅助：无热度的排最后
+function hotRank(hot) {
+  if (hot == null) return -1;
+  const n = typeof hot === 'number' ? hot : parseFloat(String(hot).replace(/[^0-9.]/g, ''));
+  return isNaN(n) ? -1 : n;
+}
+
 function fmtFile(d) {
   const p = (n) => String(n).padStart(2, '0');
   return `${d.getUTCFullYear()}-${p(d.getUTCMonth() + 1)}-${p(d.getUTCDate())}T${p(d.getUTCHours())}-${p(d.getUTCMinutes())}-${p(d.getUTCSeconds())}Z`;
@@ -161,7 +198,8 @@ function normalize(item, provider) {
   let hot = item.hot ?? item.hot_value ?? item.heat ?? item.score ?? null;
   if (typeof hot === 'string') hot = parseInt(hot.replace(/[^0-9]/g, ''), 10) || null;
   const desc = String(item.desc || item.description || item.content || '').trim();
-  return { title, url, hot, desc };
+  const time = parseTime(item.timestamp || item.mtime || item.created_at || item.createdAt || item.time || item.publish_time || null);
+  return { title, url, hot, desc, time };
 }
 
 // 探活 DailyHotApi 兼容实例：用 /api/weibo 探测，返回第一个可用的 base
@@ -213,7 +251,13 @@ async function fetchHN() {
     const hits = json && json.hits;
     if (!Array.isArray(hits)) throw new Error('响应缺少 hits');
     return hits
-      .map((h) => ({ title: h.title || h.story_title || '', url: h.url || h.story_url || '', hot: null, desc: '' }))
+      .map((h) => ({
+        title: h.title || h.story_title || '',
+        url: h.url || h.story_url || '',
+        hot: h.points ?? null,
+        desc: h.story_text || h.comment_text || '',
+        time: h.created_at_i ? h.created_at_i * 1000 : null,
+      }))
       .filter((x) => x.title);
   } catch (e) {
     console.warn(`[warn] HN 抓取失败: ${e.message}`);
@@ -250,37 +294,49 @@ async function main() {
   const categories = {};
   const counts = {};
   for (const [domain, collectors] of Object.entries(DOMAINS)) {
-    const acc = [];
+    // 候选池：先按关键词收录，不足 MIN 再用各平台热榜补齐
+    const pool = [];
     const seen = new Set();
     const add = (it, platform) => {
       const key = it.url || it.title;
       if (!key || seen.has(key)) return;
       seen.add(key);
-      acc.push({ title: it.title, url: it.url, hot: it.hot, source: PLATFORM_LABELS[platform] || platform });
+      pool.push({
+        title: it.title,
+        url: it.url,
+        hot: it.hot ?? null,
+        desc: it.desc || '',
+        time: it.time ?? null,
+        source: PLATFORM_LABELS[platform] || platform,
+      });
     };
 
     for (const c of collectors) {
       const arr = cache[c.p] || [];
       for (const it of arr) if (kwMatch(it, c.kw)) add(it, c.p);
     }
-    if (acc.length < MIN_PER_DOMAIN) {
+    if (pool.length < MIN_PER_DOMAIN) {
       for (const c of collectors) {
         const arr = cache[c.p] || [];
-        for (const it of arr) { if (acc.length >= MIN_PER_DOMAIN) break; add(it, c.p); }
+        for (const it of arr) { if (pool.length >= MIN_PER_DOMAIN) break; add(it, c.p); }
       }
     }
-    // 科技 / 人工智能：注入 HN 保底（去重后补到前面）
+    // 科技 / 人工智能：注入 HN 保底源（去重后追加到候选池）
     if ((domain === '科技' || domain === '人工智能') && hnItems.length) {
-      const before = acc.length;
       for (const it of hnItems) {
         const key = it.url || it.title;
-        if (key && !seen.has(key)) { seen.add(key); acc.unshift({ ...it, source: 'Hacker News' }); }
-        if (acc.length >= MAX_PER_DOMAIN) break;
+        if (key && !seen.has(key)) { seen.add(key); pool.push({ ...it, source: 'Hacker News' }); }
       }
-      console.log(`[info] ${domain} 注入 HN ${acc.length - before} 条`);
+      console.log(`[info] ${domain} 候选池 ${pool.length} 条（含 HN 保底）`);
     }
 
-    const items = acc.slice(0, MAX_PER_DOMAIN).map((it, i) => ({ ...it, rank: i + 1, category: domain }));
+    // 随机抽 6–12 条：先打乱再从候选池取随机数量，最后按热度排序保证可读性
+    const target = Math.min(pool.length, randInt(MIN_PER_DOMAIN, MAX_PER_DOMAIN));
+    const items = shuffle(pool)
+      .slice(0, target)
+      .sort((a, b) => hotRank(b.hot) - hotRank(a.hot))
+      .map((it, i) => ({ ...it, rank: i + 1, category: domain }));
+
     categories[domain] = items;
     counts[domain] = items.length;
   }

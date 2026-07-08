@@ -10,7 +10,13 @@ const updatedEl = document.getElementById('updated');
 
 const state = { manifest: null, snapshot: null, domain: '全部', query: '' };
 
-const $ = (sel) => document.querySelector(sel);
+// 领域对应的 emoji 图标
+const DOMAIN_EMOJI = {
+  全部: '🔥', 科技: '💡', 人工智能: '🤖', 人文: '📚', 社会: '🏙️',
+  教育: '🎓', 娱乐: '🎬', 医疗: '🏥', 财经: '💰', 体育: '⚽',
+  游戏: '🎮', 汽车: '🚗', 美食: '🍜', 旅游: '✈️', 军事: '🛡️',
+  国际: '🌐', 文化: '🎭',
+};
 
 function esc(s) {
   return String(s == null ? '' : s).replace(
@@ -24,6 +30,23 @@ function formatTs(iso) {
   if (isNaN(d)) return iso;
   const p = (n) => String(n).padStart(2, '0');
   return `${d.getFullYear()}-${p(d.getMonth() + 1)}-${p(d.getDate())} ${p(d.getHours())}:${p(d.getMinutes())}`;
+}
+
+// 相对时间：刚刚 / N 分钟前 / N 小时前 / N 天前 / 日期
+function formatTime(ms) {
+  if (!ms || isNaN(ms)) return '';
+  const diff = Date.now() - ms;
+  if (diff < 0) return formatTs(new Date(ms).toISOString());
+  const min = Math.floor(diff / 60000);
+  if (min < 1) return '刚刚';
+  if (min < 60) return min + ' 分钟前';
+  const hr = Math.floor(min / 60);
+  if (hr < 24) return hr + ' 小时前';
+  const day = Math.floor(hr / 24);
+  if (day < 30) return day + ' 天前';
+  const d = new Date(ms);
+  const p = (n) => String(n).padStart(2, '0');
+  return `${d.getFullYear()}-${p(d.getMonth() + 1)}-${p(d.getDate())}`;
 }
 
 function formatHot(hot) {
@@ -90,7 +113,7 @@ function buildTabs(cats) {
   ['全部', ...cats].forEach((name) => {
     const b = document.createElement('button');
     b.className = 'tab' + (name === state.domain ? ' active' : '');
-    b.textContent = name;
+    b.innerHTML = `<span class="tab-emoji">${DOMAIN_EMOJI[name] || '📌'}</span>${esc(name)}`;
     b.onclick = () => {
       state.domain = name;
       [...tabsEl.children].forEach((c) => c.classList.remove('active'));
@@ -115,10 +138,14 @@ function render() {
   for (const d of domains) {
     const items = snap.categories[d] || [];
     const filtered = state.query
-      ? items.filter((it) => (it.title || '').toLowerCase().includes(state.query))
+      ? items.filter((it) => {
+          const hay = ((it.title || '') + ' ' + (it.desc || '') + ' ' + (it.source || '')).toLowerCase();
+          return hay.includes(state.query);
+        })
       : items;
     if (!filtered.length) continue;
-    html += `<section class="domain"><h2 class="domain-title">${esc(d)} <span class="count">${filtered.length}</span></h2><div class="grid">`;
+    const emoji = DOMAIN_EMOJI[d] || '📌';
+    html += `<section class="domain"><h2 class="domain-title"><span class="domain-emoji">${emoji}</span>${esc(d)} <span class="count">${filtered.length}</span></h2><div class="grid">`;
     for (const it of filtered) html += cardHtml(it);
     html += '</div></section>';
   }
@@ -127,17 +154,27 @@ function render() {
 
 function cardHtml(it) {
   const hot = formatHot(it.hot);
+  const time = formatTime(it.time);
+  const desc = (it.desc || '').trim();
   const titleHtml = it.url
     ? `<a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a>`
     : esc(it.title);
+
+  const descHtml = desc
+    ? `<p class="card-desc">${esc(desc)}</p>`
+    : '';
+
+  const meta = [];
+  if (it.source) meta.push(`<span class="meta-source">${esc(it.source)}</span>`);
+  if (time) meta.push(`<span class="meta-time">🕒 ${esc(time)}</span>`);
+  if (hot) meta.push(`<span class="meta-hot">🔥 ${esc(hot)}</span>`);
+
   return `<article class="card">
-    <div class="rank">${esc(it.rank)}</div>
+    <div class="card-rank${it.rank <= 3 ? ' top' : ''}">${esc(it.rank)}</div>
     <div class="card-body">
       <h3 class="card-title">${titleHtml}</h3>
-      <div class="card-meta">
-        <span class="tag">${esc(it.source || '')}</span>
-        ${hot ? `<span class="hot">🔥 ${esc(hot)}</span>` : ''}
-      </div>
+      ${descHtml}
+      <div class="card-meta">${meta.join('')}</div>
     </div>
   </article>`;
 }
