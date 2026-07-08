@@ -1,0 +1,42 @@
+name: Fetch news hot
+
+on:
+  schedule:
+    # UTC 01:00 == 北京时间 09:00，每两天抓取一次
+    - cron: "0 1 */2 * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Run fetch
+        env:
+          DAILYHOT_API_BASE: ${{ secrets.DAILYHOT_API_BASE }}
+        run: node scripts/fetch.js
+
+      - name: Commit data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No data changes"
+          else
+            git commit -m "chore: update news snapshots $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+            git push
+          fi
