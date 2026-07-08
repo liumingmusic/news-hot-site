@@ -1,0 +1,1057 @@
+{
+  "generatedAt": "2026-07-08T14:57:12.891Z",
+  "source": "60s.viki.moe + HN",
+  "categories": {
+    "科技": [
+      {
+        "title": "Canada's only watchmaking school still ticking after 80 years",
+        "url": "https://www.cbc.ca/news/canada/montreal/canada-s-only-watchmaking-school-9.7254211",
+        "hot": null,
+        "desc": "",
+        "source": "Hacker News",
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
+        "url": "https://github.com/rowboatlabs/rowboat",
+        "hot": null,
+        "desc": "",
+        "source": "Hacker News",
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "title": "Structure and Interpretation of Computer Programs Video Lectures (1986)",
+        "url": "https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/",
+        "hot": null,
+        "desc": "",
+        "source": "Hacker News",
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "title": "GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup",
+        "url": "https://www.gao.gov/products/gao-26-108193",
+        "hot": null,
+        "desc": "",
+        "source": "Hacker News",
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "title": "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)",
+        "url": "https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/",
+        "hot": null,
+        "desc": "",
+        "source": "Hacker News",
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
+        "url": "https://kb.cert.org/vuls/id/213560",
+        "hot": null,
+        "desc": "",
+        "source": "Hacker News",
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "title": "Herdr: One terminal to rule them all",
+        "url": "https://herdr.dev/",
+        "hot": null,
+        "desc": "",
+        "source": "Hacker News",
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "title": "Show HN: Davit, a Apple Containers UI",
+        "url": "https://davit.app",
+        "hot": null,
+        "desc": "",
+        "source": "Hacker News",
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+        "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
+        "hot": null,
+        "desc": "",
+        "source": "Hacker News",
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
+        "url": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
+        "hot": null,
+        "desc": "",
+        "source": "Hacker News",
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "title": "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",
+        "url": "https://30papers.com/",
+        "hot": null,
+        "desc": "",
+        "source": "Hacker News",
+        "rank": 11,
+        "category": "科技"
+      },
+      {
+        "title": "Chat Control 1.0 and 2.0 Explained",
+        "url": "https://fightchatcontrol.eu/chat-control-overview",
+        "hot": null,
+        "desc": "",
+        "source": "Hacker News",
+        "rank": 12,
+        "category": "科技"
+      },
+      {
+        "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+        "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+        "hot": null,
+        "desc": "",
+        "source": "Hacker News",
+        "rank": 13,
+        "category": "科技"
+      }
+    ],
+    "人工智能": [
+      {
+        "title": "Canada's only watchmaking school still ticking after 80 years",
+        "url": "https://www.cbc.ca/news/canada/montreal/canada-s-only-watchmaking-school-9.7254211",
+        "hot": null,
+        "desc": "",
+        "source": "Hacker News",
+        "rank": 1,
+        "category": "人工智能"
+      },
+      {
+        "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
+        "url": "https://github.com/rowboatlabs/rowboat",
+        "hot": null,
+        "desc": "",
+        "source": "Hacker News",
+        "rank": 2,
+        "category": "人工智能"
+      },
+      {
+        "title": "Structure and Interpretation of Computer Programs Video Lectures (1986)",
+        "url": "https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/",
+        "hot": null,
+        "desc": "",
+        "source": "Hacker News",
+        "rank": 3,
+        "category": "人工智能"
+      },
+      {
+        "title": "GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup",
+        "url": "https://www.gao.gov/products/gao-26-108193",
+        "hot": null,
+        "desc": "",
+        "source": "Hacker News",
+        "rank": 4,
+        "category": "人工智能"
+      },
+      {
+        "title": "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)",
+        "url": "https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/",
+        "hot": null,
+        "desc": "",
+        "source": "Hacker News",
+        "rank": 5,
+        "category": "人工智能"
+      },
+      {
+        "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
+        "url": "https://kb.cert.org/vuls/id/213560",
+        "hot": null,
+        "desc": "",
+        "source": "Hacker News",
+        "rank": 6,
+        "category": "人工智能"
+      },
+      {
+        "title": "Herdr: One terminal to rule them all",
+        "url": "https://herdr.dev/",
+        "hot": null,
+        "desc": "",
+        "source": "Hacker News",
+        "rank": 7,
+        "category": "人工智能"
+      },
+      {
+        "title": "Show HN: Davit, a Apple Containers UI",
+        "url": "https://davit.app",
+        "hot": null,
+        "desc": "",
+        "source": "Hacker News",
+        "rank": 8,
+        "category": "人工智能"
+      },
+      {
+        "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+        "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
+        "hot": null,
+        "desc": "",
+        "source": "Hacker News",
+        "rank": 9,
+        "category": "人工智能"
+      },
+      {
+        "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
+        "url": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
+        "hot": null,
+        "desc": "",
+        "source": "Hacker News",
+        "rank": 10,
+        "category": "人工智能"
+      },
+      {
+        "title": "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",
+        "url": "https://30papers.com/",
+        "hot": null,
+        "desc": "",
+        "source": "Hacker News",
+        "rank": 11,
+        "category": "人工智能"
+      },
+      {
+        "title": "Chat Control 1.0 and 2.0 Explained",
+        "url": "https://fightchatcontrol.eu/chat-control-overview",
+        "hot": null,
+        "desc": "",
+        "source": "Hacker News",
+        "rank": 12,
+        "category": "人工智能"
+      },
+      {
+        "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+        "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+        "hot": null,
+        "desc": "",
+        "source": "Hacker News",
+        "rank": 13,
+        "category": "人工智能"
+      }
+    ],
+    "人文": [
+      {
+        "title": "台风「巴威」直径超1500公里、超强级别维持达4天，这意味着什么？登陆时破坏力将有多大？",
+        "url": "https://www.zhihu.com/question/2057957666412913655",
+        "hot": null,
+        "source": "知乎",
+        "rank": 1,
+        "category": "人文"
+      },
+      {
+        "title": "网友吐槽「等退休」是一场巨大的骗局，称年轻时透支身体退休后只能养病，对此你有哪些感触？",
+        "url": "https://www.zhihu.com/question/2057838508215988928",
+        "hot": null,
+        "source": "知乎",
+        "rank": 2,
+        "category": "人文"
+      },
+      {
+        "title": "曾年销 26 万台的比亚迪秦 L 被曝停产，这是出于哪些商业考量？",
+        "url": "https://www.zhihu.com/question/2057993033182978590",
+        "hot": null,
+        "source": "知乎",
+        "rank": 3,
+        "category": "人文"
+      },
+      {
+        "title": "如何评价大二女生高考失利无缘一本，毅然选择贷款两百万创办民宿，如今营收千万开启逆袭人生？",
+        "url": "https://www.zhihu.com/question/2057932320250795330",
+        "hot": null,
+        "source": "知乎",
+        "rank": 4,
+        "category": "人文"
+      },
+      {
+        "title": "市面上那么多种虾，哪种虾最好吃？",
+        "url": "https://www.zhihu.com/question/272244963",
+        "hot": null,
+        "source": "知乎",
+        "rank": 5,
+        "category": "人文"
+      },
+      {
+        "title": "小米汽车新产品系列定名为「skynomad」，如何解读这一名称背后的含义与品牌策略？",
+        "url": "https://www.zhihu.com/question/2058113452170798939",
+        "hot": null,
+        "source": "知乎",
+        "rank": 6,
+        "category": "人文"
+      }
+    ],
+    "社会": [
+      {
+        "title": "台风",
+        "url": "https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E",
+        "hot": 2611044,
+        "source": "微博",
+        "rank": 1,
+        "category": "社会"
+      },
+      {
+        "title": "埃及教练向阿根廷运动员吐口水",
+        "url": "https://s.weibo.com/weibo?q=%E5%9F%83%E5%8F%8A%E6%95%99%E7%BB%83%E5%90%91%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%BF%90%E5%8A%A8%E5%91%98%E5%90%90%E5%8F%A3%E6%B0%B4",
+        "hot": 997678,
+        "source": "微博",
+        "rank": 2,
+        "category": "社会"
+      },
+      {
+        "title": "9个台风天安全提醒",
+        "url": "https://s.weibo.com/weibo?q=9%E4%B8%AA%E5%8F%B0%E9%A3%8E%E5%A4%A9%E5%AE%89%E5%85%A8%E6%8F%90%E9%86%92",
+        "hot": 812647,
+        "source": "微博",
+        "rank": 3,
+        "category": "社会"
+      },
+      {
+        "title": "明显能感受到暑假工上班了",
+        "url": "https://s.weibo.com/weibo?q=%E6%98%8E%E6%98%BE%E8%83%BD%E6%84%9F%E5%8F%97%E5%88%B0%E6%9A%91%E5%81%87%E5%B7%A5%E4%B8%8A%E7%8F%AD%E4%BA%86",
+        "hot": 806208,
+        "source": "微博",
+        "rank": 4,
+        "category": "社会"
+      },
+      {
+        "title": "邓紫棋杭州演唱会取消",
+        "url": "https://s.weibo.com/weibo?q=%E9%82%93%E7%B4%AB%E6%A3%8B%E6%9D%AD%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8F%96%E6%B6%88",
+        "hot": 751728,
+        "source": "微博",
+        "rank": 5,
+        "category": "社会"
+      },
+      {
+        "title": "C罗乘私人飞机离开",
+        "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E4%B9%98%E7%A7%81%E4%BA%BA%E9%A3%9E%E6%9C%BA%E7%A6%BB%E5%BC%80",
+        "hot": 689917,
+        "source": "微博",
+        "rank": 6,
+        "category": "社会"
+      },
+      {
+        "title": "最新世界杯夺冠概率出炉",
+        "url": "https://s.weibo.com/weibo?q=%E6%9C%80%E6%96%B0%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%BA%E5%86%A0%E6%A6%82%E7%8E%87%E5%87%BA%E7%82%89",
+        "hot": 686271,
+        "source": "微博",
+        "rank": 7,
+        "category": "社会"
+      },
+      {
+        "title": "邓紫棋回应因台风取消演唱会",
+        "url": "https://s.weibo.com/weibo?q=%E9%82%93%E7%B4%AB%E6%A3%8B%E5%9B%9E%E5%BA%94%E5%9B%A0%E5%8F%B0%E9%A3%8E%E5%8F%96%E6%B6%88%E6%BC%94%E5%94%B1%E4%BC%9A",
+        "hot": 683177,
+        "source": "微博",
+        "rank": 8,
+        "category": "社会"
+      },
+      {
+        "title": "丈夫杀害出轨妻子子女曾提交谅解书",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%88%E5%A4%AB%E6%9D%80%E5%AE%B3%E5%87%BA%E8%BD%A8%E5%A6%BB%E5%AD%90%E5%AD%90%E5%A5%B3%E6%9B%BE%E6%8F%90%E4%BA%A4%E8%B0%85%E8%A7%A3%E4%B9%A6",
+        "hot": 682103,
+        "source": "微博",
+        "rank": 9,
+        "category": "社会"
+      },
+      {
+        "title": "世界杯四分之一决赛门票暴跌近60%",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%9B%9B%E5%88%86%E4%B9%8B%E4%B8%80%E5%86%B3%E8%B5%9B%E9%97%A8%E7%A5%A8%E6%9A%B4%E8%B7%8C%E8%BF%9160%25",
+        "hot": 677107,
+        "source": "微博",
+        "rank": 10,
+        "category": "社会"
+      },
+      {
+        "title": "金晨仍持续掉粉",
+        "url": "https://s.weibo.com/weibo?q=%E9%87%91%E6%99%A8%E4%BB%8D%E6%8C%81%E7%BB%AD%E6%8E%89%E7%B2%89",
+        "hot": 673990,
+        "source": "微博",
+        "rank": 11,
+        "category": "社会"
+      },
+      {
+        "title": "孟子义内娱人脉101",
+        "url": "https://s.weibo.com/weibo?q=%E5%AD%9F%E5%AD%90%E4%B9%89%E5%86%85%E5%A8%B1%E4%BA%BA%E8%84%89101",
+        "hot": 671455,
+        "source": "微博",
+        "rank": 12,
+        "category": "社会"
+      },
+      {
+        "title": "广西贵港12000名师生被困",
+        "url": "https://s.weibo.com/weibo?q=%E5%B9%BF%E8%A5%BF%E8%B4%B5%E6%B8%AF12000%E5%90%8D%E5%B8%88%E7%94%9F%E8%A2%AB%E5%9B%B0",
+        "hot": 668389,
+        "source": "微博",
+        "rank": 13,
+        "category": "社会"
+      }
+    ],
+    "教育": [
+      {
+        "title": "如何评价大二女生高考失利无缘一本，毅然选择贷款两百万创办民宿，如今营收千万开启逆袭人生？",
+        "url": "https://www.zhihu.com/question/2057932320250795330",
+        "hot": null,
+        "source": "知乎",
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "title": "台风「巴威」直径超1500公里、超强级别维持达4天，这意味着什么？登陆时破坏力将有多大？",
+        "url": "https://www.zhihu.com/question/2057957666412913655",
+        "hot": null,
+        "source": "知乎",
+        "rank": 2,
+        "category": "教育"
+      },
+      {
+        "title": "网友吐槽「等退休」是一场巨大的骗局，称年轻时透支身体退休后只能养病，对此你有哪些感触？",
+        "url": "https://www.zhihu.com/question/2057838508215988928",
+        "hot": null,
+        "source": "知乎",
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "title": "曾年销 26 万台的比亚迪秦 L 被曝停产，这是出于哪些商业考量？",
+        "url": "https://www.zhihu.com/question/2057993033182978590",
+        "hot": null,
+        "source": "知乎",
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "title": "市面上那么多种虾，哪种虾最好吃？",
+        "url": "https://www.zhihu.com/question/272244963",
+        "hot": null,
+        "source": "知乎",
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "title": "小米汽车新产品系列定名为「skynomad」，如何解读这一名称背后的含义与品牌策略？",
+        "url": "https://www.zhihu.com/question/2058113452170798939",
+        "hot": null,
+        "source": "知乎",
+        "rank": 6,
+        "category": "教育"
+      }
+    ],
+    "娱乐": [
+      {
+        "title": "从空间站俯瞰台风巴威有多大",
+        "url": "https://www.douyin.com/search/%E4%BB%8E%E7%A9%BA%E9%97%B4%E7%AB%99%E4%BF%AF%E7%9E%B0%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E6%9C%89%E5%A4%9A%E5%A4%A7",
+        "hot": 11970489,
+        "source": "抖音",
+        "rank": 1,
+        "category": "娱乐"
+      },
+      {
+        "title": "万物皆可波点风",
+        "url": "https://www.douyin.com/search/%E4%B8%87%E7%89%A9%E7%9A%86%E5%8F%AF%E6%B3%A2%E7%82%B9%E9%A3%8E",
+        "hot": 11862920,
+        "source": "抖音",
+        "rank": 2,
+        "category": "娱乐"
+      },
+      {
+        "title": "我国人工智能产业加速发展壮大",
+        "url": "https://www.douyin.com/search/%E6%88%91%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%BA%A7%E4%B8%9A%E5%8A%A0%E9%80%9F%E5%8F%91%E5%B1%95%E5%A3%AE%E5%A4%A7",
+        "hot": 11694361,
+        "source": "抖音",
+        "rank": 3,
+        "category": "娱乐"
+      },
+      {
+        "title": "直击洪水洪峰过境",
+        "url": "https://www.douyin.com/search/%E7%9B%B4%E5%87%BB%E6%B4%AA%E6%B0%B4%E6%B4%AA%E5%B3%B0%E8%BF%87%E5%A2%83",
+        "hot": 11565997,
+        "source": "抖音",
+        "rank": 4,
+        "category": "娱乐"
+      },
+      {
+        "title": "17级台风威力有多大",
+        "url": "https://www.douyin.com/search/17%E7%BA%A7%E5%8F%B0%E9%A3%8E%E5%A8%81%E5%8A%9B%E6%9C%89%E5%A4%9A%E5%A4%A7",
+        "hot": 10557062,
+        "source": "抖音",
+        "rank": 5,
+        "category": "娱乐"
+      },
+      {
+        "title": "小个子的夏日氛围感穿搭",
+        "url": "https://www.douyin.com/search/%E5%B0%8F%E4%B8%AA%E5%AD%90%E7%9A%84%E5%A4%8F%E6%97%A5%E6%B0%9B%E5%9B%B4%E6%84%9F%E7%A9%BF%E6%90%AD",
+        "hot": 10541466,
+        "source": "抖音",
+        "rank": 6,
+        "category": "娱乐"
+      },
+      {
+        "title": "超强台风巴威9日起逐渐减弱",
+        "url": "https://www.douyin.com/search/%E8%B6%85%E5%BC%BA%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%819%E6%97%A5%E8%B5%B7%E9%80%90%E6%B8%90%E5%87%8F%E5%BC%B1",
+        "hot": 9430724,
+        "source": "抖音",
+        "rank": 7,
+        "category": "娱乐"
+      },
+      {
+        "title": "中国U17男足不敌坦桑尼亚",
+        "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BDU17%E7%94%B7%E8%B6%B3%E4%B8%8D%E6%95%8C%E5%9D%A6%E6%A1%91%E5%B0%BC%E4%BA%9A",
+        "hot": 9307199,
+        "source": "抖音",
+        "rank": 8,
+        "category": "娱乐"
+      },
+      {
+        "title": "UFC上海站宋亚东将对阵乌马尔",
+        "url": "https://www.douyin.com/search/UFC%E4%B8%8A%E6%B5%B7%E7%AB%99%E5%AE%8B%E4%BA%9A%E4%B8%9C%E5%B0%86%E5%AF%B9%E9%98%B5%E4%B9%8C%E9%A9%AC%E5%B0%94",
+        "hot": 9216186,
+        "source": "抖音",
+        "rank": 9,
+        "category": "娱乐"
+      },
+      {
+        "title": "美军时隔10天再袭伊朗",
+        "url": "https://www.douyin.com/search/%E7%BE%8E%E5%86%9B%E6%97%B6%E9%9A%9410%E5%A4%A9%E5%86%8D%E8%A2%AD%E4%BC%8A%E6%9C%97",
+        "hot": 9125084,
+        "source": "抖音",
+        "rank": 10,
+        "category": "娱乐"
+      },
+      {
+        "title": "抖音网友善意正送往广西灾区",
+        "url": "https://www.douyin.com/search/%E6%8A%96%E9%9F%B3%E7%BD%91%E5%8F%8B%E5%96%84%E6%84%8F%E6%AD%A3%E9%80%81%E5%BE%80%E5%B9%BF%E8%A5%BF%E7%81%BE%E5%8C%BA",
+        "hot": 9123033,
+        "source": "抖音",
+        "rank": 11,
+        "category": "娱乐"
+      },
+      {
+        "title": "和我吃饭从不A钱之人",
+        "url": "https://www.douyin.com/search/%E5%92%8C%E6%88%91%E5%90%83%E9%A5%AD%E4%BB%8E%E4%B8%8DA%E9%92%B1%E4%B9%8B%E4%BA%BA",
+        "hot": 9114521,
+        "source": "抖音",
+        "rank": 12,
+        "category": "娱乐"
+      },
+      {
+        "title": "埃及总统发声",
+        "url": "https://www.douyin.com/search/%E5%9F%83%E5%8F%8A%E6%80%BB%E7%BB%9F%E5%8F%91%E5%A3%B0",
+        "hot": 9103594,
+        "source": "抖音",
+        "rank": 13,
+        "category": "娱乐"
+      }
+    ],
+    "医疗": [
+      {
+        "title": "家长求医生加班看牙痊愈后上门退费",
+        "url": "https://s.weibo.com/weibo?q=%E5%AE%B6%E9%95%BF%E6%B1%82%E5%8C%BB%E7%94%9F%E5%8A%A0%E7%8F%AD%E7%9C%8B%E7%89%99%E7%97%8A%E6%84%88%E5%90%8E%E4%B8%8A%E9%97%A8%E9%80%80%E8%B4%B9",
+        "hot": 590007,
+        "source": "微博",
+        "rank": 1,
+        "category": "医疗"
+      },
+      {
+        "title": "台风",
+        "url": "https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E",
+        "hot": 2611044,
+        "source": "微博",
+        "rank": 2,
+        "category": "医疗"
+      },
+      {
+        "title": "埃及教练向阿根廷运动员吐口水",
+        "url": "https://s.weibo.com/weibo?q=%E5%9F%83%E5%8F%8A%E6%95%99%E7%BB%83%E5%90%91%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%BF%90%E5%8A%A8%E5%91%98%E5%90%90%E5%8F%A3%E6%B0%B4",
+        "hot": 997678,
+        "source": "微博",
+        "rank": 3,
+        "category": "医疗"
+      },
+      {
+        "title": "9个台风天安全提醒",
+        "url": "https://s.weibo.com/weibo?q=9%E4%B8%AA%E5%8F%B0%E9%A3%8E%E5%A4%A9%E5%AE%89%E5%85%A8%E6%8F%90%E9%86%92",
+        "hot": 812647,
+        "source": "微博",
+        "rank": 4,
+        "category": "医疗"
+      },
+      {
+        "title": "明显能感受到暑假工上班了",
+        "url": "https://s.weibo.com/weibo?q=%E6%98%8E%E6%98%BE%E8%83%BD%E6%84%9F%E5%8F%97%E5%88%B0%E6%9A%91%E5%81%87%E5%B7%A5%E4%B8%8A%E7%8F%AD%E4%BA%86",
+        "hot": 806208,
+        "source": "微博",
+        "rank": 5,
+        "category": "医疗"
+      },
+      {
+        "title": "邓紫棋杭州演唱会取消",
+        "url": "https://s.weibo.com/weibo?q=%E9%82%93%E7%B4%AB%E6%A3%8B%E6%9D%AD%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8F%96%E6%B6%88",
+        "hot": 751728,
+        "source": "微博",
+        "rank": 6,
+        "category": "医疗"
+      }
+    ],
+    "财经": [
+      {
+        "title": "台风",
+        "url": "https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E",
+        "hot": 2611044,
+        "source": "微博",
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "title": "埃及教练向阿根廷运动员吐口水",
+        "url": "https://s.weibo.com/weibo?q=%E5%9F%83%E5%8F%8A%E6%95%99%E7%BB%83%E5%90%91%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%BF%90%E5%8A%A8%E5%91%98%E5%90%90%E5%8F%A3%E6%B0%B4",
+        "hot": 997678,
+        "source": "微博",
+        "rank": 2,
+        "category": "财经"
+      },
+      {
+        "title": "9个台风天安全提醒",
+        "url": "https://s.weibo.com/weibo?q=9%E4%B8%AA%E5%8F%B0%E9%A3%8E%E5%A4%A9%E5%AE%89%E5%85%A8%E6%8F%90%E9%86%92",
+        "hot": 812647,
+        "source": "微博",
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "title": "明显能感受到暑假工上班了",
+        "url": "https://s.weibo.com/weibo?q=%E6%98%8E%E6%98%BE%E8%83%BD%E6%84%9F%E5%8F%97%E5%88%B0%E6%9A%91%E5%81%87%E5%B7%A5%E4%B8%8A%E7%8F%AD%E4%BA%86",
+        "hot": 806208,
+        "source": "微博",
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "title": "邓紫棋杭州演唱会取消",
+        "url": "https://s.weibo.com/weibo?q=%E9%82%93%E7%B4%AB%E6%A3%8B%E6%9D%AD%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8F%96%E6%B6%88",
+        "hot": 751728,
+        "source": "微博",
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "title": "C罗乘私人飞机离开",
+        "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E4%B9%98%E7%A7%81%E4%BA%BA%E9%A3%9E%E6%9C%BA%E7%A6%BB%E5%BC%80",
+        "hot": 689917,
+        "source": "微博",
+        "rank": 6,
+        "category": "财经"
+      }
+    ],
+    "体育": [
+      {
+        "title": "最新世界杯夺冠概率出炉",
+        "url": "https://s.weibo.com/weibo?q=%E6%9C%80%E6%96%B0%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%BA%E5%86%A0%E6%A6%82%E7%8E%87%E5%87%BA%E7%82%89",
+        "hot": 686271,
+        "source": "微博",
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "title": "世界杯四分之一决赛门票暴跌近60%",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%9B%9B%E5%88%86%E4%B9%8B%E4%B8%80%E5%86%B3%E8%B5%9B%E9%97%A8%E7%A5%A8%E6%9A%B4%E8%B7%8C%E8%BF%9160%25",
+        "hot": 677107,
+        "source": "微博",
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "title": "世界杯八强球员停赛风险",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%85%AB%E5%BC%BA%E7%90%83%E5%91%98%E5%81%9C%E8%B5%9B%E9%A3%8E%E9%99%A9",
+        "hot": 558671,
+        "source": "微博",
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "title": "台风",
+        "url": "https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E",
+        "hot": 2611044,
+        "source": "微博",
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "title": "埃及教练向阿根廷运动员吐口水",
+        "url": "https://s.weibo.com/weibo?q=%E5%9F%83%E5%8F%8A%E6%95%99%E7%BB%83%E5%90%91%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%BF%90%E5%8A%A8%E5%91%98%E5%90%90%E5%8F%A3%E6%B0%B4",
+        "hot": 997678,
+        "source": "微博",
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "title": "9个台风天安全提醒",
+        "url": "https://s.weibo.com/weibo?q=9%E4%B8%AA%E5%8F%B0%E9%A3%8E%E5%A4%A9%E5%AE%89%E5%85%A8%E6%8F%90%E9%86%92",
+        "hot": 812647,
+        "source": "微博",
+        "rank": 6,
+        "category": "体育"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "从空间站俯瞰台风巴威有多大",
+        "url": "https://www.douyin.com/search/%E4%BB%8E%E7%A9%BA%E9%97%B4%E7%AB%99%E4%BF%AF%E7%9E%B0%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E6%9C%89%E5%A4%9A%E5%A4%A7",
+        "hot": 11970489,
+        "source": "抖音",
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "title": "万物皆可波点风",
+        "url": "https://www.douyin.com/search/%E4%B8%87%E7%89%A9%E7%9A%86%E5%8F%AF%E6%B3%A2%E7%82%B9%E9%A3%8E",
+        "hot": 11862920,
+        "source": "抖音",
+        "rank": 2,
+        "category": "游戏"
+      },
+      {
+        "title": "我国人工智能产业加速发展壮大",
+        "url": "https://www.douyin.com/search/%E6%88%91%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%BA%A7%E4%B8%9A%E5%8A%A0%E9%80%9F%E5%8F%91%E5%B1%95%E5%A3%AE%E5%A4%A7",
+        "hot": 11694361,
+        "source": "抖音",
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "title": "直击洪水洪峰过境",
+        "url": "https://www.douyin.com/search/%E7%9B%B4%E5%87%BB%E6%B4%AA%E6%B0%B4%E6%B4%AA%E5%B3%B0%E8%BF%87%E5%A2%83",
+        "hot": 11565997,
+        "source": "抖音",
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "title": "17级台风威力有多大",
+        "url": "https://www.douyin.com/search/17%E7%BA%A7%E5%8F%B0%E9%A3%8E%E5%A8%81%E5%8A%9B%E6%9C%89%E5%A4%9A%E5%A4%A7",
+        "hot": 10557062,
+        "source": "抖音",
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "title": "小个子的夏日氛围感穿搭",
+        "url": "https://www.douyin.com/search/%E5%B0%8F%E4%B8%AA%E5%AD%90%E7%9A%84%E5%A4%8F%E6%97%A5%E6%B0%9B%E5%9B%B4%E6%84%9F%E7%A9%BF%E6%90%AD",
+        "hot": 10541466,
+        "source": "抖音",
+        "rank": 6,
+        "category": "游戏"
+      }
+    ],
+    "汽车": [
+      {
+        "title": "比亚迪第1700万辆新能源汽车下线",
+        "url": "https://s.weibo.com/weibo?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%E7%AC%AC1700%E4%B8%87%E8%BE%86%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E4%B8%8B%E7%BA%BF",
+        "hot": 571256,
+        "source": "微博",
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "title": "台风",
+        "url": "https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E",
+        "hot": 2611044,
+        "source": "微博",
+        "rank": 2,
+        "category": "汽车"
+      },
+      {
+        "title": "埃及教练向阿根廷运动员吐口水",
+        "url": "https://s.weibo.com/weibo?q=%E5%9F%83%E5%8F%8A%E6%95%99%E7%BB%83%E5%90%91%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%BF%90%E5%8A%A8%E5%91%98%E5%90%90%E5%8F%A3%E6%B0%B4",
+        "hot": 997678,
+        "source": "微博",
+        "rank": 3,
+        "category": "汽车"
+      },
+      {
+        "title": "9个台风天安全提醒",
+        "url": "https://s.weibo.com/weibo?q=9%E4%B8%AA%E5%8F%B0%E9%A3%8E%E5%A4%A9%E5%AE%89%E5%85%A8%E6%8F%90%E9%86%92",
+        "hot": 812647,
+        "source": "微博",
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "title": "明显能感受到暑假工上班了",
+        "url": "https://s.weibo.com/weibo?q=%E6%98%8E%E6%98%BE%E8%83%BD%E6%84%9F%E5%8F%97%E5%88%B0%E6%9A%91%E5%81%87%E5%B7%A5%E4%B8%8A%E7%8F%AD%E4%BA%86",
+        "hot": 806208,
+        "source": "微博",
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "title": "邓紫棋杭州演唱会取消",
+        "url": "https://s.weibo.com/weibo?q=%E9%82%93%E7%B4%AB%E6%A3%8B%E6%9D%AD%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8F%96%E6%B6%88",
+        "hot": 751728,
+        "source": "微博",
+        "rank": 6,
+        "category": "汽车"
+      }
+    ],
+    "美食": [
+      {
+        "title": "和雷霆美食ride or die",
+        "url": "https://www.douyin.com/search/%E5%92%8C%E9%9B%B7%E9%9C%86%E7%BE%8E%E9%A3%9Fride%20or%20die",
+        "hot": 7715628,
+        "source": "抖音",
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "title": "台风",
+        "url": "https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E",
+        "hot": 2611044,
+        "source": "微博",
+        "rank": 2,
+        "category": "美食"
+      },
+      {
+        "title": "埃及教练向阿根廷运动员吐口水",
+        "url": "https://s.weibo.com/weibo?q=%E5%9F%83%E5%8F%8A%E6%95%99%E7%BB%83%E5%90%91%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%BF%90%E5%8A%A8%E5%91%98%E5%90%90%E5%8F%A3%E6%B0%B4",
+        "hot": 997678,
+        "source": "微博",
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "title": "9个台风天安全提醒",
+        "url": "https://s.weibo.com/weibo?q=9%E4%B8%AA%E5%8F%B0%E9%A3%8E%E5%A4%A9%E5%AE%89%E5%85%A8%E6%8F%90%E9%86%92",
+        "hot": 812647,
+        "source": "微博",
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "title": "明显能感受到暑假工上班了",
+        "url": "https://s.weibo.com/weibo?q=%E6%98%8E%E6%98%BE%E8%83%BD%E6%84%9F%E5%8F%97%E5%88%B0%E6%9A%91%E5%81%87%E5%B7%A5%E4%B8%8A%E7%8F%AD%E4%BA%86",
+        "hot": 806208,
+        "source": "微博",
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "title": "邓紫棋杭州演唱会取消",
+        "url": "https://s.weibo.com/weibo?q=%E9%82%93%E7%B4%AB%E6%A3%8B%E6%9D%AD%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8F%96%E6%B6%88",
+        "hot": 751728,
+        "source": "微博",
+        "rank": 6,
+        "category": "美食"
+      }
+    ],
+    "旅游": [
+      {
+        "title": "看王俊凯演唱会机票打折",
+        "url": "https://s.weibo.com/weibo?q=%E7%9C%8B%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%BC%94%E5%94%B1%E4%BC%9A%E6%9C%BA%E7%A5%A8%E6%89%93%E6%8A%98",
+        "hot": 548621,
+        "source": "微博",
+        "rank": 1,
+        "category": "旅游"
+      },
+      {
+        "title": "台风",
+        "url": "https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E",
+        "hot": 2611044,
+        "source": "微博",
+        "rank": 2,
+        "category": "旅游"
+      },
+      {
+        "title": "埃及教练向阿根廷运动员吐口水",
+        "url": "https://s.weibo.com/weibo?q=%E5%9F%83%E5%8F%8A%E6%95%99%E7%BB%83%E5%90%91%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%BF%90%E5%8A%A8%E5%91%98%E5%90%90%E5%8F%A3%E6%B0%B4",
+        "hot": 997678,
+        "source": "微博",
+        "rank": 3,
+        "category": "旅游"
+      },
+      {
+        "title": "9个台风天安全提醒",
+        "url": "https://s.weibo.com/weibo?q=9%E4%B8%AA%E5%8F%B0%E9%A3%8E%E5%A4%A9%E5%AE%89%E5%85%A8%E6%8F%90%E9%86%92",
+        "hot": 812647,
+        "source": "微博",
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "title": "明显能感受到暑假工上班了",
+        "url": "https://s.weibo.com/weibo?q=%E6%98%8E%E6%98%BE%E8%83%BD%E6%84%9F%E5%8F%97%E5%88%B0%E6%9A%91%E5%81%87%E5%B7%A5%E4%B8%8A%E7%8F%AD%E4%BA%86",
+        "hot": 806208,
+        "source": "微博",
+        "rank": 5,
+        "category": "旅游"
+      },
+      {
+        "title": "邓紫棋杭州演唱会取消",
+        "url": "https://s.weibo.com/weibo?q=%E9%82%93%E7%B4%AB%E6%A3%8B%E6%9D%AD%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8F%96%E6%B6%88",
+        "hot": 751728,
+        "source": "微博",
+        "rank": 6,
+        "category": "旅游"
+      }
+    ],
+    "军事": [
+      {
+        "title": "台风",
+        "url": "https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E",
+        "hot": 2611044,
+        "source": "微博",
+        "rank": 1,
+        "category": "军事"
+      },
+      {
+        "title": "埃及教练向阿根廷运动员吐口水",
+        "url": "https://s.weibo.com/weibo?q=%E5%9F%83%E5%8F%8A%E6%95%99%E7%BB%83%E5%90%91%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%BF%90%E5%8A%A8%E5%91%98%E5%90%90%E5%8F%A3%E6%B0%B4",
+        "hot": 997678,
+        "source": "微博",
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "title": "9个台风天安全提醒",
+        "url": "https://s.weibo.com/weibo?q=9%E4%B8%AA%E5%8F%B0%E9%A3%8E%E5%A4%A9%E5%AE%89%E5%85%A8%E6%8F%90%E9%86%92",
+        "hot": 812647,
+        "source": "微博",
+        "rank": 3,
+        "category": "军事"
+      },
+      {
+        "title": "明显能感受到暑假工上班了",
+        "url": "https://s.weibo.com/weibo?q=%E6%98%8E%E6%98%BE%E8%83%BD%E6%84%9F%E5%8F%97%E5%88%B0%E6%9A%91%E5%81%87%E5%B7%A5%E4%B8%8A%E7%8F%AD%E4%BA%86",
+        "hot": 806208,
+        "source": "微博",
+        "rank": 4,
+        "category": "军事"
+      },
+      {
+        "title": "邓紫棋杭州演唱会取消",
+        "url": "https://s.weibo.com/weibo?q=%E9%82%93%E7%B4%AB%E6%A3%8B%E6%9D%AD%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8F%96%E6%B6%88",
+        "hot": 751728,
+        "source": "微博",
+        "rank": 5,
+        "category": "军事"
+      },
+      {
+        "title": "C罗乘私人飞机离开",
+        "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E4%B9%98%E7%A7%81%E4%BA%BA%E9%A3%9E%E6%9C%BA%E7%A6%BB%E5%BC%80",
+        "hot": 689917,
+        "source": "微博",
+        "rank": 6,
+        "category": "军事"
+      }
+    ],
+    "国际": [
+      {
+        "title": "俄方为何改口称俄乌冲突是真正战争",
+        "url": "https://www.toutiao.com/trending/7660119493091266058",
+        "hot": 24495266,
+        "source": "今日头条",
+        "rank": 1,
+        "category": "国际"
+      },
+      {
+        "title": "全球资产比价体系崩塌了吗",
+        "url": "https://www.toutiao.com/trending/7660145419036397075",
+        "hot": 903463,
+        "source": "今日头条",
+        "rank": 2,
+        "category": "国际"
+      },
+      {
+        "title": "台风",
+        "url": "https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E",
+        "hot": 2611044,
+        "source": "微博",
+        "rank": 3,
+        "category": "国际"
+      },
+      {
+        "title": "埃及教练向阿根廷运动员吐口水",
+        "url": "https://s.weibo.com/weibo?q=%E5%9F%83%E5%8F%8A%E6%95%99%E7%BB%83%E5%90%91%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%BF%90%E5%8A%A8%E5%91%98%E5%90%90%E5%8F%A3%E6%B0%B4",
+        "hot": 997678,
+        "source": "微博",
+        "rank": 4,
+        "category": "国际"
+      },
+      {
+        "title": "9个台风天安全提醒",
+        "url": "https://s.weibo.com/weibo?q=9%E4%B8%AA%E5%8F%B0%E9%A3%8E%E5%A4%A9%E5%AE%89%E5%85%A8%E6%8F%90%E9%86%92",
+        "hot": 812647,
+        "source": "微博",
+        "rank": 5,
+        "category": "国际"
+      },
+      {
+        "title": "明显能感受到暑假工上班了",
+        "url": "https://s.weibo.com/weibo?q=%E6%98%8E%E6%98%BE%E8%83%BD%E6%84%9F%E5%8F%97%E5%88%B0%E6%9A%91%E5%81%87%E5%B7%A5%E4%B8%8A%E7%8F%AD%E4%BA%86",
+        "hot": 806208,
+        "source": "微博",
+        "rank": 6,
+        "category": "国际"
+      }
+    ],
+    "文化": [
+      {
+        "title": "台风「巴威」直径超1500公里、超强级别维持达4天，这意味着什么？登陆时破坏力将有多大？",
+        "url": "https://www.zhihu.com/question/2057957666412913655",
+        "hot": null,
+        "source": "知乎",
+        "rank": 1,
+        "category": "文化"
+      },
+      {
+        "title": "网友吐槽「等退休」是一场巨大的骗局，称年轻时透支身体退休后只能养病，对此你有哪些感触？",
+        "url": "https://www.zhihu.com/question/2057838508215988928",
+        "hot": null,
+        "source": "知乎",
+        "rank": 2,
+        "category": "文化"
+      },
+      {
+        "title": "曾年销 26 万台的比亚迪秦 L 被曝停产，这是出于哪些商业考量？",
+        "url": "https://www.zhihu.com/question/2057993033182978590",
+        "hot": null,
+        "source": "知乎",
+        "rank": 3,
+        "category": "文化"
+      },
+      {
+        "title": "如何评价大二女生高考失利无缘一本，毅然选择贷款两百万创办民宿，如今营收千万开启逆袭人生？",
+        "url": "https://www.zhihu.com/question/2057932320250795330",
+        "hot": null,
+        "source": "知乎",
+        "rank": 4,
+        "category": "文化"
+      },
+      {
+        "title": "市面上那么多种虾，哪种虾最好吃？",
+        "url": "https://www.zhihu.com/question/272244963",
+        "hot": null,
+        "source": "知乎",
+        "rank": 5,
+        "category": "文化"
+      },
+      {
+        "title": "小米汽车新产品系列定名为「skynomad」，如何解读这一名称背后的含义与品牌策略？",
+        "url": "https://www.zhihu.com/question/2058113452170798939",
+        "hot": null,
+        "source": "知乎",
+        "rank": 6,
+        "category": "文化"
+      }
+    ]
+  },
+  "total": 124
+}
