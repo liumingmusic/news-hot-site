@@ -216,6 +216,90 @@ a { color: inherit; text-decoration: none; }
   line-height: 1.65;
 }
 
+/* ---------- 今日头版（置顶醒目） ---------- */
+.headlines {
+  max-width: var(--maxw); margin: 18px auto 0; padding: 0 20px;
+}
+.headlines-head {
+  font-size: 15px; font-weight: 800; color: var(--accent);
+  letter-spacing: .3px; margin: 0 0 13px;
+  display: flex; align-items: center; gap: 7px;
+  padding-left: 12px; position: relative;
+}
+.headlines-head::before {
+  content: ''; position: absolute; left: 0; top: 1px; bottom: 1px;
+  width: 4px; border-radius: 4px; background: var(--accent);
+}
+.headlines-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 14px;
+}
+.head-line-card {
+  position: relative; overflow: hidden;
+  background: linear-gradient(180deg,#fff,#fffdfb);
+  border: 1.5px solid var(--border);
+  border-radius: 16px; padding: 17px 18px 15px 19px;
+  box-shadow: var(--shadow-sm);
+  transition: transform .15s ease, box-shadow .15s ease, border-color .15s ease;
+}
+.head-line-card::before {
+  content: ''; position: absolute; left: 0; top: 0; bottom: 0;
+  width: 4px; background: linear-gradient(180deg,#ff8a4c,#ff543c);
+}
+.head-line-card:hover {
+  transform: translateY(-3px); box-shadow: var(--shadow-md);
+  border-color: #ffd9cf;
+}
+.hl-badge {
+  position: absolute; top: 13px; right: 14px;
+  font-size: 11px; font-weight: 800; letter-spacing: .5px;
+  color: #fff; background: linear-gradient(135deg,#ff8a4c,#ff543c);
+  padding: 2px 9px; border-radius: 999px;
+  box-shadow: 0 2px 6px rgba(255,84,60,.3);
+}
+.hl-domain {
+  display: inline-flex; align-items: center; gap: 5px;
+  font-size: 12.5px; font-weight: 700; color: var(--accent);
+  background: var(--accent-soft); padding: 3px 10px; border-radius: 999px;
+  margin-bottom: 9px;
+}
+.hl-title {
+  margin: 0 0 8px; font-weight: 750; line-height: 1.42;
+  font-size: 17px; color: var(--text);
+  display: -webkit-box; -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical; overflow: hidden;
+}
+.hl-title a:hover { color: var(--accent); }
+.hl-desc {
+  margin: 0 0 11px; font-size: 13.5px; color: var(--muted);
+  line-height: 1.62;
+  display: -webkit-box; -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical; overflow: hidden;
+}
+.hl-meta {
+  display: flex; align-items: center; gap: 10px;
+  font-size: 12px; color: var(--muted); flex-wrap: wrap;
+}
+/* 头条主稿（第一条）：更大气、整行铺开 */
+.head-line-card.lead {
+  grid-column: 1 / -1;
+  background: linear-gradient(115deg,#fff,#fff6f2 60%,#ffeede);
+  padding: 22px 26px 20px 26px;
+}
+.head-line-card.lead .hl-title {
+  font-size: 24px; font-weight: 800; line-height: 1.34;
+}
+.head-line-card.lead .hl-desc {
+  font-size: 14.5px; line-height: 1.66; margin-bottom: 13px;
+}
+.head-line-card.lead .hl-domain {
+  font-size: 13.5px; padding: 4px 12px; margin-bottom: 11px;
+}
+.head-line-card.lead .hl-badge {
+  top: 18px; right: 20px; font-size: 12px; padding: 3px 11px;
+}
+
 
 /* ════════════════════════════════════════
    📱 手机端适配（≤ 720px）
@@ -264,6 +348,20 @@ a { color: inherit; text-decoration: none; }
   /* 单列卡片 */
   .grid { grid-template-columns: 1fr; gap: 11px; }
 
+  /* 头版 */
+  .headlines { padding: 0 13px; margin-top: 12px; }
+  .headlines-head { font-size: 14px; margin-bottom: 11px; }
+  .headlines-grid { grid-template-columns: 1fr; gap: 11px; }
+  .head-line-card { padding: 15px 15px 13px 17px; border-radius: 14px; }
+  .head-line-card::before { width: 3.5px; }
+  .hl-badge { top: 11px; right: 12px; }
+  .hl-domain { font-size: 12px; margin-bottom: 8px; }
+  .hl-title { font-size: 16px; line-height: 1.44; margin-bottom: 7px; }
+  .hl-desc { font-size: 13px; line-height: 1.58; margin-bottom: 10px; }
+  .head-line-card.lead { padding: 17px 17px 15px 18px; }
+  .head-line-card.lead .hl-title { font-size: 19px; line-height: 1.38; }
+  .head-line-card.lead .hl-desc { font-size: 13.5px; }
+
   /* 卡片加大内边距和触控区域 */
   .card {
     padding: 14px 14px 12px; gap: 12px;
@@ -292,4 +390,6 @@ a { color: inherit; text-decoration: none; }
   .tabs-wrap { padding: 4px 10px 8px; }
   .content { padding: 0 11px; }
   #search, #history { height: 40px; }
+  .head-line-card.lead .hl-title { font-size: 17px; }
+  .head-line-card.lead { padding: 15px 14px 13px 15px; }
 }

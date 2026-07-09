@@ -7,6 +7,7 @@ const contentEl = document.getElementById('content');
 const historyEl = document.getElementById('history');
 const searchEl = document.getElementById('search');
 const updatedEl = document.getElementById('updated');
+const headlinesEl = document.getElementById('headlines');
 
 const state = { manifest: null, snapshot: null, domain: '全部', query: '' };
 
@@ -105,6 +106,7 @@ async function loadSnapshot(file) {
   }
   state.domain = '全部';
   buildTabs(Object.keys(state.snapshot.categories || {}));
+  renderHeadlines();
   render();
 }
 
@@ -177,6 +179,69 @@ function cardHtml(it) {
       <div class="card-meta">${meta.join('')}</div>
     </div>
   </article>`;
+}
+
+// ---------- 今日头版（置顶） ----------
+function hotRankClient(hot) {
+  if (hot == null) return -1;
+  const n = typeof hot === 'number' ? hot : parseFloat(String(hot).replace(/[^0-9.]/g, ''));
+  return isNaN(n) ? -1 : n;
+}
+
+// 兼容旧快照（无 headlines 字段）：取每个领域最热 1 条，按热度排前 6
+function buildHeadlinesFallback(categories) {
+  const arr = Object.entries(categories || {})
+    .filter(([, items]) => Array.isArray(items) && items.length)
+    .map(([domain, items]) => ({ ...items[0], _domain: domain }));
+  arr.sort((a, b) => hotRankClient(b.hot) - hotRankClient(a.hot));
+  return arr.slice(0, 6);
+}
+
+function getHeadlines() {
+  const snap = state.snapshot;
+  if (!snap) return [];
+  if (Array.isArray(snap.headlines) && snap.headlines.length) return snap.headlines;
+  return buildHeadlinesFallback(snap.categories || {});
+}
+
+function headlineCardHtml(it, idx) {
+  const isLead = idx === 0;
+  const domain = it._domain || it.category || '';
+  const emoji = DOMAIN_EMOJI[domain] || '📌';
+  const hot = formatHot(it.hot);
+  const time = formatTime(it.time);
+  const desc = (it.desc || '').trim();
+  const titleHtml = it.url
+    ? `<a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a>`
+    : esc(it.title);
+  const descHtml = desc ? `<p class="hl-desc">${esc(desc)}</p>` : '';
+  const meta = [];
+  if (it.source) meta.push(`<span class="meta-source">${esc(it.source)}</span>`);
+  if (time) meta.push(`<span class="meta-time">🕒 ${esc(time)}</span>`);
+  if (hot) meta.push(`<span class="meta-hot">🔥 ${esc(hot)}</span>`);
+  return `<article class="head-line-card${isLead ? ' lead' : ''}">
+    <div class="hl-badge">头版</div>
+    <div class="hl-body">
+      ${domain ? `<span class="hl-domain">${emoji} ${esc(domain)}</span>` : ''}
+      <h3 class="hl-title">${titleHtml}</h3>
+      ${descHtml}
+      <div class="hl-meta">${meta.join('')}</div>
+    </div>
+  </article>`;
+}
+
+function renderHeadlines() {
+  if (!headlinesEl) return;
+  const items = getHeadlines();
+  if (!items.length) {
+    headlinesEl.style.display = 'none';
+    headlinesEl.innerHTML = '';
+    return;
+  }
+  headlinesEl.style.display = '';
+  const cards = items.map((it, i) => headlineCardHtml(it, i)).join('');
+  headlinesEl.innerHTML =
+    `<div class="headlines-head">🔥 今日头版 · 各大领域最热</div><div class="headlines-grid">${cards}</div>`;
 }
 
 init();

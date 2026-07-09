@@ -21,6 +21,9 @@ const RETENTION_DAYS = Number(process.env.RETENTION_DAYS || 30);
 const MAX_PER_DOMAIN = 12; // 每个领域最多 12 条
 const MIN_PER_DOMAIN = 6;  // 每个领域至少 6 条（不足则用各平台热榜补齐）
 
+const HEADLINE_PER_DOMAIN = 2; // 每个领域最多贡献几条头版
+const HEADLINE_TOTAL = 6;      // 头版总数上限
+
 // DailyHotApi 兼容实例列表（逗号分隔可覆盖，按顺序自动回退）
 const FULL_PROVIDERS = (process.env.DAILYHOT_API_BASE ||
   'https://api-hot.imsyy.top,https://hot-api.efefee.cn,https://api.66mz.top,' +
@@ -184,6 +187,48 @@ function hotRank(hot) {
   return isNaN(n) ? -1 : n;
 }
 
+// 头版新闻：从各分类最热的条目里，轮转交错选出「配得上头版」的若干条。
+// - 先按「各领域最热条目的热度」给领域排序，越热的领域越优先出场
+// - 再轮转（round-robin）取每个领域 next 未占用的条目，保证领域交错、像真正的报纸头版
+// - 跨领域按 标题/链接 去重：同一件事不会在头版里出现两次
+// - 每个领域最多 HEADLINE_PER_DOMAIN 条，总数上限 HEADLINE_TOTAL
+function buildHeadlines(categories) {
+  const byDomain = Object.entries(categories || {})
+    .filter(([, items]) => Array.isArray(items) && items.length)
+    .map(([domain, items]) => [domain, items.slice(0, HEADLINE_PER_DOMAIN)]);
+
+  // 领域按「其最热条目」的热度降序排列
+  byDomain.sort((a, b) => hotRank((b[1][0] || {}).hot) - hotRank((a[1][0] || {}).hot));
+
+  const out = [];
+  const used = {};        // 每个领域已消耗的条目下标
+  const seenTitle = new Set();
+  const seenUrl = new Set();
+  let guard = 0;
+  while (out.length < HEADLINE_TOTAL && guard++ < 500) {
+    let added = false;
+    for (const [domain, items] of byDomain) {
+      if (out.length >= HEADLINE_TOTAL) break;
+      // 在该领域内找下一条「未被头版占用」的条目
+      let idx = used[domain] || 0;
+      while (idx < items.length) {
+        const it = items[idx];
+        const key = it.title || it.url || '';
+        const u = it.url || '';
+        if ((key && seenTitle.has(key)) || (u && seenUrl.has(u))) { idx++; continue; }
+        out.push({ ...it, _domain: domain });
+        if (key) seenTitle.add(key);
+        if (u) seenUrl.add(u);
+        used[domain] = idx + 1;
+        added = true;
+        break;
+      }
+    }
+    if (!added) break;
+  }
+  return out;
+}
+
 function fmtFile(d) {
   const p = (n) => String(n).padStart(2, '0');
   return `${d.getUTCFullYear()}-${p(d.getUTCMonth() + 1)}-${p(d.getUTCDate())}T${p(d.getUTCHours())}-${p(d.getUTCMinutes())}-${p(d.getUTCSeconds())}Z`;
@@ -322,9 +367,18 @@ async function main() {
 
   const total = Object.values(counts).reduce((a, b) => a + b, 0);
 
+  // 头版：从各分类最热条目里轮转交错选出 6 条，置顶展示
+  const headlines = buildHeadlines(categories);
+
   await mkdir(SNAP_DIR, { recursive: true });
   const file = fmtFile(generatedAt) + '.json';
-  const snapshot = { generatedAt: generatedAt.toISOString(), source: fullBase || '60s.viki.moe', categories, total };
+  const snapshot = {
+    generatedAt: generatedAt.toISOString(),
+    source: fullBase || '60s.viki.moe',
+    headlines,
+    categories,
+    total,
+  };
   await writeFile(join(SNAP_DIR, file), JSON.stringify(snapshot, null, 2), 'utf8');
 
   // 更新 manifest + 清理
@@ -346,8 +400,9 @@ async function main() {
   manifest.snapshots = keep;
   await writeFile(MANIFEST, JSON.stringify(manifest, null, 2), 'utf8');
 
-  console.log(`[info] 已写入 ${file}，总计 ${total} 条，保留快照 ${keep.length} 个`);
+  console.log(`[info] 已写入 ${file}，总计 ${total} 条，头版 ${headlines.length} 条，保留快照 ${keep.length} 个`);
   console.log(`[info] 各域条数: ${Object.entries(counts).map(([k, v]) => `${k}:${v}`).join('  ')}`);
+  console.log(`[info] 头版领域: ${headlines.map((h) => (h._domain || h.category)).join(' / ')}`);
 }
 
 main().catch((e) => { console.error('[error]', e); process.exit(1); });
