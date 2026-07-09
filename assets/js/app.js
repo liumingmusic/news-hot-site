@@ -19,6 +19,28 @@ const DOMAIN_EMOJI = {
   国际: '🌐', 文化: '🎭',
 };
 
+// 领域对应的专属配色（标签激活色 / 卡片左侧条 / 排名徽章 / 头版标签 等均跟随此色）
+const DOMAIN_COLOR = {
+  全部: '#ff5a3c',     // 站点主色（橙红）
+  科技: '#2563eb',     // 蓝
+  人工智能: '#8b5cf6', // 紫
+  人文: '#b45309',     // 琥珀棕
+  社会: '#0d9488',     // 青
+  教育: '#4338ca',     // 靛
+  娱乐: '#ec4899',     // 粉
+  医疗: '#dc2626',     // 红
+  财经: '#059669',     // 翠绿
+  体育: '#ea580c',     // 橙
+  游戏: '#7c3aed',     // 紫罗兰
+  汽车: '#0284c7',     // 天蓝
+  美食: '#d97706',     // 橙黄
+  旅游: '#06b6d4',     // 青蓝
+  军事: '#65a30d',     // 橄榄绿
+  国际: '#1e3a8a',     // 深蓝
+  文化: '#c026d3',     // 品红
+};
+function colorOf(name) { return DOMAIN_COLOR[name] || 'var(--accent)'; }
+
 function esc(s) {
   return String(s == null ? '' : s).replace(
     /[&<>"']/g,
@@ -116,6 +138,7 @@ function buildTabs(cats) {
     const b = document.createElement('button');
     b.className = 'tab' + (name === state.domain ? ' active' : '');
     b.innerHTML = `<span class="tab-emoji">${DOMAIN_EMOJI[name] || '📌'}</span>${esc(name)}`;
+    b.style.setProperty('--c', colorOf(name));
     b.onclick = () => {
       state.domain = name;
       [...tabsEl.children].forEach((c) => c.classList.remove('active'));
@@ -147,7 +170,7 @@ function render() {
       : items;
     if (!filtered.length) continue;
     const emoji = DOMAIN_EMOJI[d] || '📌';
-    html += `<section class="domain"><h2 class="domain-title"><span class="domain-emoji">${emoji}</span>${esc(d)} <span class="count">${filtered.length}</span></h2><div class="grid">`;
+    html += `<section class="domain" style="--c:${colorOf(d)}"><h2 class="domain-title"><span class="domain-emoji">${emoji}</span>${esc(d)} <span class="count">${filtered.length}</span></h2><div class="grid">`;
     for (const it of filtered) html += cardHtml(it);
     html += '</div></section>';
   }
@@ -171,7 +194,7 @@ function cardHtml(it) {
   if (time) meta.push(`<span class="meta-time">🕒 ${esc(time)}</span>`);
   if (hot) meta.push(`<span class="meta-hot">🔥 ${esc(hot)}</span>`);
 
-  return `<article class="card">
+  return `<article class="card" style="--c:${colorOf(it.category)}">
     <div class="card-rank${it.rank <= 3 ? ' top' : ''}">${esc(it.rank)}</div>
     <div class="card-body">
       <h3 class="card-title">${titleHtml}</h3>
@@ -219,7 +242,7 @@ function headlineCardHtml(it, idx) {
   if (it.source) meta.push(`<span class="meta-source">${esc(it.source)}</span>`);
   if (time) meta.push(`<span class="meta-time">🕒 ${esc(time)}</span>`);
   if (hot) meta.push(`<span class="meta-hot">🔥 ${esc(hot)}</span>`);
-  return `<article class="head-line-card${isLead ? ' lead' : ''}">
+  return `<article class="head-line-card${isLead ? ' lead' : ''}" style="--c:${colorOf(domain)}">
     <div class="hl-badge">头版</div>
     <div class="hl-body">
       ${domain ? `<span class="hl-domain">${emoji} ${esc(domain)}</span>` : ''}
