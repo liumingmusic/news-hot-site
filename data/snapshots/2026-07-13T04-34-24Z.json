@@ -1,0 +1,1107 @@
+{
+  "generatedAt": "2026-07-13T04:34:24.524Z",
+  "source": "60s.viki.moe",
+  "headlines": [
+    {
+      "title": "贵州火把节已经准备就绪了",
+      "url": "https://www.douyin.com/search/%E8%B4%B5%E5%B7%9E%E7%81%AB%E6%8A%8A%E8%8A%82%E5%B7%B2%E7%BB%8F%E5%87%86%E5%A4%87%E5%B0%B1%E7%BB%AA%E4%BA%86",
+      "hot": 11983924,
+      "desc": "",
+      "time": null,
+      "source": "抖音",
+      "rank": 1,
+      "category": "游戏",
+      "_domain": "游戏"
+    },
+    {
+      "title": "我国多领域解锁硬核成就",
+      "url": "https://www.douyin.com/search/%E6%88%91%E5%9B%BD%E5%A4%9A%E9%A2%86%E5%9F%9F%E8%A7%A3%E9%94%81%E7%A1%AC%E6%A0%B8%E6%88%90%E5%B0%B1",
+      "hot": 11607747,
+      "desc": "",
+      "time": null,
+      "source": "抖音",
+      "rank": 1,
+      "category": "娱乐",
+      "_domain": "娱乐"
+    },
+    {
+      "title": "阿根廷申请半决赛穿客场队服",
+      "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%94%B3%E8%AF%B7%E5%8D%8A%E5%86%B3%E8%B5%9B%E7%A9%BF%E5%AE%A2%E5%9C%BA%E9%98%9F%E6%9C%8D",
+      "hot": 1672964,
+      "desc": "",
+      "time": null,
+      "source": "微博",
+      "rank": 1,
+      "category": "医疗",
+      "_domain": "医疗"
+    },
+    {
+      "title": "巴威明天入海",
+      "url": "https://s.weibo.com/weibo?q=%E5%B7%B4%E5%A8%81%E6%98%8E%E5%A4%A9%E5%85%A5%E6%B5%B7",
+      "hot": 937501,
+      "desc": "",
+      "time": null,
+      "source": "微博",
+      "rank": 2,
+      "category": "财经",
+      "_domain": "财经"
+    },
+    {
+      "title": "原来打羽毛球是为了让对方接到",
+      "url": "https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E6%89%93%E7%BE%BD%E6%AF%9B%E7%90%83%E6%98%AF%E4%B8%BA%E4%BA%86%E8%AE%A9%E5%AF%B9%E6%96%B9%E6%8E%A5%E5%88%B0",
+      "hot": 913444,
+      "desc": "",
+      "time": null,
+      "source": "微博",
+      "rank": 2,
+      "category": "体育",
+      "_domain": "体育"
+    },
+    {
+      "title": "美国共和党鹰派参议员死因披露",
+      "url": "https://www.toutiao.com/trending/7661794128124071474",
+      "hot": 963385,
+      "desc": "",
+      "time": null,
+      "source": "今日头条",
+      "rank": 2,
+      "category": "国际",
+      "_domain": "国际"
+    }
+  ],
+  "categories": {
+    "科技": [
+      {
+        "title": "长鑫科技超6000员工获股份",
+        "url": "https://s.weibo.com/weibo?q=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E8%B6%856000%E5%91%98%E5%B7%A5%E8%8E%B7%E8%82%A1%E4%BB%BD",
+        "hot": 387841,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "title": "小米SU7成20万以上轿车6月销量第一",
+        "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3SU7%E6%88%9020%E4%B8%87%E4%BB%A5%E4%B8%8A%E8%BD%BF%E8%BD%A66%E6%9C%88%E9%94%80%E9%87%8F%E7%AC%AC%E4%B8%80",
+        "hot": 376949,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "title": "长鑫科技申购",
+        "url": "https://s.weibo.com/weibo?q=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E7%94%B3%E8%B4%AD",
+        "hot": 369898,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "title": "雷军回应小米SU7上半年销量冠军",
+        "url": "https://s.weibo.com/weibo?q=%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E5%B0%8F%E7%B1%B3SU7%E4%B8%8A%E5%8D%8A%E5%B9%B4%E9%94%80%E9%87%8F%E5%86%A0%E5%86%9B",
+        "hot": 330048,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "title": "印度本土为何跑不出一家OpenAI",
+        "url": "https://www.toutiao.com/trending/7661777860511665706",
+        "hot": 144092,
+        "desc": "",
+        "time": null,
+        "source": "今日头条",
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "title": "MiniMax 创始人闫俊杰宣布实现 AGI 前放弃领薪，自掏5%个人股权给员工和开源社区，如何解读？",
+        "url": "https://www.zhihu.com/question/2058863340911440810",
+        "hot": null,
+        "desc": "",
+        "time": 1783651272000,
+        "source": "知乎",
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "title": "新能源车成「快消品」，平均车龄仅 1.8 年，年轻人为何把电车当手机一样换这么频繁？",
+        "url": "https://www.zhihu.com/question/2059928907206472162",
+        "hot": null,
+        "desc": "",
+        "time": 1783905323000,
+        "source": "知乎",
+        "rank": 7,
+        "category": "科技"
+      }
+    ],
+    "人工智能": [
+      {
+        "title": "印度本土为何跑不出一家OpenAI",
+        "url": "https://www.toutiao.com/trending/7661777860511665706",
+        "hot": 144092,
+        "desc": "",
+        "time": null,
+        "source": "今日头条",
+        "rank": 1,
+        "category": "人工智能"
+      },
+      {
+        "title": "如何评价赛力斯 2026 年上半年预计亏损 15-18 亿？为什么销量不低却依然巨亏？",
+        "url": "https://www.zhihu.com/question/2059697862565536691",
+        "hot": null,
+        "desc": "",
+        "time": 1783850237000,
+        "source": "知乎",
+        "rank": 2,
+        "category": "人工智能"
+      },
+      {
+        "title": "如何看待周星驰新电影《功夫女足》预测票房大幅飙升至 25 亿人民币？",
+        "url": "https://www.zhihu.com/question/2059770577624290592",
+        "hot": null,
+        "desc": "",
+        "time": 1783867574000,
+        "source": "知乎",
+        "rank": 3,
+        "category": "人工智能"
+      },
+      {
+        "title": "姚明是公认的中国甚至亚洲篮球第一人，为何他在中国男篮干了七年，他没干出成绩?",
+        "url": "https://www.zhihu.com/question/1941257398313551370",
+        "hot": null,
+        "desc": "",
+        "time": 1755611830000,
+        "source": "知乎",
+        "rank": 4,
+        "category": "人工智能"
+      },
+      {
+        "title": "受「巴威」影响沈阳突降暴雨，全市实行紧急避险措施，你那里情况怎么样？雨大吗？",
+        "url": "https://www.zhihu.com/question/2059917780845946766",
+        "hot": null,
+        "desc": "",
+        "time": 1783902670000,
+        "source": "知乎",
+        "rank": 5,
+        "category": "人工智能"
+      },
+      {
+        "title": "售价1.25万的YSL男士PVC透明皮鞋遭吐槽「脚臭可视化」，如何看待这一设计？这种材料会加重脚臭吗？",
+        "url": "https://www.zhihu.com/question/2056072763509564144",
+        "hot": null,
+        "desc": "",
+        "time": 1782985946000,
+        "source": "知乎",
+        "rank": 6,
+        "category": "人工智能"
+      }
+    ],
+    "人文": [
+      {
+        "title": "售价1.25万的YSL男士PVC透明皮鞋遭吐槽「脚臭可视化」，如何看待这一设计？这种材料会加重脚臭吗？",
+        "url": "https://www.zhihu.com/question/2056072763509564144",
+        "hot": null,
+        "desc": "",
+        "time": 1782985946000,
+        "source": "知乎",
+        "rank": 1,
+        "category": "人文"
+      },
+      {
+        "title": "姚明是公认的中国甚至亚洲篮球第一人，为何他在中国男篮干了七年，他没干出成绩?",
+        "url": "https://www.zhihu.com/question/1941257398313551370",
+        "hot": null,
+        "desc": "",
+        "time": 1755611830000,
+        "source": "知乎",
+        "rank": 2,
+        "category": "人文"
+      },
+      {
+        "title": "如何评价赛力斯 2026 年上半年预计亏损 15-18 亿？为什么销量不低却依然巨亏？",
+        "url": "https://www.zhihu.com/question/2059697862565536691",
+        "hot": null,
+        "desc": "",
+        "time": 1783850237000,
+        "source": "知乎",
+        "rank": 3,
+        "category": "人文"
+      },
+      {
+        "title": "如何看待周星驰新电影《功夫女足》预测票房大幅飙升至 25 亿人民币？",
+        "url": "https://www.zhihu.com/question/2059770577624290592",
+        "hot": null,
+        "desc": "",
+        "time": 1783867574000,
+        "source": "知乎",
+        "rank": 4,
+        "category": "人文"
+      },
+      {
+        "title": "美国共和党「鹰派」参议员林赛·格雷厄姆在家中突发疾病去世，他有哪些政治主张？其去世会带来什么影响？",
+        "url": "https://www.zhihu.com/question/2059657075496575156",
+        "hot": null,
+        "desc": "",
+        "time": 1783840513000,
+        "source": "知乎",
+        "rank": 5,
+        "category": "人文"
+      },
+      {
+        "title": "受「巴威」影响沈阳突降暴雨，全市实行紧急避险措施，你那里情况怎么样？雨大吗？",
+        "url": "https://www.zhihu.com/question/2059917780845946766",
+        "hot": null,
+        "desc": "",
+        "time": 1783902670000,
+        "source": "知乎",
+        "rank": 6,
+        "category": "人文"
+      }
+    ],
+    "社会": [
+      {
+        "title": "原来打羽毛球是为了让对方接到",
+        "url": "https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E6%89%93%E7%BE%BD%E6%AF%9B%E7%90%83%E6%98%AF%E4%B8%BA%E4%BA%86%E8%AE%A9%E5%AF%B9%E6%96%B9%E6%8E%A5%E5%88%B0",
+        "hot": 913444,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 1,
+        "category": "社会"
+      },
+      {
+        "title": "十个勤天被指抄袭R1SE",
+        "url": "https://s.weibo.com/weibo?q=%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9%E8%A2%AB%E6%8C%87%E6%8A%84%E8%A2%ADR1SE",
+        "hot": 898591,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 2,
+        "category": "社会"
+      },
+      {
+        "title": "时代峰峻乐华JYP都给苏新皓发过邀请",
+        "url": "https://s.weibo.com/weibo?q=%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E4%B9%90%E5%8D%8EJYP%E9%83%BD%E7%BB%99%E8%8B%8F%E6%96%B0%E7%9A%93%E5%8F%91%E8%BF%87%E9%82%80%E8%AF%B7",
+        "hot": 418446,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "社会"
+      },
+      {
+        "title": "有没有体面一点的午休方式",
+        "url": "https://s.weibo.com/weibo?q=%E6%9C%89%E6%B2%A1%E6%9C%89%E4%BD%93%E9%9D%A2%E4%B8%80%E7%82%B9%E7%9A%84%E5%8D%88%E4%BC%91%E6%96%B9%E5%BC%8F",
+        "hot": 383850,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "社会"
+      },
+      {
+        "title": "男子吃饭发现桌子是清代贡元匾额",
+        "url": "https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E5%90%83%E9%A5%AD%E5%8F%91%E7%8E%B0%E6%A1%8C%E5%AD%90%E6%98%AF%E6%B8%85%E4%BB%A3%E8%B4%A1%E5%85%83%E5%8C%BE%E9%A2%9D",
+        "hot": 381010,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "社会"
+      },
+      {
+        "title": "冉莹颖已签约MCN机构",
+        "url": "https://s.weibo.com/weibo?q=%E5%86%89%E8%8E%B9%E9%A2%96%E5%B7%B2%E7%AD%BE%E7%BA%A6MCN%E6%9C%BA%E6%9E%84",
+        "hot": 356662,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "社会"
+      },
+      {
+        "title": "中国裁判无缘世界杯剩余比赛",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E8%A3%81%E5%88%A4%E6%97%A0%E7%BC%98%E4%B8%96%E7%95%8C%E6%9D%AF%E5%89%A9%E4%BD%99%E6%AF%94%E8%B5%9B",
+        "hot": 354726,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 7,
+        "category": "社会"
+      },
+      {
+        "title": "管泽元谈双败赛制",
+        "url": "https://s.weibo.com/weibo?q=%E7%AE%A1%E6%B3%BD%E5%85%83%E8%B0%88%E5%8F%8C%E8%B4%A5%E8%B5%9B%E5%88%B6",
+        "hot": 349256,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 8,
+        "category": "社会"
+      }
+    ],
+    "教育": [
+      {
+        "title": "安徽大学通报",
+        "url": "https://s.weibo.com/weibo?q=%E5%AE%89%E5%BE%BD%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A5",
+        "hot": 363429,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "title": "如何评价赛力斯 2026 年上半年预计亏损 15-18 亿？为什么销量不低却依然巨亏？",
+        "url": "https://www.zhihu.com/question/2059697862565536691",
+        "hot": null,
+        "desc": "",
+        "time": 1783850237000,
+        "source": "知乎",
+        "rank": 2,
+        "category": "教育"
+      },
+      {
+        "title": "受「巴威」影响沈阳突降暴雨，全市实行紧急避险措施，你那里情况怎么样？雨大吗？",
+        "url": "https://www.zhihu.com/question/2059917780845946766",
+        "hot": null,
+        "desc": "",
+        "time": 1783902670000,
+        "source": "知乎",
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "title": "如何看待周星驰新电影《功夫女足》预测票房大幅飙升至 25 亿人民币？",
+        "url": "https://www.zhihu.com/question/2059770577624290592",
+        "hot": null,
+        "desc": "",
+        "time": 1783867574000,
+        "source": "知乎",
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "title": "姚明是公认的中国甚至亚洲篮球第一人，为何他在中国男篮干了七年，他没干出成绩?",
+        "url": "https://www.zhihu.com/question/1941257398313551370",
+        "hot": null,
+        "desc": "",
+        "time": 1755611830000,
+        "source": "知乎",
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "title": "售价1.25万的YSL男士PVC透明皮鞋遭吐槽「脚臭可视化」，如何看待这一设计？这种材料会加重脚臭吗？",
+        "url": "https://www.zhihu.com/question/2056072763509564144",
+        "hot": null,
+        "desc": "",
+        "time": 1782985946000,
+        "source": "知乎",
+        "rank": 6,
+        "category": "教育"
+      }
+    ],
+    "娱乐": [
+      {
+        "title": "我国多领域解锁硬核成就",
+        "url": "https://www.douyin.com/search/%E6%88%91%E5%9B%BD%E5%A4%9A%E9%A2%86%E5%9F%9F%E8%A7%A3%E9%94%81%E7%A1%AC%E6%A0%B8%E6%88%90%E5%B0%B1",
+        "hot": 11607747,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 1,
+        "category": "娱乐"
+      },
+      {
+        "title": "瑟洛特回应未传球给哈兰德",
+        "url": "https://www.douyin.com/search/%E7%91%9F%E6%B4%9B%E7%89%B9%E5%9B%9E%E5%BA%94%E6%9C%AA%E4%BC%A0%E7%90%83%E7%BB%99%E5%93%88%E5%85%B0%E5%BE%B7",
+        "hot": 8670911,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 2,
+        "category": "娱乐"
+      },
+      {
+        "title": "气球怕的不是箭是我的嘴",
+        "url": "https://www.douyin.com/search/%E6%B0%94%E7%90%83%E6%80%95%E7%9A%84%E4%B8%8D%E6%98%AF%E7%AE%AD%E6%98%AF%E6%88%91%E7%9A%84%E5%98%B4",
+        "hot": 7728044,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 3,
+        "category": "娱乐"
+      },
+      {
+        "title": "巴威明天入海",
+        "url": "https://s.weibo.com/weibo?q=%E5%B7%B4%E5%A8%81%E6%98%8E%E5%A4%A9%E5%85%A5%E6%B5%B7",
+        "hot": 937501,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "娱乐"
+      },
+      {
+        "title": "原来打羽毛球是为了让对方接到",
+        "url": "https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E6%89%93%E7%BE%BD%E6%AF%9B%E7%90%83%E6%98%AF%E4%B8%BA%E4%BA%86%E8%AE%A9%E5%AF%B9%E6%96%B9%E6%8E%A5%E5%88%B0",
+        "hot": 913444,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "娱乐"
+      },
+      {
+        "title": "时代峰峻乐华JYP都给苏新皓发过邀请",
+        "url": "https://s.weibo.com/weibo?q=%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E4%B9%90%E5%8D%8EJYP%E9%83%BD%E7%BB%99%E8%8B%8F%E6%96%B0%E7%9A%93%E5%8F%91%E8%BF%87%E9%82%80%E8%AF%B7",
+        "hot": 418446,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "娱乐"
+      },
+      {
+        "title": "可以理解功夫女足好看和难看对轰",
+        "url": "https://s.weibo.com/weibo?q=%E5%8F%AF%E4%BB%A5%E7%90%86%E8%A7%A3%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%A5%BD%E7%9C%8B%E5%92%8C%E9%9A%BE%E7%9C%8B%E5%AF%B9%E8%BD%B0",
+        "hot": 387243,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 7,
+        "category": "娱乐"
+      }
+    ],
+    "医疗": [
+      {
+        "title": "阿根廷申请半决赛穿客场队服",
+        "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%94%B3%E8%AF%B7%E5%8D%8A%E5%86%B3%E8%B5%9B%E7%A9%BF%E5%AE%A2%E5%9C%BA%E9%98%9F%E6%9C%8D",
+        "hot": 1672964,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 1,
+        "category": "医疗"
+      },
+      {
+        "title": "巴威明天入海",
+        "url": "https://s.weibo.com/weibo?q=%E5%B7%B4%E5%A8%81%E6%98%8E%E5%A4%A9%E5%85%A5%E6%B5%B7",
+        "hot": 937501,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 2,
+        "category": "医疗"
+      },
+      {
+        "title": "这波中国制造太提气",
+        "url": "https://s.weibo.com/weibo?q=%E8%BF%99%E6%B3%A2%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E5%A4%AA%E6%8F%90%E6%B0%94",
+        "hot": 929264,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "医疗"
+      },
+      {
+        "title": "大部分人觉得旅游累的原因",
+        "url": "https://s.weibo.com/weibo?q=%E5%A4%A7%E9%83%A8%E5%88%86%E4%BA%BA%E8%A7%89%E5%BE%97%E6%97%85%E6%B8%B8%E7%B4%AF%E7%9A%84%E5%8E%9F%E5%9B%A0",
+        "hot": 921718,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "医疗"
+      },
+      {
+        "title": "上海护士辞职卖西餐被医生自发捧火",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E6%8A%A4%E5%A3%AB%E8%BE%9E%E8%81%8C%E5%8D%96%E8%A5%BF%E9%A4%90%E8%A2%AB%E5%8C%BB%E7%94%9F%E8%87%AA%E5%8F%91%E6%8D%A7%E7%81%AB",
+        "hot": 438703,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "医疗"
+      },
+      {
+        "title": "美国共和党「鹰派」参议员林赛·格雷厄姆在家中突发疾病去世，他有哪些政治主张？其去世会带来什么影响？",
+        "url": "https://www.zhihu.com/question/2059657075496575156",
+        "hot": null,
+        "desc": "",
+        "time": 1783840513000,
+        "source": "知乎",
+        "rank": 6,
+        "category": "医疗"
+      }
+    ],
+    "财经": [
+      {
+        "title": "阿根廷申请半决赛穿客场队服",
+        "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%94%B3%E8%AF%B7%E5%8D%8A%E5%86%B3%E8%B5%9B%E7%A9%BF%E5%AE%A2%E5%9C%BA%E9%98%9F%E6%9C%8D",
+        "hot": 1672964,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "title": "巴威明天入海",
+        "url": "https://s.weibo.com/weibo?q=%E5%B7%B4%E5%A8%81%E6%98%8E%E5%A4%A9%E5%85%A5%E6%B5%B7",
+        "hot": 937501,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 2,
+        "category": "财经"
+      },
+      {
+        "title": "这波中国制造太提气",
+        "url": "https://s.weibo.com/weibo?q=%E8%BF%99%E6%B3%A2%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E5%A4%AA%E6%8F%90%E6%B0%94",
+        "hot": 929264,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "title": "大部分人觉得旅游累的原因",
+        "url": "https://s.weibo.com/weibo?q=%E5%A4%A7%E9%83%A8%E5%88%86%E4%BA%BA%E8%A7%89%E5%BE%97%E6%97%85%E6%B8%B8%E7%B4%AF%E7%9A%84%E5%8E%9F%E5%9B%A0",
+        "hot": 921718,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "title": "原来打羽毛球是为了让对方接到",
+        "url": "https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E6%89%93%E7%BE%BD%E6%AF%9B%E7%90%83%E6%98%AF%E4%B8%BA%E4%BA%86%E8%AE%A9%E5%AF%B9%E6%96%B9%E6%8E%A5%E5%88%B0",
+        "hot": 913444,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "title": "林依晨演邓为老婆",
+        "url": "https://s.weibo.com/weibo?q=%E6%9E%97%E4%BE%9D%E6%99%A8%E6%BC%94%E9%82%93%E4%B8%BA%E8%80%81%E5%A9%86",
+        "hot": 903217,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "财经"
+      }
+    ],
+    "体育": [
+      {
+        "title": "阿根廷申请半决赛穿客场队服",
+        "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%94%B3%E8%AF%B7%E5%8D%8A%E5%86%B3%E8%B5%9B%E7%A9%BF%E5%AE%A2%E5%9C%BA%E9%98%9F%E6%9C%8D",
+        "hot": 1672964,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "title": "原来打羽毛球是为了让对方接到",
+        "url": "https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E6%89%93%E7%BE%BD%E6%AF%9B%E7%90%83%E6%98%AF%E4%B8%BA%E4%BA%86%E8%AE%A9%E5%AF%B9%E6%96%B9%E6%8E%A5%E5%88%B0",
+        "hot": 913444,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "title": "世界杯四强夺冠概率排名",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%9B%9B%E5%BC%BA%E5%A4%BA%E5%86%A0%E6%A6%82%E7%8E%87%E6%8E%92%E5%90%8D",
+        "hot": 375792,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "title": "王濛预测世界杯冠亚军",
+        "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%BF%9B%E9%A2%84%E6%B5%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E4%BA%9A%E5%86%9B",
+        "hot": 361817,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "title": "中国裁判无缘世界杯剩余比赛",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E8%A3%81%E5%88%A4%E6%97%A0%E7%BC%98%E4%B8%96%E7%95%8C%E6%9D%AF%E5%89%A9%E4%BD%99%E6%AF%94%E8%B5%9B",
+        "hot": 354726,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "title": "哈兰德发文告别世界杯",
+        "url": "https://s.weibo.com/weibo?q=%E5%93%88%E5%85%B0%E5%BE%B7%E5%8F%91%E6%96%87%E5%91%8A%E5%88%AB%E4%B8%96%E7%95%8C%E6%9D%AF",
+        "hot": 331633,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "体育"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "贵州火把节已经准备就绪了",
+        "url": "https://www.douyin.com/search/%E8%B4%B5%E5%B7%9E%E7%81%AB%E6%8A%8A%E8%8A%82%E5%B7%B2%E7%BB%8F%E5%87%86%E5%A4%87%E5%B0%B1%E7%BB%AA%E4%BA%86",
+        "hot": 11983924,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "title": "三伏天记录我的减肥日常",
+        "url": "https://www.douyin.com/search/%E4%B8%89%E4%BC%8F%E5%A4%A9%E8%AE%B0%E5%BD%95%E6%88%91%E7%9A%84%E5%87%8F%E8%82%A5%E6%97%A5%E5%B8%B8",
+        "hot": 11775234,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 2,
+        "category": "游戏"
+      },
+      {
+        "title": "我国多领域解锁硬核成就",
+        "url": "https://www.douyin.com/search/%E6%88%91%E5%9B%BD%E5%A4%9A%E9%A2%86%E5%9F%9F%E8%A7%A3%E9%94%81%E7%A1%AC%E6%A0%B8%E6%88%90%E5%B0%B1",
+        "hot": 11607747,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "title": "沈阳暴雨",
+        "url": "https://www.douyin.com/search/%E6%B2%88%E9%98%B3%E6%9A%B4%E9%9B%A8",
+        "hot": 11567194,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "title": "王者动物塑男团占领漫展",
+        "url": "https://www.douyin.com/search/%E7%8E%8B%E8%80%85%E5%8A%A8%E7%89%A9%E5%A1%91%E7%94%B7%E5%9B%A2%E5%8D%A0%E9%A2%86%E6%BC%AB%E5%B1%95",
+        "hot": 7779060,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "title": "王者漫展圆梦青白蛇cos",
+        "url": "https://www.douyin.com/search/%E7%8E%8B%E8%80%85%E6%BC%AB%E5%B1%95%E5%9C%86%E6%A2%A6%E9%9D%92%E7%99%BD%E8%9B%87cos",
+        "hot": 7679177,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 6,
+        "category": "游戏"
+      }
+    ],
+    "汽车": [
+      {
+        "title": "阿根廷申请半决赛穿客场队服",
+        "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%94%B3%E8%AF%B7%E5%8D%8A%E5%86%B3%E8%B5%9B%E7%A9%BF%E5%AE%A2%E5%9C%BA%E9%98%9F%E6%9C%8D",
+        "hot": 1672964,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "title": "巴威明天入海",
+        "url": "https://s.weibo.com/weibo?q=%E5%B7%B4%E5%A8%81%E6%98%8E%E5%A4%A9%E5%85%A5%E6%B5%B7",
+        "hot": 937501,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 2,
+        "category": "汽车"
+      },
+      {
+        "title": "这波中国制造太提气",
+        "url": "https://s.weibo.com/weibo?q=%E8%BF%99%E6%B3%A2%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E5%A4%AA%E6%8F%90%E6%B0%94",
+        "hot": 929264,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "汽车"
+      },
+      {
+        "title": "大部分人觉得旅游累的原因",
+        "url": "https://s.weibo.com/weibo?q=%E5%A4%A7%E9%83%A8%E5%88%86%E4%BA%BA%E8%A7%89%E5%BE%97%E6%97%85%E6%B8%B8%E7%B4%AF%E7%9A%84%E5%8E%9F%E5%9B%A0",
+        "hot": 921718,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "title": "原来打羽毛球是为了让对方接到",
+        "url": "https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E6%89%93%E7%BE%BD%E6%AF%9B%E7%90%83%E6%98%AF%E4%B8%BA%E4%BA%86%E8%AE%A9%E5%AF%B9%E6%96%B9%E6%8E%A5%E5%88%B0",
+        "hot": 913444,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "title": "林依晨演邓为老婆",
+        "url": "https://s.weibo.com/weibo?q=%E6%9E%97%E4%BE%9D%E6%99%A8%E6%BC%94%E9%82%93%E4%B8%BA%E8%80%81%E5%A9%86",
+        "hot": 903217,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "汽车"
+      }
+    ],
+    "美食": [
+      {
+        "title": "阿根廷申请半决赛穿客场队服",
+        "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%94%B3%E8%AF%B7%E5%8D%8A%E5%86%B3%E8%B5%9B%E7%A9%BF%E5%AE%A2%E5%9C%BA%E9%98%9F%E6%9C%8D",
+        "hot": 1672964,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "title": "巴威明天入海",
+        "url": "https://s.weibo.com/weibo?q=%E5%B7%B4%E5%A8%81%E6%98%8E%E5%A4%A9%E5%85%A5%E6%B5%B7",
+        "hot": 937501,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 2,
+        "category": "美食"
+      },
+      {
+        "title": "这波中国制造太提气",
+        "url": "https://s.weibo.com/weibo?q=%E8%BF%99%E6%B3%A2%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E5%A4%AA%E6%8F%90%E6%B0%94",
+        "hot": 929264,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "title": "大部分人觉得旅游累的原因",
+        "url": "https://s.weibo.com/weibo?q=%E5%A4%A7%E9%83%A8%E5%88%86%E4%BA%BA%E8%A7%89%E5%BE%97%E6%97%85%E6%B8%B8%E7%B4%AF%E7%9A%84%E5%8E%9F%E5%9B%A0",
+        "hot": 921718,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "title": "原来打羽毛球是为了让对方接到",
+        "url": "https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E6%89%93%E7%BE%BD%E6%AF%9B%E7%90%83%E6%98%AF%E4%B8%BA%E4%BA%86%E8%AE%A9%E5%AF%B9%E6%96%B9%E6%8E%A5%E5%88%B0",
+        "hot": 913444,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "title": "林依晨演邓为老婆",
+        "url": "https://s.weibo.com/weibo?q=%E6%9E%97%E4%BE%9D%E6%99%A8%E6%BC%94%E9%82%93%E4%B8%BA%E8%80%81%E5%A9%86",
+        "hot": 903217,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "美食"
+      }
+    ],
+    "旅游": [
+      {
+        "title": "阿根廷申请半决赛穿客场队服",
+        "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%94%B3%E8%AF%B7%E5%8D%8A%E5%86%B3%E8%B5%9B%E7%A9%BF%E5%AE%A2%E5%9C%BA%E9%98%9F%E6%9C%8D",
+        "hot": 1672964,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 1,
+        "category": "旅游"
+      },
+      {
+        "title": "巴威明天入海",
+        "url": "https://s.weibo.com/weibo?q=%E5%B7%B4%E5%A8%81%E6%98%8E%E5%A4%A9%E5%85%A5%E6%B5%B7",
+        "hot": 937501,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 2,
+        "category": "旅游"
+      },
+      {
+        "title": "这波中国制造太提气",
+        "url": "https://s.weibo.com/weibo?q=%E8%BF%99%E6%B3%A2%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E5%A4%AA%E6%8F%90%E6%B0%94",
+        "hot": 929264,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "旅游"
+      },
+      {
+        "title": "大部分人觉得旅游累的原因",
+        "url": "https://s.weibo.com/weibo?q=%E5%A4%A7%E9%83%A8%E5%88%86%E4%BA%BA%E8%A7%89%E5%BE%97%E6%97%85%E6%B8%B8%E7%B4%AF%E7%9A%84%E5%8E%9F%E5%9B%A0",
+        "hot": 921718,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "title": "原来打羽毛球是为了让对方接到",
+        "url": "https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E6%89%93%E7%BE%BD%E6%AF%9B%E7%90%83%E6%98%AF%E4%B8%BA%E4%BA%86%E8%AE%A9%E5%AF%B9%E6%96%B9%E6%8E%A5%E5%88%B0",
+        "hot": 913444,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "旅游"
+      },
+      {
+        "title": "林依晨演邓为老婆",
+        "url": "https://s.weibo.com/weibo?q=%E6%9E%97%E4%BE%9D%E6%99%A8%E6%BC%94%E9%82%93%E4%B8%BA%E8%80%81%E5%A9%86",
+        "hot": 903217,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "旅游"
+      }
+    ],
+    "军事": [
+      {
+        "title": "阿根廷申请半决赛穿客场队服",
+        "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%94%B3%E8%AF%B7%E5%8D%8A%E5%86%B3%E8%B5%9B%E7%A9%BF%E5%AE%A2%E5%9C%BA%E9%98%9F%E6%9C%8D",
+        "hot": 1672964,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 1,
+        "category": "军事"
+      },
+      {
+        "title": "巴威明天入海",
+        "url": "https://s.weibo.com/weibo?q=%E5%B7%B4%E5%A8%81%E6%98%8E%E5%A4%A9%E5%85%A5%E6%B5%B7",
+        "hot": 937501,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "title": "这波中国制造太提气",
+        "url": "https://s.weibo.com/weibo?q=%E8%BF%99%E6%B3%A2%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E5%A4%AA%E6%8F%90%E6%B0%94",
+        "hot": 929264,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "军事"
+      },
+      {
+        "title": "大部分人觉得旅游累的原因",
+        "url": "https://s.weibo.com/weibo?q=%E5%A4%A7%E9%83%A8%E5%88%86%E4%BA%BA%E8%A7%89%E5%BE%97%E6%97%85%E6%B8%B8%E7%B4%AF%E7%9A%84%E5%8E%9F%E5%9B%A0",
+        "hot": 921718,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "军事"
+      },
+      {
+        "title": "原来打羽毛球是为了让对方接到",
+        "url": "https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E6%89%93%E7%BE%BD%E6%AF%9B%E7%90%83%E6%98%AF%E4%B8%BA%E4%BA%86%E8%AE%A9%E5%AF%B9%E6%96%B9%E6%8E%A5%E5%88%B0",
+        "hot": 913444,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "军事"
+      },
+      {
+        "title": "林依晨演邓为老婆",
+        "url": "https://s.weibo.com/weibo?q=%E6%9E%97%E4%BE%9D%E6%99%A8%E6%BC%94%E9%82%93%E4%B8%BA%E8%80%81%E5%A9%86",
+        "hot": 903217,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "军事"
+      }
+    ],
+    "国际": [
+      {
+        "title": "阿根廷申请半决赛穿客场队服",
+        "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%94%B3%E8%AF%B7%E5%8D%8A%E5%86%B3%E8%B5%9B%E7%A9%BF%E5%AE%A2%E5%9C%BA%E9%98%9F%E6%9C%8D",
+        "hot": 1672964,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 1,
+        "category": "国际"
+      },
+      {
+        "title": "美国共和党鹰派参议员死因披露",
+        "url": "https://www.toutiao.com/trending/7661794128124071474",
+        "hot": 963385,
+        "desc": "",
+        "time": null,
+        "source": "今日头条",
+        "rank": 2,
+        "category": "国际"
+      },
+      {
+        "title": "巴威明天入海",
+        "url": "https://s.weibo.com/weibo?q=%E5%B7%B4%E5%A8%81%E6%98%8E%E5%A4%A9%E5%85%A5%E6%B5%B7",
+        "hot": 937501,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "国际"
+      },
+      {
+        "title": "这波中国制造太提气",
+        "url": "https://s.weibo.com/weibo?q=%E8%BF%99%E6%B3%A2%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E5%A4%AA%E6%8F%90%E6%B0%94",
+        "hot": 929264,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "国际"
+      },
+      {
+        "title": "大部分人觉得旅游累的原因",
+        "url": "https://s.weibo.com/weibo?q=%E5%A4%A7%E9%83%A8%E5%88%86%E4%BA%BA%E8%A7%89%E5%BE%97%E6%97%85%E6%B8%B8%E7%B4%AF%E7%9A%84%E5%8E%9F%E5%9B%A0",
+        "hot": 921718,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "国际"
+      },
+      {
+        "title": "原来打羽毛球是为了让对方接到",
+        "url": "https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E6%89%93%E7%BE%BD%E6%AF%9B%E7%90%83%E6%98%AF%E4%B8%BA%E4%BA%86%E8%AE%A9%E5%AF%B9%E6%96%B9%E6%8E%A5%E5%88%B0",
+        "hot": 913444,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "国际"
+      }
+    ],
+    "文化": [
+      {
+        "title": "美国共和党「鹰派」参议员林赛·格雷厄姆在家中突发疾病去世，他有哪些政治主张？其去世会带来什么影响？",
+        "url": "https://www.zhihu.com/question/2059657075496575156",
+        "hot": null,
+        "desc": "",
+        "time": 1783840513000,
+        "source": "知乎",
+        "rank": 1,
+        "category": "文化"
+      },
+      {
+        "title": "如何看待周星驰新电影《功夫女足》预测票房大幅飙升至 25 亿人民币？",
+        "url": "https://www.zhihu.com/question/2059770577624290592",
+        "hot": null,
+        "desc": "",
+        "time": 1783867574000,
+        "source": "知乎",
+        "rank": 2,
+        "category": "文化"
+      },
+      {
+        "title": "受「巴威」影响沈阳突降暴雨，全市实行紧急避险措施，你那里情况怎么样？雨大吗？",
+        "url": "https://www.zhihu.com/question/2059917780845946766",
+        "hot": null,
+        "desc": "",
+        "time": 1783902670000,
+        "source": "知乎",
+        "rank": 3,
+        "category": "文化"
+      },
+      {
+        "title": "售价1.25万的YSL男士PVC透明皮鞋遭吐槽「脚臭可视化」，如何看待这一设计？这种材料会加重脚臭吗？",
+        "url": "https://www.zhihu.com/question/2056072763509564144",
+        "hot": null,
+        "desc": "",
+        "time": 1782985946000,
+        "source": "知乎",
+        "rank": 4,
+        "category": "文化"
+      },
+      {
+        "title": "姚明是公认的中国甚至亚洲篮球第一人，为何他在中国男篮干了七年，他没干出成绩?",
+        "url": "https://www.zhihu.com/question/1941257398313551370",
+        "hot": null,
+        "desc": "",
+        "time": 1755611830000,
+        "source": "知乎",
+        "rank": 5,
+        "category": "文化"
+      },
+      {
+        "title": "如何评价赛力斯 2026 年上半年预计亏损 15-18 亿？为什么销量不低却依然巨亏？",
+        "url": "https://www.zhihu.com/question/2059697862565536691",
+        "hot": null,
+        "desc": "",
+        "time": 1783850237000,
+        "source": "知乎",
+        "rank": 6,
+        "category": "文化"
+      }
+    ]
+  },
+  "total": 100
+}
