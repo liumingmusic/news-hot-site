@@ -1,0 +1,1137 @@
+{
+  "generatedAt": "2026-07-19T04:25:34.538Z",
+  "source": "60s.viki.moe",
+  "headlines": [
+    {
+      "title": "解锁那达慕全攻略",
+      "url": "https://www.douyin.com/search/%E8%A7%A3%E9%94%81%E9%82%A3%E8%BE%BE%E6%85%95%E5%85%A8%E6%94%BB%E7%95%A5",
+      "hot": 11756898,
+      "desc": "",
+      "time": null,
+      "source": "抖音",
+      "rank": 1,
+      "category": "游戏",
+      "_domain": "游戏"
+    },
+    {
+      "title": "旅游那达慕开幕了",
+      "url": "https://www.douyin.com/search/%E6%97%85%E6%B8%B8%E9%82%A3%E8%BE%BE%E6%85%95%E5%BC%80%E5%B9%95%E4%BA%86",
+      "hot": 7657882,
+      "desc": "",
+      "time": null,
+      "source": "抖音",
+      "rank": 2,
+      "category": "旅游",
+      "_domain": "旅游"
+    },
+    {
+      "title": "英格兰队史首获世界杯铜牌",
+      "url": "https://www.douyin.com/search/%E8%8B%B1%E6%A0%BC%E5%85%B0%E9%98%9F%E5%8F%B2%E9%A6%96%E8%8E%B7%E4%B8%96%E7%95%8C%E6%9D%AF%E9%93%9C%E7%89%8C",
+      "hot": 8234525,
+      "desc": "",
+      "time": null,
+      "source": "抖音",
+      "rank": 1,
+      "category": "体育",
+      "_domain": "体育"
+    },
+    {
+      "title": "中超重庆铜梁龙1:1浙江队",
+      "url": "https://www.douyin.com/search/%E4%B8%AD%E8%B6%85%E9%87%8D%E5%BA%86%E9%93%9C%E6%A2%81%E9%BE%991%3A1%E6%B5%99%E6%B1%9F%E9%98%9F",
+      "hot": 7723171,
+      "desc": "",
+      "time": null,
+      "source": "抖音",
+      "rank": 1,
+      "category": "娱乐",
+      "_domain": "娱乐"
+    },
+    {
+      "title": "苹果曾邀Kimi创始人杨植麟加入",
+      "url": "https://www.toutiao.com/trending/7662992778968039467",
+      "hot": 2863616,
+      "desc": "",
+      "time": null,
+      "source": "今日头条",
+      "rank": 1,
+      "category": "科技",
+      "_domain": "科技"
+    },
+    {
+      "title": "美国Inkling模型借鉴中国AI技术",
+      "url": "https://www.toutiao.com/trending/7664054078292364819",
+      "hot": 1571586,
+      "desc": "",
+      "time": null,
+      "source": "今日头条",
+      "rank": 1,
+      "category": "人工智能",
+      "_domain": "人工智能"
+    }
+  ],
+  "categories": {
+    "科技": [
+      {
+        "title": "苹果曾邀Kimi创始人杨植麟加入",
+        "url": "https://www.toutiao.com/trending/7662992778968039467",
+        "hot": 2863616,
+        "desc": "",
+        "time": null,
+        "source": "今日头条",
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "title": "中国如何应对科技公司归属的法律战",
+        "url": "https://www.toutiao.com/trending/7664055626527411763",
+        "hot": 1164259,
+        "desc": "",
+        "time": null,
+        "source": "今日头条",
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "title": "全球科技股抛售潮接近尾声了吗",
+        "url": "https://www.toutiao.com/trending/7663165060491296819",
+        "hot": 953215,
+        "desc": "",
+        "time": null,
+        "source": "今日头条",
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "title": "AI行业要重新洗牌了",
+        "url": "https://s.weibo.com/weibo?q=AI%E8%A1%8C%E4%B8%9A%E8%A6%81%E9%87%8D%E6%96%B0%E6%B4%97%E7%89%8C%E4%BA%86",
+        "hot": 417701,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "title": "吴磊把手机插泥地里了",
+        "url": "https://s.weibo.com/weibo?q=%E5%90%B4%E7%A3%8A%E6%8A%8A%E6%89%8B%E6%9C%BA%E6%8F%92%E6%B3%A5%E5%9C%B0%E9%87%8C%E4%BA%86",
+        "hot": 390132,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "title": "AI修复王菲经典mv",
+        "url": "https://s.weibo.com/weibo?q=AI%E4%BF%AE%E5%A4%8D%E7%8E%8B%E8%8F%B2%E7%BB%8F%E5%85%B8mv",
+        "hot": 194331,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "title": "高通发布会机器人现场摔倒",
+        "url": "https://s.weibo.com/weibo?q=%E9%AB%98%E9%80%9A%E5%8F%91%E5%B8%83%E4%BC%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%8E%B0%E5%9C%BA%E6%91%94%E5%80%92",
+        "hot": 176522,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "title": "参加 2026 世界人工智能大会 (WAIC) 是一种怎样的体验？",
+        "url": "https://www.zhihu.com/question/2060398351212700649",
+        "hot": null,
+        "desc": "",
+        "time": 1784017247000,
+        "source": "知乎",
+        "rank": 8,
+        "category": "科技"
+      }
+    ],
+    "人工智能": [
+      {
+        "title": "美国Inkling模型借鉴中国AI技术",
+        "url": "https://www.toutiao.com/trending/7664054078292364819",
+        "hot": 1571586,
+        "desc": "",
+        "time": null,
+        "source": "今日头条",
+        "rank": 1,
+        "category": "人工智能"
+      },
+      {
+        "title": "中国AI产业落地跑出加速度",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BDAI%E4%BA%A7%E4%B8%9A%E8%90%BD%E5%9C%B0%E8%B7%91%E5%87%BA%E5%8A%A0%E9%80%9F%E5%BA%A6",
+        "hot": 684441,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 2,
+        "category": "人工智能"
+      },
+      {
+        "title": "AI行业要重新洗牌了",
+        "url": "https://s.weibo.com/weibo?q=AI%E8%A1%8C%E4%B8%9A%E8%A6%81%E9%87%8D%E6%96%B0%E6%B4%97%E7%89%8C%E4%BA%86",
+        "hot": 417701,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "人工智能"
+      },
+      {
+        "title": "AI修复王菲经典mv",
+        "url": "https://s.weibo.com/weibo?q=AI%E4%BF%AE%E5%A4%8D%E7%8E%8B%E8%8F%B2%E7%BB%8F%E5%85%B8mv",
+        "hot": 194331,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "人工智能"
+      },
+      {
+        "title": "高通发布会机器人现场摔倒",
+        "url": "https://s.weibo.com/weibo?q=%E9%AB%98%E9%80%9A%E5%8F%91%E5%B8%83%E4%BC%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%8E%B0%E5%9C%BA%E6%91%94%E5%80%92",
+        "hot": 176522,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "人工智能"
+      },
+      {
+        "title": "参加 2026 世界人工智能大会 (WAIC) 是一种怎样的体验？",
+        "url": "https://www.zhihu.com/question/2060398351212700649",
+        "hot": null,
+        "desc": "",
+        "time": 1784017247000,
+        "source": "知乎",
+        "rank": 6,
+        "category": "人工智能"
+      }
+    ],
+    "人文": [
+      {
+        "title": "如何看待今年清华大学录取通知书取消立体二校门设计？",
+        "url": "https://www.zhihu.com/question/2060790194375242135",
+        "hot": null,
+        "desc": "",
+        "time": 1784110669000,
+        "source": "知乎",
+        "rank": 1,
+        "category": "人文"
+      },
+      {
+        "title": "世界杯季军赛，法国 4-6 英格兰，萨卡戴帽，姆巴佩双响创纪录，如何评价本场比赛？",
+        "url": "https://www.zhihu.com/question/2061740947776579179",
+        "hot": null,
+        "desc": "",
+        "time": 1784337347000,
+        "source": "知乎",
+        "rank": 2,
+        "category": "人文"
+      },
+      {
+        "title": "中学生无法购买高铁学生票，12306 称学生需异地上学并开具证明，如何看待这一购票规则？是否需要改进？",
+        "url": "https://www.zhihu.com/question/2061093407297115914",
+        "hot": null,
+        "desc": "",
+        "time": 1784182961000,
+        "source": "知乎",
+        "rank": 3,
+        "category": "人文"
+      },
+      {
+        "title": "为什么印度小吃摊的卫生看起来那么糟，很多国人去吃了闹肚子，可是印度人却不受影响？",
+        "url": "https://www.zhihu.com/question/2060535612919363451",
+        "hot": null,
+        "desc": "",
+        "time": 1784049973000,
+        "source": "知乎",
+        "rank": 4,
+        "category": "人文"
+      },
+      {
+        "title": "姆巴佩 2 射 1 传成历史射手王，一战刷爆 14 大纪录，如何评价他在世界杯季军赛的表现？",
+        "url": "https://www.zhihu.com/question/2062077879253295768",
+        "hot": null,
+        "desc": "",
+        "time": 1784417677000,
+        "source": "知乎",
+        "rank": 5,
+        "category": "人文"
+      },
+      {
+        "title": "法国 4-6 英格兰这场比赛算是诚信互刷吗？你怎么看？",
+        "url": "https://www.zhihu.com/question/2062079550658274248",
+        "hot": null,
+        "desc": "",
+        "time": 1784418076000,
+        "source": "知乎",
+        "rank": 6,
+        "category": "人文"
+      }
+    ],
+    "社会": [
+      {
+        "title": "警方通报女子身份被吸毒人员冒用",
+        "url": "https://s.weibo.com/weibo?q=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E8%BA%AB%E4%BB%BD%E8%A2%AB%E5%90%B8%E6%AF%92%E4%BA%BA%E5%91%98%E5%86%92%E7%94%A8",
+        "hot": 405763,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 1,
+        "category": "社会"
+      },
+      {
+        "title": "当我坐飞机忘记关导航时",
+        "url": "https://s.weibo.com/weibo?q=%E5%BD%93%E6%88%91%E5%9D%90%E9%A3%9E%E6%9C%BA%E5%BF%98%E8%AE%B0%E5%85%B3%E5%AF%BC%E8%88%AA%E6%97%B6",
+        "hot": 346383,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 2,
+        "category": "社会"
+      },
+      {
+        "title": "Angelababy耳机一戴切换状态",
+        "url": "https://s.weibo.com/weibo?q=Angelababy%E8%80%B3%E6%9C%BA%E4%B8%80%E6%88%B4%E5%88%87%E6%8D%A2%E7%8A%B6%E6%80%81",
+        "hot": 303373,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "社会"
+      },
+      {
+        "title": "法律不是让父亲被带走的泄愤工具",
+        "url": "https://s.weibo.com/weibo?q=%E6%B3%95%E5%BE%8B%E4%B8%8D%E6%98%AF%E8%AE%A9%E7%88%B6%E4%BA%B2%E8%A2%AB%E5%B8%A6%E8%B5%B0%E7%9A%84%E6%B3%84%E6%84%A4%E5%B7%A5%E5%85%B7",
+        "hot": 254965,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "社会"
+      },
+      {
+        "title": "别的狗都在跑第四只竟然在飞",
+        "url": "https://s.weibo.com/weibo?q=%E5%88%AB%E7%9A%84%E7%8B%97%E9%83%BD%E5%9C%A8%E8%B7%91%E7%AC%AC%E5%9B%9B%E5%8F%AA%E7%AB%9F%E7%84%B6%E5%9C%A8%E9%A3%9E",
+        "hot": 230077,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "社会"
+      },
+      {
+        "title": "地球超新鲜回应争议",
+        "url": "https://s.weibo.com/weibo?q=%E5%9C%B0%E7%90%83%E8%B6%85%E6%96%B0%E9%B2%9C%E5%9B%9E%E5%BA%94%E4%BA%89%E8%AE%AE",
+        "hot": 204346,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "社会"
+      },
+      {
+        "title": "虞书欣侯明昊壁咚吻路透",
+        "url": "https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E4%BE%AF%E6%98%8E%E6%98%8A%E5%A3%81%E5%92%9A%E5%90%BB%E8%B7%AF%E9%80%8F",
+        "hot": 196937,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 7,
+        "category": "社会"
+      },
+      {
+        "title": "法国球员吐槽无法接受某些人的表现",
+        "url": "https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E7%90%83%E5%91%98%E5%90%90%E6%A7%BD%E6%97%A0%E6%B3%95%E6%8E%A5%E5%8F%97%E6%9F%90%E4%BA%9B%E4%BA%BA%E7%9A%84%E8%A1%A8%E7%8E%B0",
+        "hot": 193081,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 8,
+        "category": "社会"
+      },
+      {
+        "title": "以色列总理支持阿根廷夺冠",
+        "url": "https://s.weibo.com/weibo?q=%E4%BB%A5%E8%89%B2%E5%88%97%E6%80%BB%E7%90%86%E6%94%AF%E6%8C%81%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%A4%BA%E5%86%A0",
+        "hot": 177601,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 9,
+        "category": "社会"
+      },
+      {
+        "title": "锂电池也要交消费税了",
+        "url": "https://s.weibo.com/weibo?q=%E9%94%82%E7%94%B5%E6%B1%A0%E4%B9%9F%E8%A6%81%E4%BA%A4%E6%B6%88%E8%B4%B9%E7%A8%8E%E4%BA%86",
+        "hot": 176174,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 10,
+        "category": "社会"
+      },
+      {
+        "title": "盒马被曝让员工三伏天在户外吃饭",
+        "url": "https://s.weibo.com/weibo?q=%E7%9B%92%E9%A9%AC%E8%A2%AB%E6%9B%9D%E8%AE%A9%E5%91%98%E5%B7%A5%E4%B8%89%E4%BC%8F%E5%A4%A9%E5%9C%A8%E6%88%B7%E5%A4%96%E5%90%83%E9%A5%AD",
+        "hot": 176143,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 11,
+        "category": "社会"
+      }
+    ],
+    "教育": [
+      {
+        "title": "世界杯季军赛，法国 4-6 英格兰，萨卡戴帽，姆巴佩双响创纪录，如何评价本场比赛？",
+        "url": "https://www.zhihu.com/question/2061740947776579179",
+        "hot": null,
+        "desc": "",
+        "time": 1784337347000,
+        "source": "知乎",
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "title": "如何看待今年清华大学录取通知书取消立体二校门设计？",
+        "url": "https://www.zhihu.com/question/2060790194375242135",
+        "hot": null,
+        "desc": "",
+        "time": 1784110669000,
+        "source": "知乎",
+        "rank": 2,
+        "category": "教育"
+      },
+      {
+        "title": "大学没考好，想不读普本，直接到社会上见识如何？",
+        "url": "https://www.zhihu.com/question/2059870490727015991",
+        "hot": null,
+        "desc": "",
+        "time": 1783891395000,
+        "source": "知乎",
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "title": "为什么印度小吃摊的卫生看起来那么糟，很多国人去吃了闹肚子，可是印度人却不受影响？",
+        "url": "https://www.zhihu.com/question/2060535612919363451",
+        "hot": null,
+        "desc": "",
+        "time": 1784049973000,
+        "source": "知乎",
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "title": "中学生无法购买高铁学生票，12306 称学生需异地上学并开具证明，如何看待这一购票规则？是否需要改进？",
+        "url": "https://www.zhihu.com/question/2061093407297115914",
+        "hot": null,
+        "desc": "",
+        "time": 1784182961000,
+        "source": "知乎",
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "title": "姆巴佩 2 射 1 传成历史射手王，一战刷爆 14 大纪录，如何评价他在世界杯季军赛的表现？",
+        "url": "https://www.zhihu.com/question/2062077879253295768",
+        "hot": null,
+        "desc": "",
+        "time": 1784417677000,
+        "source": "知乎",
+        "rank": 6,
+        "category": "教育"
+      }
+    ],
+    "娱乐": [
+      {
+        "title": "中超重庆铜梁龙1:1浙江队",
+        "url": "https://www.douyin.com/search/%E4%B8%AD%E8%B6%85%E9%87%8D%E5%BA%86%E9%93%9C%E6%A2%81%E9%BE%991%3A1%E6%B5%99%E6%B1%9F%E9%98%9F",
+        "hot": 7723171,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 1,
+        "category": "娱乐"
+      },
+      {
+        "title": "功夫女足能人辈出",
+        "url": "https://www.douyin.com/search/%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E8%83%BD%E4%BA%BA%E8%BE%88%E5%87%BA",
+        "hot": 7701511,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 2,
+        "category": "娱乐"
+      },
+      {
+        "title": "没有弹壳拿不下的风格",
+        "url": "https://www.douyin.com/search/%E6%B2%A1%E6%9C%89%E5%BC%B9%E5%A3%B3%E6%8B%BF%E4%B8%8D%E4%B8%8B%E7%9A%84%E9%A3%8E%E6%A0%BC",
+        "hot": 7652300,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 3,
+        "category": "娱乐"
+      },
+      {
+        "title": "贝林厄姆 颜值",
+        "url": "https://s.weibo.com/weibo?q=%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86%20%E9%A2%9C%E5%80%BC",
+        "hot": 824790,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "娱乐"
+      },
+      {
+        "title": "为何穿凉鞋的人越来越少了",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BD%95%E7%A9%BF%E5%87%89%E9%9E%8B%E7%9A%84%E4%BA%BA%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%B0%91%E4%BA%86",
+        "hot": 452239,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "娱乐"
+      },
+      {
+        "title": "法律不是让父亲被带走的泄愤工具",
+        "url": "https://s.weibo.com/weibo?q=%E6%B3%95%E5%BE%8B%E4%B8%8D%E6%98%AF%E8%AE%A9%E7%88%B6%E4%BA%B2%E8%A2%AB%E5%B8%A6%E8%B5%B0%E7%9A%84%E6%B3%84%E6%84%A4%E5%B7%A5%E5%85%B7",
+        "hot": 254965,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "娱乐"
+      }
+    ],
+    "医疗": [
+      {
+        "title": "姆巴佩历史第一",
+        "url": "https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%8E%86%E5%8F%B2%E7%AC%AC%E4%B8%80",
+        "hot": 1167843,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 1,
+        "category": "医疗"
+      },
+      {
+        "title": "贝林厄姆 颜值",
+        "url": "https://s.weibo.com/weibo?q=%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86%20%E9%A2%9C%E5%80%BC",
+        "hot": 824790,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 2,
+        "category": "医疗"
+      },
+      {
+        "title": "中国AI产业落地跑出加速度",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BDAI%E4%BA%A7%E4%B8%9A%E8%90%BD%E5%9C%B0%E8%B7%91%E5%87%BA%E5%8A%A0%E9%80%9F%E5%BA%A6",
+        "hot": 684441,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "医疗"
+      },
+      {
+        "title": "这比出轨更令人难以接受",
+        "url": "https://s.weibo.com/weibo?q=%E8%BF%99%E6%AF%94%E5%87%BA%E8%BD%A8%E6%9B%B4%E4%BB%A4%E4%BA%BA%E9%9A%BE%E4%BB%A5%E6%8E%A5%E5%8F%97",
+        "hot": 675496,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "医疗"
+      },
+      {
+        "title": "刘宇宁让粉丝删掉不好听的评论",
+        "url": "https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E8%AE%A9%E7%B2%89%E4%B8%9D%E5%88%A0%E6%8E%89%E4%B8%8D%E5%A5%BD%E5%90%AC%E7%9A%84%E8%AF%84%E8%AE%BA",
+        "hot": 666885,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "医疗"
+      },
+      {
+        "title": "王俊凯前助理去了王俊凯演唱会",
+        "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%89%8D%E5%8A%A9%E7%90%86%E5%8E%BB%E4%BA%86%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%BC%94%E5%94%B1%E4%BC%9A",
+        "hot": 624958,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "医疗"
+      }
+    ],
+    "财经": [
+      {
+        "title": "姆巴佩历史第一",
+        "url": "https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%8E%86%E5%8F%B2%E7%AC%AC%E4%B8%80",
+        "hot": 1167843,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "title": "贝林厄姆 颜值",
+        "url": "https://s.weibo.com/weibo?q=%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86%20%E9%A2%9C%E5%80%BC",
+        "hot": 824790,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 2,
+        "category": "财经"
+      },
+      {
+        "title": "中国AI产业落地跑出加速度",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BDAI%E4%BA%A7%E4%B8%9A%E8%90%BD%E5%9C%B0%E8%B7%91%E5%87%BA%E5%8A%A0%E9%80%9F%E5%BA%A6",
+        "hot": 684441,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "title": "这比出轨更令人难以接受",
+        "url": "https://s.weibo.com/weibo?q=%E8%BF%99%E6%AF%94%E5%87%BA%E8%BD%A8%E6%9B%B4%E4%BB%A4%E4%BA%BA%E9%9A%BE%E4%BB%A5%E6%8E%A5%E5%8F%97",
+        "hot": 675496,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "title": "刘宇宁让粉丝删掉不好听的评论",
+        "url": "https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E8%AE%A9%E7%B2%89%E4%B8%9D%E5%88%A0%E6%8E%89%E4%B8%8D%E5%A5%BD%E5%90%AC%E7%9A%84%E8%AF%84%E8%AE%BA",
+        "hot": 666885,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "title": "王俊凯前助理去了王俊凯演唱会",
+        "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%89%8D%E5%8A%A9%E7%90%86%E5%8E%BB%E4%BA%86%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%BC%94%E5%94%B1%E4%BC%9A",
+        "hot": 624958,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "财经"
+      }
+    ],
+    "体育": [
+      {
+        "title": "英格兰队史首获世界杯铜牌",
+        "url": "https://www.douyin.com/search/%E8%8B%B1%E6%A0%BC%E5%85%B0%E9%98%9F%E5%8F%B2%E9%A6%96%E8%8E%B7%E4%B8%96%E7%95%8C%E6%9D%AF%E9%93%9C%E7%89%8C",
+        "hot": 8234525,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "title": "姆巴佩22球登顶世界杯历史射手榜",
+        "url": "https://www.douyin.com/search/%E5%A7%86%E5%B7%B4%E4%BD%A922%E7%90%83%E7%99%BB%E9%A1%B6%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8E%86%E5%8F%B2%E5%B0%84%E6%89%8B%E6%A6%9C",
+        "hot": 7762466,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "title": "中超重庆铜梁龙1:1浙江队",
+        "url": "https://www.douyin.com/search/%E4%B8%AD%E8%B6%85%E9%87%8D%E5%BA%86%E9%93%9C%E6%A2%81%E9%BE%991%3A1%E6%B5%99%E6%B1%9F%E9%98%9F",
+        "hot": 7723171,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "title": "老吃家都来世界杯面大赛了",
+        "url": "https://www.douyin.com/search/%E8%80%81%E5%90%83%E5%AE%B6%E9%83%BD%E6%9D%A5%E4%B8%96%E7%95%8C%E6%9D%AF%E9%9D%A2%E5%A4%A7%E8%B5%9B%E4%BA%86",
+        "hot": 7647043,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "title": "姆巴佩历史第一",
+        "url": "https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%8E%86%E5%8F%B2%E7%AC%AC%E4%B8%80",
+        "hot": 1167843,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "title": "那些年一起追过的世界杯",
+        "url": "https://s.weibo.com/weibo?q=%E9%82%A3%E4%BA%9B%E5%B9%B4%E4%B8%80%E8%B5%B7%E8%BF%BD%E8%BF%87%E7%9A%84%E4%B8%96%E7%95%8C%E6%9D%AF",
+        "hot": 175167,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "体育"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "解锁那达慕全攻略",
+        "url": "https://www.douyin.com/search/%E8%A7%A3%E9%94%81%E9%82%A3%E8%BE%BE%E6%85%95%E5%85%A8%E6%94%BB%E7%95%A5",
+        "hot": 11756898,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "title": "英格兰6:4法国收获铜牌",
+        "url": "https://www.douyin.com/search/%E8%8B%B1%E6%A0%BC%E5%85%B06%3A4%E6%B3%95%E5%9B%BD%E6%94%B6%E8%8E%B7%E9%93%9C%E7%89%8C",
+        "hot": 11383844,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 2,
+        "category": "游戏"
+      },
+      {
+        "title": "看见中国人工智能创新力量",
+        "url": "https://www.douyin.com/search/%E7%9C%8B%E8%A7%81%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%88%9B%E6%96%B0%E5%8A%9B%E9%87%8F",
+        "hot": 11247258,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "title": "提前预习小个子秋冬穿搭指南",
+        "url": "https://www.douyin.com/search/%E6%8F%90%E5%89%8D%E9%A2%84%E4%B9%A0%E5%B0%8F%E4%B8%AA%E5%AD%90%E7%A7%8B%E5%86%AC%E7%A9%BF%E6%90%AD%E6%8C%87%E5%8D%97",
+        "hot": 10863266,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "title": "KC绝境逆转T1晋级EWC决赛",
+        "url": "https://www.douyin.com/search/KC%E7%BB%9D%E5%A2%83%E9%80%86%E8%BD%ACT1%E6%99%8B%E7%BA%A7EWC%E5%86%B3%E8%B5%9B",
+        "hot": 9919455,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "title": "谁才是真正的灭蚊王者",
+        "url": "https://www.douyin.com/search/%E8%B0%81%E6%89%8D%E6%98%AF%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%81%AD%E8%9A%8A%E7%8E%8B%E8%80%85",
+        "hot": 7625303,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 6,
+        "category": "游戏"
+      }
+    ],
+    "汽车": [
+      {
+        "title": "姆巴佩历史第一",
+        "url": "https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%8E%86%E5%8F%B2%E7%AC%AC%E4%B8%80",
+        "hot": 1167843,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "title": "贝林厄姆 颜值",
+        "url": "https://s.weibo.com/weibo?q=%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86%20%E9%A2%9C%E5%80%BC",
+        "hot": 824790,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 2,
+        "category": "汽车"
+      },
+      {
+        "title": "中国AI产业落地跑出加速度",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BDAI%E4%BA%A7%E4%B8%9A%E8%90%BD%E5%9C%B0%E8%B7%91%E5%87%BA%E5%8A%A0%E9%80%9F%E5%BA%A6",
+        "hot": 684441,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "汽车"
+      },
+      {
+        "title": "这比出轨更令人难以接受",
+        "url": "https://s.weibo.com/weibo?q=%E8%BF%99%E6%AF%94%E5%87%BA%E8%BD%A8%E6%9B%B4%E4%BB%A4%E4%BA%BA%E9%9A%BE%E4%BB%A5%E6%8E%A5%E5%8F%97",
+        "hot": 675496,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "title": "刘宇宁让粉丝删掉不好听的评论",
+        "url": "https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E8%AE%A9%E7%B2%89%E4%B8%9D%E5%88%A0%E6%8E%89%E4%B8%8D%E5%A5%BD%E5%90%AC%E7%9A%84%E8%AF%84%E8%AE%BA",
+        "hot": 666885,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "title": "王俊凯前助理去了王俊凯演唱会",
+        "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%89%8D%E5%8A%A9%E7%90%86%E5%8E%BB%E4%BA%86%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%BC%94%E5%94%B1%E4%BC%9A",
+        "hot": 624958,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "汽车"
+      }
+    ],
+    "美食": [
+      {
+        "title": "姆巴佩历史第一",
+        "url": "https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%8E%86%E5%8F%B2%E7%AC%AC%E4%B8%80",
+        "hot": 1167843,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "title": "贝林厄姆 颜值",
+        "url": "https://s.weibo.com/weibo?q=%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86%20%E9%A2%9C%E5%80%BC",
+        "hot": 824790,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 2,
+        "category": "美食"
+      },
+      {
+        "title": "中国AI产业落地跑出加速度",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BDAI%E4%BA%A7%E4%B8%9A%E8%90%BD%E5%9C%B0%E8%B7%91%E5%87%BA%E5%8A%A0%E9%80%9F%E5%BA%A6",
+        "hot": 684441,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "title": "这比出轨更令人难以接受",
+        "url": "https://s.weibo.com/weibo?q=%E8%BF%99%E6%AF%94%E5%87%BA%E8%BD%A8%E6%9B%B4%E4%BB%A4%E4%BA%BA%E9%9A%BE%E4%BB%A5%E6%8E%A5%E5%8F%97",
+        "hot": 675496,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "title": "刘宇宁让粉丝删掉不好听的评论",
+        "url": "https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E8%AE%A9%E7%B2%89%E4%B8%9D%E5%88%A0%E6%8E%89%E4%B8%8D%E5%A5%BD%E5%90%AC%E7%9A%84%E8%AF%84%E8%AE%BA",
+        "hot": 666885,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "title": "王俊凯前助理去了王俊凯演唱会",
+        "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%89%8D%E5%8A%A9%E7%90%86%E5%8E%BB%E4%BA%86%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%BC%94%E5%94%B1%E4%BC%9A",
+        "hot": 624958,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "美食"
+      }
+    ],
+    "旅游": [
+      {
+        "title": "解锁那达慕全攻略",
+        "url": "https://www.douyin.com/search/%E8%A7%A3%E9%94%81%E9%82%A3%E8%BE%BE%E6%85%95%E5%85%A8%E6%94%BB%E7%95%A5",
+        "hot": 11756898,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 1,
+        "category": "旅游"
+      },
+      {
+        "title": "旅游那达慕开幕了",
+        "url": "https://www.douyin.com/search/%E6%97%85%E6%B8%B8%E9%82%A3%E8%BE%BE%E6%85%95%E5%BC%80%E5%B9%95%E4%BA%86",
+        "hot": 7657882,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 2,
+        "category": "旅游"
+      },
+      {
+        "title": "姆巴佩历史第一",
+        "url": "https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%8E%86%E5%8F%B2%E7%AC%AC%E4%B8%80",
+        "hot": 1167843,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "旅游"
+      },
+      {
+        "title": "贝林厄姆 颜值",
+        "url": "https://s.weibo.com/weibo?q=%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86%20%E9%A2%9C%E5%80%BC",
+        "hot": 824790,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "title": "中国AI产业落地跑出加速度",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BDAI%E4%BA%A7%E4%B8%9A%E8%90%BD%E5%9C%B0%E8%B7%91%E5%87%BA%E5%8A%A0%E9%80%9F%E5%BA%A6",
+        "hot": 684441,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "旅游"
+      },
+      {
+        "title": "这比出轨更令人难以接受",
+        "url": "https://s.weibo.com/weibo?q=%E8%BF%99%E6%AF%94%E5%87%BA%E8%BD%A8%E6%9B%B4%E4%BB%A4%E4%BA%BA%E9%9A%BE%E4%BB%A5%E6%8E%A5%E5%8F%97",
+        "hot": 675496,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "旅游"
+      }
+    ],
+    "军事": [
+      {
+        "title": "姆巴佩历史第一",
+        "url": "https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%8E%86%E5%8F%B2%E7%AC%AC%E4%B8%80",
+        "hot": 1167843,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 1,
+        "category": "军事"
+      },
+      {
+        "title": "贝林厄姆 颜值",
+        "url": "https://s.weibo.com/weibo?q=%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86%20%E9%A2%9C%E5%80%BC",
+        "hot": 824790,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "title": "中国AI产业落地跑出加速度",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BDAI%E4%BA%A7%E4%B8%9A%E8%90%BD%E5%9C%B0%E8%B7%91%E5%87%BA%E5%8A%A0%E9%80%9F%E5%BA%A6",
+        "hot": 684441,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "军事"
+      },
+      {
+        "title": "这比出轨更令人难以接受",
+        "url": "https://s.weibo.com/weibo?q=%E8%BF%99%E6%AF%94%E5%87%BA%E8%BD%A8%E6%9B%B4%E4%BB%A4%E4%BA%BA%E9%9A%BE%E4%BB%A5%E6%8E%A5%E5%8F%97",
+        "hot": 675496,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "军事"
+      },
+      {
+        "title": "刘宇宁让粉丝删掉不好听的评论",
+        "url": "https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E8%AE%A9%E7%B2%89%E4%B8%9D%E5%88%A0%E6%8E%89%E4%B8%8D%E5%A5%BD%E5%90%AC%E7%9A%84%E8%AF%84%E8%AE%BA",
+        "hot": 666885,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "军事"
+      },
+      {
+        "title": "王俊凯前助理去了王俊凯演唱会",
+        "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%89%8D%E5%8A%A9%E7%90%86%E5%8E%BB%E4%BA%86%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%BC%94%E5%94%B1%E4%BC%9A",
+        "hot": 624958,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "军事"
+      }
+    ],
+    "国际": [
+      {
+        "title": "美国Inkling模型借鉴中国AI技术",
+        "url": "https://www.toutiao.com/trending/7664054078292364819",
+        "hot": 1571586,
+        "desc": "",
+        "time": null,
+        "source": "今日头条",
+        "rank": 1,
+        "category": "国际"
+      },
+      {
+        "title": "姆巴佩历史第一",
+        "url": "https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%8E%86%E5%8F%B2%E7%AC%AC%E4%B8%80",
+        "hot": 1167843,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 2,
+        "category": "国际"
+      },
+      {
+        "title": "全球科技股抛售潮接近尾声了吗",
+        "url": "https://www.toutiao.com/trending/7663165060491296819",
+        "hot": 953215,
+        "desc": "",
+        "time": null,
+        "source": "今日头条",
+        "rank": 3,
+        "category": "国际"
+      },
+      {
+        "title": "贝林厄姆 颜值",
+        "url": "https://s.weibo.com/weibo?q=%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86%20%E9%A2%9C%E5%80%BC",
+        "hot": 824790,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "国际"
+      },
+      {
+        "title": "国产C909海外再下一城",
+        "url": "https://www.toutiao.com/trending/7663239907929902634",
+        "hot": 212691,
+        "desc": "",
+        "time": null,
+        "source": "今日头条",
+        "rank": 5,
+        "category": "国际"
+      },
+      {
+        "title": "翻翻谷立言和“美国在台协会”老底",
+        "url": "https://www.toutiao.com/trending/7663918275012706340",
+        "hot": 192450,
+        "desc": "",
+        "time": null,
+        "source": "今日头条",
+        "rank": 6,
+        "category": "国际"
+      }
+    ],
+    "文化": [
+      {
+        "title": "姆巴佩 2 射 1 传成历史射手王，一战刷爆 14 大纪录，如何评价他在世界杯季军赛的表现？",
+        "url": "https://www.zhihu.com/question/2062077879253295768",
+        "hot": null,
+        "desc": "",
+        "time": 1784417677000,
+        "source": "知乎",
+        "rank": 1,
+        "category": "文化"
+      },
+      {
+        "title": "如何看待今年清华大学录取通知书取消立体二校门设计？",
+        "url": "https://www.zhihu.com/question/2060790194375242135",
+        "hot": null,
+        "desc": "",
+        "time": 1784110669000,
+        "source": "知乎",
+        "rank": 2,
+        "category": "文化"
+      },
+      {
+        "title": "中学生无法购买高铁学生票，12306 称学生需异地上学并开具证明，如何看待这一购票规则？是否需要改进？",
+        "url": "https://www.zhihu.com/question/2061093407297115914",
+        "hot": null,
+        "desc": "",
+        "time": 1784182961000,
+        "source": "知乎",
+        "rank": 3,
+        "category": "文化"
+      },
+      {
+        "title": "为什么印度小吃摊的卫生看起来那么糟，很多国人去吃了闹肚子，可是印度人却不受影响？",
+        "url": "https://www.zhihu.com/question/2060535612919363451",
+        "hot": null,
+        "desc": "",
+        "time": 1784049973000,
+        "source": "知乎",
+        "rank": 4,
+        "category": "文化"
+      },
+      {
+        "title": "法国 4-6 英格兰这场比赛算是诚信互刷吗？你怎么看？",
+        "url": "https://www.zhihu.com/question/2062079550658274248",
+        "hot": null,
+        "desc": "",
+        "time": 1784418076000,
+        "source": "知乎",
+        "rank": 5,
+        "category": "文化"
+      },
+      {
+        "title": "世界杯季军赛，法国 4-6 英格兰，萨卡戴帽，姆巴佩双响创纪录，如何评价本场比赛？",
+        "url": "https://www.zhihu.com/question/2061740947776579179",
+        "hot": null,
+        "desc": "",
+        "time": 1784337347000,
+        "source": "知乎",
+        "rank": 6,
+        "category": "文化"
+      }
+    ]
+  },
+  "total": 103
+}
