@@ -1,0 +1,1117 @@
+{
+  "generatedAt": "2026-07-21T04:19:03.558Z",
+  "source": "60s.viki.moe",
+  "headlines": [
+    {
+      "title": "美军伤亡不断攀升 美国如何报复伊朗",
+      "url": "https://www.toutiao.com/trending/7664792452200500746",
+      "hot": 30588182,
+      "desc": "",
+      "time": null,
+      "source": "今日头条",
+      "rank": 1,
+      "category": "国际",
+      "_domain": "国际"
+    },
+    {
+      "title": "本轮科技行情的最大风险是什么",
+      "url": "https://www.toutiao.com/trending/7664769657441619507",
+      "hot": 27677331,
+      "desc": "",
+      "time": null,
+      "source": "今日头条",
+      "rank": 1,
+      "category": "科技",
+      "_domain": "科技"
+    },
+    {
+      "title": "山西到底哪凉快",
+      "url": "https://www.douyin.com/search/%E5%B1%B1%E8%A5%BF%E5%88%B0%E5%BA%95%E5%93%AA%E5%87%89%E5%BF%AB",
+      "hot": 12111585,
+      "desc": "",
+      "time": null,
+      "source": "抖音",
+      "rank": 1,
+      "category": "游戏",
+      "_domain": "游戏"
+    },
+    {
+      "title": "周星驰25年后再跳酱爆舞",
+      "url": "https://www.douyin.com/search/%E5%91%A8%E6%98%9F%E9%A9%B025%E5%B9%B4%E5%90%8E%E5%86%8D%E8%B7%B3%E9%85%B1%E7%88%86%E8%88%9E",
+      "hot": 7723915,
+      "desc": "",
+      "time": null,
+      "source": "抖音",
+      "rank": 1,
+      "category": "娱乐",
+      "_domain": "娱乐"
+    },
+    {
+      "title": "西班牙队世界杯夺冠归国游行",
+      "url": "https://www.douyin.com/search/%E8%A5%BF%E7%8F%AD%E7%89%99%E9%98%9F%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%BA%E5%86%A0%E5%BD%92%E5%9B%BD%E6%B8%B8%E8%A1%8C",
+      "hot": 7708617,
+      "desc": "",
+      "time": null,
+      "source": "抖音",
+      "rank": 1,
+      "category": "体育",
+      "_domain": "体育"
+    },
+    {
+      "title": "被那达慕的美食硬控了",
+      "url": "https://www.douyin.com/search/%E8%A2%AB%E9%82%A3%E8%BE%BE%E6%85%95%E7%9A%84%E7%BE%8E%E9%A3%9F%E7%A1%AC%E6%8E%A7%E4%BA%86",
+      "hot": 7629061,
+      "desc": "",
+      "time": null,
+      "source": "抖音",
+      "rank": 1,
+      "category": "美食",
+      "_domain": "美食"
+    }
+  ],
+  "categories": {
+    "科技": [
+      {
+        "title": "本轮科技行情的最大风险是什么",
+        "url": "https://www.toutiao.com/trending/7664769657441619507",
+        "hot": 27677331,
+        "desc": "",
+        "time": null,
+        "source": "今日头条",
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "title": "合肥城建：与长鑫科技无任何业务往来",
+        "url": "https://www.toutiao.com/trending/7664412667651506185",
+        "hot": 3066735,
+        "desc": "",
+        "time": null,
+        "source": "今日头条",
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "title": "中国科技这3组数字真提气",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E8%BF%993%E7%BB%84%E6%95%B0%E5%AD%97%E7%9C%9F%E6%8F%90%E6%B0%94",
+        "hot": 1651569,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "title": "美国拟限制中国开源AI模型",
+        "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E6%8B%9F%E9%99%90%E5%88%B6%E4%B8%AD%E5%9B%BD%E5%BC%80%E6%BA%90AI%E6%A8%A1%E5%9E%8B",
+        "hot": 182782,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "title": "手把手教你关掉藏在手机里的耳朵",
+        "url": "https://s.weibo.com/weibo?q=%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E5%85%B3%E6%8E%89%E8%97%8F%E5%9C%A8%E6%89%8B%E6%9C%BA%E9%87%8C%E7%9A%84%E8%80%B3%E6%9C%B5",
+        "hot": 143266,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "title": "OpenAI 负责人称 Kimi 开源是减速主义，他的说法有道理吗？开源对 AI 的发展能带来什么？",
+        "url": "https://www.zhihu.com/question/2062575282591209175",
+        "hot": null,
+        "desc": "",
+        "time": 1784536268000,
+        "source": "知乎",
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "title": "大 S 被曝曾用手机写遗嘱但徐家不认，从法律角度看，手机遗嘱的有效性如何认定？会怎样影响其遗产分配？",
+        "url": "https://www.zhihu.com/question/2060759987933263322",
+        "hot": null,
+        "desc": "",
+        "time": 1784103468000,
+        "source": "知乎",
+        "rank": 7,
+        "category": "科技"
+      }
+    ],
+    "人工智能": [
+      {
+        "title": "美国拟限制中国开源AI模型",
+        "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E6%8B%9F%E9%99%90%E5%88%B6%E4%B8%AD%E5%9B%BD%E5%BC%80%E6%BA%90AI%E6%A8%A1%E5%9E%8B",
+        "hot": 182782,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 1,
+        "category": "人工智能"
+      },
+      {
+        "title": "如何看待2026年临床医学录取分数线下降？",
+        "url": "https://www.zhihu.com/question/2061925103441650722",
+        "hot": null,
+        "desc": "",
+        "time": 1784381253000,
+        "source": "知乎",
+        "rank": 2,
+        "category": "人工智能"
+      },
+      {
+        "title": "DeepSeek V4 开放灰度测试，你认为能超越 Kimi K3 吗？两个大模型各有哪些优劣？",
+        "url": "https://www.zhihu.com/question/2062579631564093084",
+        "hot": null,
+        "desc": "",
+        "time": 1784537305000,
+        "source": "知乎",
+        "rank": 3,
+        "category": "人工智能"
+      },
+      {
+        "title": "OpenAI 负责人称 Kimi 开源是减速主义，他的说法有道理吗？开源对 AI 的发展能带来什么？",
+        "url": "https://www.zhihu.com/question/2062575282591209175",
+        "hot": null,
+        "desc": "",
+        "time": 1784536268000,
+        "source": "知乎",
+        "rank": 4,
+        "category": "人工智能"
+      },
+      {
+        "title": "为何生鸡蛋拌饭味道如此平庸，却让日本人着迷？",
+        "url": "https://www.zhihu.com/question/2055058384097955896",
+        "hot": null,
+        "desc": "",
+        "time": 1782744099000,
+        "source": "知乎",
+        "rank": 5,
+        "category": "人工智能"
+      },
+      {
+        "title": "为什么恋综这么多高颜值精英、富二代、留学生，但是他们在恋综呈现出的生活依旧很无聊?",
+        "url": "https://www.zhihu.com/question/2001825569575306638",
+        "hot": null,
+        "desc": "",
+        "time": 1770052407000,
+        "source": "知乎",
+        "rank": 6,
+        "category": "人工智能"
+      }
+    ],
+    "人文": [
+      {
+        "title": "为何生鸡蛋拌饭味道如此平庸，却让日本人着迷？",
+        "url": "https://www.zhihu.com/question/2055058384097955896",
+        "hot": null,
+        "desc": "",
+        "time": 1782744099000,
+        "source": "知乎",
+        "rank": 1,
+        "category": "人文"
+      },
+      {
+        "title": "为什么恋综这么多高颜值精英、富二代、留学生，但是他们在恋综呈现出的生活依旧很无聊?",
+        "url": "https://www.zhihu.com/question/2001825569575306638",
+        "hot": null,
+        "desc": "",
+        "time": 1770052407000,
+        "source": "知乎",
+        "rank": 2,
+        "category": "人文"
+      },
+      {
+        "title": "马来西亚宣布驱逐所有以色列人，将带来哪些影响？双方究竟有什么历史渊源？",
+        "url": "https://www.zhihu.com/question/2062272589561423863",
+        "hot": null,
+        "desc": "",
+        "time": 1784464100000,
+        "source": "知乎",
+        "rank": 3,
+        "category": "人文"
+      },
+      {
+        "title": "中国海警局发布菲律宾非法「坐滩」57 号舰蓄意挑衅的声明，并公布现场画面，有哪些信息值得关注？",
+        "url": "https://www.zhihu.com/question/2062608470700975381",
+        "hot": null,
+        "desc": "",
+        "time": 1784544180000,
+        "source": "知乎",
+        "rank": 4,
+        "category": "人文"
+      },
+      {
+        "title": "阿根廷首都球迷聚集演变为骚乱，警方出动水炮车，15 人被捕，如何看待此类冲突？阿根廷足球文化有何特点？",
+        "url": "https://www.zhihu.com/question/2062554076487881992",
+        "hot": null,
+        "desc": "",
+        "time": 1784531212000,
+        "source": "知乎",
+        "rank": 5,
+        "category": "人文"
+      },
+      {
+        "title": "如何看待2026年临床医学录取分数线下降？",
+        "url": "https://www.zhihu.com/question/2061925103441650722",
+        "hot": null,
+        "desc": "",
+        "time": 1784381253000,
+        "source": "知乎",
+        "rank": 6,
+        "category": "人文"
+      }
+    ],
+    "社会": [
+      {
+        "title": "中国科技这3组数字真提气",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E8%BF%993%E7%BB%84%E6%95%B0%E5%AD%97%E7%9C%9F%E6%8F%90%E6%B0%94",
+        "hot": 1651569,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 1,
+        "category": "社会"
+      },
+      {
+        "title": "买了一套七个阳台的奇葩房子",
+        "url": "https://s.weibo.com/weibo?q=%E4%B9%B0%E4%BA%86%E4%B8%80%E5%A5%97%E4%B8%83%E4%B8%AA%E9%98%B3%E5%8F%B0%E7%9A%84%E5%A5%87%E8%91%A9%E6%88%BF%E5%AD%90",
+        "hot": 1378629,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 2,
+        "category": "社会"
+      },
+      {
+        "title": "年会不能停2预告",
+        "url": "https://s.weibo.com/weibo?q=%E5%B9%B4%E4%BC%9A%E4%B8%8D%E8%83%BD%E5%81%9C2%E9%A2%84%E5%91%8A",
+        "hot": 329346,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "社会"
+      },
+      {
+        "title": "房东觉得房子卖亏了报复买家",
+        "url": "https://s.weibo.com/weibo?q=%E6%88%BF%E4%B8%9C%E8%A7%89%E5%BE%97%E6%88%BF%E5%AD%90%E5%8D%96%E4%BA%8F%E4%BA%86%E6%8A%A5%E5%A4%8D%E4%B9%B0%E5%AE%B6",
+        "hot": 315238,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "社会"
+      },
+      {
+        "title": "谢贤曾辟谣不喜欢王菲",
+        "url": "https://s.weibo.com/weibo?q=%E8%B0%A2%E8%B4%A4%E6%9B%BE%E8%BE%9F%E8%B0%A3%E4%B8%8D%E5%96%9C%E6%AC%A2%E7%8E%8B%E8%8F%B2",
+        "hot": 310227,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "社会"
+      },
+      {
+        "title": "西班牙夺冠合影特朗普被裁掉",
+        "url": "https://s.weibo.com/weibo?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E5%A4%BA%E5%86%A0%E5%90%88%E5%BD%B1%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E8%A3%81%E6%8E%89",
+        "hot": 305382,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "社会"
+      },
+      {
+        "title": "赵今麦王安宇一念江南官宣节奏",
+        "url": "https://s.weibo.com/weibo?q=%E8%B5%B5%E4%BB%8A%E9%BA%A6%E7%8E%8B%E5%AE%89%E5%AE%87%E4%B8%80%E5%BF%B5%E6%B1%9F%E5%8D%97%E5%AE%98%E5%AE%A3%E8%8A%82%E5%A5%8F",
+        "hot": 210891,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 7,
+        "category": "社会"
+      },
+      {
+        "title": "侧睡真的很舒服",
+        "url": "https://s.weibo.com/weibo?q=%E4%BE%A7%E7%9D%A1%E7%9C%9F%E7%9A%84%E5%BE%88%E8%88%92%E6%9C%8D",
+        "hot": 150089,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 8,
+        "category": "社会"
+      }
+    ],
+    "教育": [
+      {
+        "title": "高考684分进了双非院校女生发声",
+        "url": "https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83684%E5%88%86%E8%BF%9B%E4%BA%86%E5%8F%8C%E9%9D%9E%E9%99%A2%E6%A0%A1%E5%A5%B3%E7%94%9F%E5%8F%91%E5%A3%B0",
+        "hot": 2195480,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "title": "女生高考684分花3000元咨询进双非",
+        "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83684%E5%88%86%E8%8A%B13000%E5%85%83%E5%92%A8%E8%AF%A2%E8%BF%9B%E5%8F%8C%E9%9D%9E",
+        "hot": 1148585,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 2,
+        "category": "教育"
+      },
+      {
+        "title": "高考684分进双非女生原计划上央财",
+        "url": "https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83684%E5%88%86%E8%BF%9B%E5%8F%8C%E9%9D%9E%E5%A5%B3%E7%94%9F%E5%8E%9F%E8%AE%A1%E5%88%92%E4%B8%8A%E5%A4%AE%E8%B4%A2",
+        "hot": 1026349,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "title": "女生高考684分花3000元咨询进双非，原计划上央财、上财，为什么会出现这种情况？高报师能赔偿吗？",
+        "url": "https://www.zhihu.com/question/2062830801440306762",
+        "hot": null,
+        "desc": "",
+        "time": 1784597188000,
+        "source": "知乎",
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "title": "为什么恋综这么多高颜值精英、富二代、留学生，但是他们在恋综呈现出的生活依旧很无聊?",
+        "url": "https://www.zhihu.com/question/2001825569575306638",
+        "hot": null,
+        "desc": "",
+        "time": 1770052407000,
+        "source": "知乎",
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "title": "如何看待2026年临床医学录取分数线下降？",
+        "url": "https://www.zhihu.com/question/2061925103441650722",
+        "hot": null,
+        "desc": "",
+        "time": 1784381253000,
+        "source": "知乎",
+        "rank": 6,
+        "category": "教育"
+      }
+    ],
+    "娱乐": [
+      {
+        "title": "周星驰25年后再跳酱爆舞",
+        "url": "https://www.douyin.com/search/%E5%91%A8%E6%98%9F%E9%A9%B025%E5%B9%B4%E5%90%8E%E5%86%8D%E8%B7%B3%E9%85%B1%E7%88%86%E8%88%9E",
+        "hot": 7723915,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 1,
+        "category": "娱乐"
+      },
+      {
+        "title": "找到了韩剧里的千金感穿搭",
+        "url": "https://www.douyin.com/search/%E6%89%BE%E5%88%B0%E4%BA%86%E9%9F%A9%E5%89%A7%E9%87%8C%E7%9A%84%E5%8D%83%E9%87%91%E6%84%9F%E7%A9%BF%E6%90%AD",
+        "hot": 7632507,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 2,
+        "category": "娱乐"
+      },
+      {
+        "title": "谢霆锋青岛演唱会暂未取消",
+        "url": "https://www.douyin.com/search/%E8%B0%A2%E9%9C%86%E9%94%8B%E9%9D%92%E5%B2%9B%E6%BC%94%E5%94%B1%E4%BC%9A%E6%9A%82%E6%9C%AA%E5%8F%96%E6%B6%88",
+        "hot": 7624709,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 3,
+        "category": "娱乐"
+      },
+      {
+        "title": "哈兰德回应粉丝梗图",
+        "url": "https://www.douyin.com/search/%E5%93%88%E5%85%B0%E5%BE%B7%E5%9B%9E%E5%BA%94%E7%B2%89%E4%B8%9D%E6%A2%97%E5%9B%BE",
+        "hot": 7616595,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 4,
+        "category": "娱乐"
+      },
+      {
+        "title": "高考684分进双非女生原计划上央财",
+        "url": "https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83684%E5%88%86%E8%BF%9B%E5%8F%8C%E9%9D%9E%E5%A5%B3%E7%94%9F%E5%8E%9F%E8%AE%A1%E5%88%92%E4%B8%8A%E5%A4%AE%E8%B4%A2",
+        "hot": 1026349,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "娱乐"
+      },
+      {
+        "title": "房东觉得房子卖亏了报复买家",
+        "url": "https://s.weibo.com/weibo?q=%E6%88%BF%E4%B8%9C%E8%A7%89%E5%BE%97%E6%88%BF%E5%AD%90%E5%8D%96%E4%BA%8F%E4%BA%86%E6%8A%A5%E5%A4%8D%E4%B9%B0%E5%AE%B6",
+        "hot": 315238,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "娱乐"
+      },
+      {
+        "title": "维尼修斯整容了",
+        "url": "https://s.weibo.com/weibo?q=%E7%BB%B4%E5%B0%BC%E4%BF%AE%E6%96%AF%E6%95%B4%E5%AE%B9%E4%BA%86",
+        "hot": 301145,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 7,
+        "category": "娱乐"
+      },
+      {
+        "title": "幼童溺亡遗体在下游找到",
+        "url": "https://s.weibo.com/weibo?q=%E5%B9%BC%E7%AB%A5%E6%BA%BA%E4%BA%A1%E9%81%97%E4%BD%93%E5%9C%A8%E4%B8%8B%E6%B8%B8%E6%89%BE%E5%88%B0",
+        "hot": 210055,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 8,
+        "category": "娱乐"
+      }
+    ],
+    "医疗": [
+      {
+        "title": "怡颗莓 致癌物",
+        "url": "https://s.weibo.com/weibo?q=%E6%80%A1%E9%A2%97%E8%8E%93%20%E8%87%B4%E7%99%8C%E7%89%A9",
+        "hot": 4042556,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 1,
+        "category": "医疗"
+      },
+      {
+        "title": "高考684分进了双非院校女生发声",
+        "url": "https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83684%E5%88%86%E8%BF%9B%E4%BA%86%E5%8F%8C%E9%9D%9E%E9%99%A2%E6%A0%A1%E5%A5%B3%E7%94%9F%E5%8F%91%E5%A3%B0",
+        "hot": 2195480,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 2,
+        "category": "医疗"
+      },
+      {
+        "title": "中国科技这3组数字真提气",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E8%BF%993%E7%BB%84%E6%95%B0%E5%AD%97%E7%9C%9F%E6%8F%90%E6%B0%94",
+        "hot": 1651569,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "医疗"
+      },
+      {
+        "title": "买了一套七个阳台的奇葩房子",
+        "url": "https://s.weibo.com/weibo?q=%E4%B9%B0%E4%BA%86%E4%B8%80%E5%A5%97%E4%B8%83%E4%B8%AA%E9%98%B3%E5%8F%B0%E7%9A%84%E5%A5%87%E8%91%A9%E6%88%BF%E5%AD%90",
+        "hot": 1378629,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "医疗"
+      },
+      {
+        "title": "女生高考684分花3000元咨询进双非",
+        "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83684%E5%88%86%E8%8A%B13000%E5%85%83%E5%92%A8%E8%AF%A2%E8%BF%9B%E5%8F%8C%E9%9D%9E",
+        "hot": 1148585,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "医疗"
+      },
+      {
+        "title": "高考684分进双非女生原计划上央财",
+        "url": "https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83684%E5%88%86%E8%BF%9B%E5%8F%8C%E9%9D%9E%E5%A5%B3%E7%94%9F%E5%8E%9F%E8%AE%A1%E5%88%92%E4%B8%8A%E5%A4%AE%E8%B4%A2",
+        "hot": 1026349,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "医疗"
+      }
+    ],
+    "财经": [
+      {
+        "title": "怡颗莓 致癌物",
+        "url": "https://s.weibo.com/weibo?q=%E6%80%A1%E9%A2%97%E8%8E%93%20%E8%87%B4%E7%99%8C%E7%89%A9",
+        "hot": 4042556,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "title": "高考684分进了双非院校女生发声",
+        "url": "https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83684%E5%88%86%E8%BF%9B%E4%BA%86%E5%8F%8C%E9%9D%9E%E9%99%A2%E6%A0%A1%E5%A5%B3%E7%94%9F%E5%8F%91%E5%A3%B0",
+        "hot": 2195480,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 2,
+        "category": "财经"
+      },
+      {
+        "title": "中国科技这3组数字真提气",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E8%BF%993%E7%BB%84%E6%95%B0%E5%AD%97%E7%9C%9F%E6%8F%90%E6%B0%94",
+        "hot": 1651569,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "title": "买了一套七个阳台的奇葩房子",
+        "url": "https://s.weibo.com/weibo?q=%E4%B9%B0%E4%BA%86%E4%B8%80%E5%A5%97%E4%B8%83%E4%B8%AA%E9%98%B3%E5%8F%B0%E7%9A%84%E5%A5%87%E8%91%A9%E6%88%BF%E5%AD%90",
+        "hot": 1378629,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "title": "女生高考684分花3000元咨询进双非",
+        "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83684%E5%88%86%E8%8A%B13000%E5%85%83%E5%92%A8%E8%AF%A2%E8%BF%9B%E5%8F%8C%E9%9D%9E",
+        "hot": 1148585,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "title": "高考684分进双非女生原计划上央财",
+        "url": "https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83684%E5%88%86%E8%BF%9B%E5%8F%8C%E9%9D%9E%E5%A5%B3%E7%94%9F%E5%8E%9F%E8%AE%A1%E5%88%92%E4%B8%8A%E5%A4%AE%E8%B4%A2",
+        "hot": 1026349,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "财经"
+      }
+    ],
+    "体育": [
+      {
+        "title": "西班牙队世界杯夺冠归国游行",
+        "url": "https://www.douyin.com/search/%E8%A5%BF%E7%8F%AD%E7%89%99%E9%98%9F%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%BA%E5%86%A0%E5%BD%92%E5%9B%BD%E6%B8%B8%E8%A1%8C",
+        "hot": 7708617,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "title": "怡颗莓 致癌物",
+        "url": "https://s.weibo.com/weibo?q=%E6%80%A1%E9%A2%97%E8%8E%93%20%E8%87%B4%E7%99%8C%E7%89%A9",
+        "hot": 4042556,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "title": "高考684分进了双非院校女生发声",
+        "url": "https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83684%E5%88%86%E8%BF%9B%E4%BA%86%E5%8F%8C%E9%9D%9E%E9%99%A2%E6%A0%A1%E5%A5%B3%E7%94%9F%E5%8F%91%E5%A3%B0",
+        "hot": 2195480,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "title": "中国科技这3组数字真提气",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E8%BF%993%E7%BB%84%E6%95%B0%E5%AD%97%E7%9C%9F%E6%8F%90%E6%B0%94",
+        "hot": 1651569,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "title": "买了一套七个阳台的奇葩房子",
+        "url": "https://s.weibo.com/weibo?q=%E4%B9%B0%E4%BA%86%E4%B8%80%E5%A5%97%E4%B8%83%E4%B8%AA%E9%98%B3%E5%8F%B0%E7%9A%84%E5%A5%87%E8%91%A9%E6%88%BF%E5%AD%90",
+        "hot": 1378629,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "title": "樊振东缺席乒超联赛",
+        "url": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%BC%BA%E5%B8%AD%E4%B9%92%E8%B6%85%E8%81%94%E8%B5%9B",
+        "hot": 169405,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "体育"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "山西到底哪凉快",
+        "url": "https://www.douyin.com/search/%E5%B1%B1%E8%A5%BF%E5%88%B0%E5%BA%95%E5%93%AA%E5%87%89%E5%BF%AB",
+        "hot": 12111585,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "title": "谢贤被曝因肺炎离世",
+        "url": "https://www.douyin.com/search/%E8%B0%A2%E8%B4%A4%E8%A2%AB%E6%9B%9D%E5%9B%A0%E8%82%BA%E7%82%8E%E7%A6%BB%E4%B8%96",
+        "hot": 11122646,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 2,
+        "category": "游戏"
+      },
+      {
+        "title": "我国工业创新能力持续增强",
+        "url": "https://www.douyin.com/search/%E6%88%91%E5%9B%BD%E5%B7%A5%E4%B8%9A%E5%88%9B%E6%96%B0%E8%83%BD%E5%8A%9B%E6%8C%81%E7%BB%AD%E5%A2%9E%E5%BC%BA",
+        "hot": 11078425,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "title": "夏天就要去体验激情漂流",
+        "url": "https://www.douyin.com/search/%E5%A4%8F%E5%A4%A9%E5%B0%B1%E8%A6%81%E5%8E%BB%E4%BD%93%E9%AA%8C%E6%BF%80%E6%83%85%E6%BC%82%E6%B5%81",
+        "hot": 10929602,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "title": "A股",
+        "url": "https://www.douyin.com/search/A%E8%82%A1",
+        "hot": 10343676,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "title": "绑架杀害中国公民嫌犯被遣返",
+        "url": "https://www.douyin.com/search/%E7%BB%91%E6%9E%B6%E6%9D%80%E5%AE%B3%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%AB%8C%E7%8A%AF%E8%A2%AB%E9%81%A3%E8%BF%94",
+        "hot": 10231446,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 6,
+        "category": "游戏"
+      }
+    ],
+    "汽车": [
+      {
+        "title": "怡颗莓 致癌物",
+        "url": "https://s.weibo.com/weibo?q=%E6%80%A1%E9%A2%97%E8%8E%93%20%E8%87%B4%E7%99%8C%E7%89%A9",
+        "hot": 4042556,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "title": "高考684分进了双非院校女生发声",
+        "url": "https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83684%E5%88%86%E8%BF%9B%E4%BA%86%E5%8F%8C%E9%9D%9E%E9%99%A2%E6%A0%A1%E5%A5%B3%E7%94%9F%E5%8F%91%E5%A3%B0",
+        "hot": 2195480,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 2,
+        "category": "汽车"
+      },
+      {
+        "title": "中国科技这3组数字真提气",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E8%BF%993%E7%BB%84%E6%95%B0%E5%AD%97%E7%9C%9F%E6%8F%90%E6%B0%94",
+        "hot": 1651569,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "汽车"
+      },
+      {
+        "title": "买了一套七个阳台的奇葩房子",
+        "url": "https://s.weibo.com/weibo?q=%E4%B9%B0%E4%BA%86%E4%B8%80%E5%A5%97%E4%B8%83%E4%B8%AA%E9%98%B3%E5%8F%B0%E7%9A%84%E5%A5%87%E8%91%A9%E6%88%BF%E5%AD%90",
+        "hot": 1378629,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "title": "女生高考684分花3000元咨询进双非",
+        "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83684%E5%88%86%E8%8A%B13000%E5%85%83%E5%92%A8%E8%AF%A2%E8%BF%9B%E5%8F%8C%E9%9D%9E",
+        "hot": 1148585,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "title": "高考684分进双非女生原计划上央财",
+        "url": "https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83684%E5%88%86%E8%BF%9B%E5%8F%8C%E9%9D%9E%E5%A5%B3%E7%94%9F%E5%8E%9F%E8%AE%A1%E5%88%92%E4%B8%8A%E5%A4%AE%E8%B4%A2",
+        "hot": 1026349,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "汽车"
+      }
+    ],
+    "美食": [
+      {
+        "title": "被那达慕的美食硬控了",
+        "url": "https://www.douyin.com/search/%E8%A2%AB%E9%82%A3%E8%BE%BE%E6%85%95%E7%9A%84%E7%BE%8E%E9%A3%9F%E7%A1%AC%E6%8E%A7%E4%BA%86",
+        "hot": 7629061,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "title": "怡颗莓 致癌物",
+        "url": "https://s.weibo.com/weibo?q=%E6%80%A1%E9%A2%97%E8%8E%93%20%E8%87%B4%E7%99%8C%E7%89%A9",
+        "hot": 4042556,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 2,
+        "category": "美食"
+      },
+      {
+        "title": "高考684分进了双非院校女生发声",
+        "url": "https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83684%E5%88%86%E8%BF%9B%E4%BA%86%E5%8F%8C%E9%9D%9E%E9%99%A2%E6%A0%A1%E5%A5%B3%E7%94%9F%E5%8F%91%E5%A3%B0",
+        "hot": 2195480,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "title": "中国科技这3组数字真提气",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E8%BF%993%E7%BB%84%E6%95%B0%E5%AD%97%E7%9C%9F%E6%8F%90%E6%B0%94",
+        "hot": 1651569,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "title": "买了一套七个阳台的奇葩房子",
+        "url": "https://s.weibo.com/weibo?q=%E4%B9%B0%E4%BA%86%E4%B8%80%E5%A5%97%E4%B8%83%E4%B8%AA%E9%98%B3%E5%8F%B0%E7%9A%84%E5%A5%87%E8%91%A9%E6%88%BF%E5%AD%90",
+        "hot": 1378629,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "title": "女生高考684分花3000元咨询进双非",
+        "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83684%E5%88%86%E8%8A%B13000%E5%85%83%E5%92%A8%E8%AF%A2%E8%BF%9B%E5%8F%8C%E9%9D%9E",
+        "hot": 1148585,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "美食"
+      }
+    ],
+    "旅游": [
+      {
+        "title": "怡颗莓 致癌物",
+        "url": "https://s.weibo.com/weibo?q=%E6%80%A1%E9%A2%97%E8%8E%93%20%E8%87%B4%E7%99%8C%E7%89%A9",
+        "hot": 4042556,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 1,
+        "category": "旅游"
+      },
+      {
+        "title": "高考684分进了双非院校女生发声",
+        "url": "https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83684%E5%88%86%E8%BF%9B%E4%BA%86%E5%8F%8C%E9%9D%9E%E9%99%A2%E6%A0%A1%E5%A5%B3%E7%94%9F%E5%8F%91%E5%A3%B0",
+        "hot": 2195480,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 2,
+        "category": "旅游"
+      },
+      {
+        "title": "中国科技这3组数字真提气",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E8%BF%993%E7%BB%84%E6%95%B0%E5%AD%97%E7%9C%9F%E6%8F%90%E6%B0%94",
+        "hot": 1651569,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "旅游"
+      },
+      {
+        "title": "买了一套七个阳台的奇葩房子",
+        "url": "https://s.weibo.com/weibo?q=%E4%B9%B0%E4%BA%86%E4%B8%80%E5%A5%97%E4%B8%83%E4%B8%AA%E9%98%B3%E5%8F%B0%E7%9A%84%E5%A5%87%E8%91%A9%E6%88%BF%E5%AD%90",
+        "hot": 1378629,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "title": "女生高考684分花3000元咨询进双非",
+        "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83684%E5%88%86%E8%8A%B13000%E5%85%83%E5%92%A8%E8%AF%A2%E8%BF%9B%E5%8F%8C%E9%9D%9E",
+        "hot": 1148585,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "旅游"
+      },
+      {
+        "title": "高考684分进双非女生原计划上央财",
+        "url": "https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83684%E5%88%86%E8%BF%9B%E5%8F%8C%E9%9D%9E%E5%A5%B3%E7%94%9F%E5%8E%9F%E8%AE%A1%E5%88%92%E4%B8%8A%E5%A4%AE%E8%B4%A2",
+        "hot": 1026349,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "旅游"
+      }
+    ],
+    "军事": [
+      {
+        "title": "怡颗莓 致癌物",
+        "url": "https://s.weibo.com/weibo?q=%E6%80%A1%E9%A2%97%E8%8E%93%20%E8%87%B4%E7%99%8C%E7%89%A9",
+        "hot": 4042556,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 1,
+        "category": "军事"
+      },
+      {
+        "title": "高考684分进了双非院校女生发声",
+        "url": "https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83684%E5%88%86%E8%BF%9B%E4%BA%86%E5%8F%8C%E9%9D%9E%E9%99%A2%E6%A0%A1%E5%A5%B3%E7%94%9F%E5%8F%91%E5%A3%B0",
+        "hot": 2195480,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "title": "中国科技这3组数字真提气",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E8%BF%993%E7%BB%84%E6%95%B0%E5%AD%97%E7%9C%9F%E6%8F%90%E6%B0%94",
+        "hot": 1651569,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "军事"
+      },
+      {
+        "title": "买了一套七个阳台的奇葩房子",
+        "url": "https://s.weibo.com/weibo?q=%E4%B9%B0%E4%BA%86%E4%B8%80%E5%A5%97%E4%B8%83%E4%B8%AA%E9%98%B3%E5%8F%B0%E7%9A%84%E5%A5%87%E8%91%A9%E6%88%BF%E5%AD%90",
+        "hot": 1378629,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "军事"
+      },
+      {
+        "title": "女生高考684分花3000元咨询进双非",
+        "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83684%E5%88%86%E8%8A%B13000%E5%85%83%E5%92%A8%E8%AF%A2%E8%BF%9B%E5%8F%8C%E9%9D%9E",
+        "hot": 1148585,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "军事"
+      },
+      {
+        "title": "高考684分进双非女生原计划上央财",
+        "url": "https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83684%E5%88%86%E8%BF%9B%E5%8F%8C%E9%9D%9E%E5%A5%B3%E7%94%9F%E5%8E%9F%E8%AE%A1%E5%88%92%E4%B8%8A%E5%A4%AE%E8%B4%A2",
+        "hot": 1026349,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "军事"
+      }
+    ],
+    "国际": [
+      {
+        "title": "美军伤亡不断攀升 美国如何报复伊朗",
+        "url": "https://www.toutiao.com/trending/7664792452200500746",
+        "hot": 30588182,
+        "desc": "",
+        "time": null,
+        "source": "今日头条",
+        "rank": 1,
+        "category": "国际"
+      },
+      {
+        "title": "联合国对中东敌对行动再起深感关切",
+        "url": "https://www.toutiao.com/trending/7664775424324796457",
+        "hot": 5056192,
+        "desc": "",
+        "time": null,
+        "source": "今日头条",
+        "rank": 2,
+        "category": "国际"
+      },
+      {
+        "title": "怡颗莓 致癌物",
+        "url": "https://s.weibo.com/weibo?q=%E6%80%A1%E9%A2%97%E8%8E%93%20%E8%87%B4%E7%99%8C%E7%89%A9",
+        "hot": 4042556,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "国际"
+      },
+      {
+        "title": "舒默称特朗普是美国史上最腐败总统",
+        "url": "https://www.toutiao.com/trending/7663682649068109887",
+        "hot": 2774897,
+        "desc": "",
+        "time": null,
+        "source": "今日头条",
+        "rank": 4,
+        "category": "国际"
+      },
+      {
+        "title": "俄乌互袭升级 下一阶段重点在海上吗",
+        "url": "https://www.toutiao.com/trending/7664808333022350899",
+        "hot": 1246841,
+        "desc": "",
+        "time": null,
+        "source": "今日头条",
+        "rank": 5,
+        "category": "国际"
+      },
+      {
+        "title": "美国拟限制中国开源AI模型",
+        "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E6%8B%9F%E9%99%90%E5%88%B6%E4%B8%AD%E5%9B%BD%E5%BC%80%E6%BA%90AI%E6%A8%A1%E5%9E%8B",
+        "hot": 182782,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "国际"
+      }
+    ],
+    "文化": [
+      {
+        "title": "中国海警局发布菲律宾非法「坐滩」57 号舰蓄意挑衅的声明，并公布现场画面，有哪些信息值得关注？",
+        "url": "https://www.zhihu.com/question/2062608470700975381",
+        "hot": null,
+        "desc": "",
+        "time": 1784544180000,
+        "source": "知乎",
+        "rank": 1,
+        "category": "文化"
+      },
+      {
+        "title": "OpenAI 负责人称 Kimi 开源是减速主义，他的说法有道理吗？开源对 AI 的发展能带来什么？",
+        "url": "https://www.zhihu.com/question/2062575282591209175",
+        "hot": null,
+        "desc": "",
+        "time": 1784536268000,
+        "source": "知乎",
+        "rank": 2,
+        "category": "文化"
+      },
+      {
+        "title": "如何看待2026年临床医学录取分数线下降？",
+        "url": "https://www.zhihu.com/question/2061925103441650722",
+        "hot": null,
+        "desc": "",
+        "time": 1784381253000,
+        "source": "知乎",
+        "rank": 3,
+        "category": "文化"
+      },
+      {
+        "title": "为什么恋综这么多高颜值精英、富二代、留学生，但是他们在恋综呈现出的生活依旧很无聊?",
+        "url": "https://www.zhihu.com/question/2001825569575306638",
+        "hot": null,
+        "desc": "",
+        "time": 1770052407000,
+        "source": "知乎",
+        "rank": 4,
+        "category": "文化"
+      },
+      {
+        "title": "为何生鸡蛋拌饭味道如此平庸，却让日本人着迷？",
+        "url": "https://www.zhihu.com/question/2055058384097955896",
+        "hot": null,
+        "desc": "",
+        "time": 1782744099000,
+        "source": "知乎",
+        "rank": 5,
+        "category": "文化"
+      },
+      {
+        "title": "阿根廷首都球迷聚集演变为骚乱，警方出动水炮车，15 人被捕，如何看待此类冲突？阿根廷足球文化有何特点？",
+        "url": "https://www.zhihu.com/question/2062554076487881992",
+        "hot": null,
+        "desc": "",
+        "time": 1784531212000,
+        "source": "知乎",
+        "rank": 6,
+        "category": "文化"
+      }
+    ]
+  },
+  "total": 101
+}
