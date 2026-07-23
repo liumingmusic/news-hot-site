@@ -1,0 +1,1107 @@
+{
+  "generatedAt": "2026-07-23T04:20:00.309Z",
+  "source": "60s.viki.moe",
+  "headlines": [
+    {
+      "title": "我的夏日主线任务online",
+      "url": "https://www.douyin.com/search/%E6%88%91%E7%9A%84%E5%A4%8F%E6%97%A5%E4%B8%BB%E7%BA%BF%E4%BB%BB%E5%8A%A1online",
+      "hot": 12106793,
+      "desc": "",
+      "time": null,
+      "source": "抖音",
+      "rank": 1,
+      "category": "游戏",
+      "_domain": "游戏"
+    },
+    {
+      "title": "这世界大得让你很难不旅游",
+      "url": "https://www.douyin.com/search/%E8%BF%99%E4%B8%96%E7%95%8C%E5%A4%A7%E5%BE%97%E8%AE%A9%E4%BD%A0%E5%BE%88%E9%9A%BE%E4%B8%8D%E6%97%85%E6%B8%B8",
+      "hot": 9047946,
+      "desc": "",
+      "time": null,
+      "source": "抖音",
+      "rank": 1,
+      "category": "旅游",
+      "_domain": "旅游"
+    },
+    {
+      "title": "iPhone18系列已量产",
+      "url": "https://www.douyin.com/search/iPhone18%E7%B3%BB%E5%88%97%E5%B7%B2%E9%87%8F%E4%BA%A7",
+      "hot": 7719278,
+      "desc": "",
+      "time": null,
+      "source": "抖音",
+      "rank": 1,
+      "category": "娱乐",
+      "_domain": "娱乐"
+    },
+    {
+      "title": "中国“芯片刻刀”终于出鞘",
+      "url": "https://www.toutiao.com/trending/7664586420367376438",
+      "hot": 2724813,
+      "desc": "",
+      "time": null,
+      "source": "今日头条",
+      "rank": 1,
+      "category": "科技",
+      "_domain": "科技"
+    },
+    {
+      "title": "AI手机在“卷”什么",
+      "url": "https://www.toutiao.com/trending/7665349957043257398",
+      "hot": 607987,
+      "desc": "",
+      "time": null,
+      "source": "今日头条",
+      "rank": 2,
+      "category": "人工智能",
+      "_domain": "人工智能"
+    },
+    {
+      "title": "贝克汉姆秃顶了",
+      "url": "https://s.weibo.com/weibo?q=%E8%B4%9D%E5%85%8B%E6%B1%89%E5%A7%86%E7%A7%83%E9%A1%B6%E4%BA%86",
+      "hot": 1601958,
+      "desc": "",
+      "time": null,
+      "source": "微博",
+      "rank": 1,
+      "category": "医疗",
+      "_domain": "医疗"
+    }
+  ],
+  "categories": {
+    "科技": [
+      {
+        "title": "中国“芯片刻刀”终于出鞘",
+        "url": "https://www.toutiao.com/trending/7664586420367376438",
+        "hot": 2724813,
+        "desc": "",
+        "time": null,
+        "source": "今日头条",
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "title": "AI手机在“卷”什么",
+        "url": "https://www.toutiao.com/trending/7665349957043257398",
+        "hot": 607987,
+        "desc": "",
+        "time": null,
+        "source": "今日头条",
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "title": "AI演员生成毛孔瑕疵 真人演员磨皮",
+        "url": "https://s.weibo.com/weibo?q=AI%E6%BC%94%E5%91%98%E7%94%9F%E6%88%90%E6%AF%9B%E5%AD%94%E7%91%95%E7%96%B5%20%E7%9C%9F%E4%BA%BA%E6%BC%94%E5%91%98%E7%A3%A8%E7%9A%AE",
+        "hot": 318016,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "title": "OpenAI现安全事故中国大模型救场",
+        "url": "https://www.toutiao.com/trending/7664873281528512575",
+        "hot": 301917,
+        "desc": "",
+        "time": null,
+        "source": "今日头条",
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "title": "三星发布Galaxy Z系列新款折叠屏手机",
+        "url": "https://www.toutiao.com/trending/7664774314928357386",
+        "hot": 165696,
+        "desc": "",
+        "time": null,
+        "source": "今日头条",
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "title": "决赛圈，小米SU7和宝马330Li如何选择？",
+        "url": "https://www.zhihu.com/question/2061472941590763001",
+        "hot": null,
+        "desc": "",
+        "time": 1784273449000,
+        "source": "知乎",
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "title": "如何看待《第九区》导演发布 13 分钟全 AI 短片《阴兵》，并计划拍长片， AI 电影发展到哪步了？",
+        "url": "https://www.zhihu.com/question/2062918586486583714",
+        "hot": null,
+        "desc": "",
+        "time": 1784618118000,
+        "source": "知乎",
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "title": "苹果拟推出设备租赁计划，iPhone 可租用 24 个月，月付租机的模式可行吗？你会考虑租苹果设备吗？",
+        "url": "https://www.zhihu.com/question/2063258715155686223",
+        "hot": null,
+        "desc": "",
+        "time": 1784699211000,
+        "source": "知乎",
+        "rank": 8,
+        "category": "科技"
+      }
+    ],
+    "人工智能": [
+      {
+        "title": "中国“芯片刻刀”终于出鞘",
+        "url": "https://www.toutiao.com/trending/7664586420367376438",
+        "hot": 2724813,
+        "desc": "",
+        "time": null,
+        "source": "今日头条",
+        "rank": 1,
+        "category": "人工智能"
+      },
+      {
+        "title": "AI手机在“卷”什么",
+        "url": "https://www.toutiao.com/trending/7665349957043257398",
+        "hot": 607987,
+        "desc": "",
+        "time": null,
+        "source": "今日头条",
+        "rank": 2,
+        "category": "人工智能"
+      },
+      {
+        "title": "AI演员生成毛孔瑕疵 真人演员磨皮",
+        "url": "https://s.weibo.com/weibo?q=AI%E6%BC%94%E5%91%98%E7%94%9F%E6%88%90%E6%AF%9B%E5%AD%94%E7%91%95%E7%96%B5%20%E7%9C%9F%E4%BA%BA%E6%BC%94%E5%91%98%E7%A3%A8%E7%9A%AE",
+        "hot": 318016,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "人工智能"
+      },
+      {
+        "title": "OpenAI现安全事故中国大模型救场",
+        "url": "https://www.toutiao.com/trending/7664873281528512575",
+        "hot": 301917,
+        "desc": "",
+        "time": null,
+        "source": "今日头条",
+        "rank": 4,
+        "category": "人工智能"
+      },
+      {
+        "title": "如何评价GPT5.6为了在跑分上作弊，自主挖掘零日漏洞从沙盒逃逸，然后把Hugging Face黑了？",
+        "url": "https://www.zhihu.com/question/2063229032708284873",
+        "hot": null,
+        "desc": "",
+        "time": 1784692134000,
+        "source": "知乎",
+        "rank": 5,
+        "category": "人工智能"
+      },
+      {
+        "title": "月之暗面 KimiK3 发布后，Anthropic 为何成外网主要吐槽对象？",
+        "url": "https://www.zhihu.com/question/2062640157015249755",
+        "hot": null,
+        "desc": "",
+        "time": 1784551735000,
+        "source": "知乎",
+        "rank": 6,
+        "category": "人工智能"
+      }
+    ],
+    "人文": [
+      {
+        "title": "西门庆有钱有势的不能补偿武大些钱，让他与潘金莲和离吗，或者再给武大娶个媳妇，为什么非要杀了武大呢？",
+        "url": "https://www.zhihu.com/question/2047419289150477897",
+        "hot": null,
+        "desc": "",
+        "time": 1780922797000,
+        "source": "知乎",
+        "rank": 1,
+        "category": "人文"
+      },
+      {
+        "title": "报道称《功夫女足》线上被偷票房超 2000 万，全国偷漏占比约28%，损失票房超 4 亿，这么严重吗？",
+        "url": "https://www.zhihu.com/question/2063269666466932392",
+        "hot": null,
+        "desc": "",
+        "time": 1784701822000,
+        "source": "知乎",
+        "rank": 2,
+        "category": "人文"
+      },
+      {
+        "title": "如何评价腾讯员工发布的《置身宝内》？员工称权谋氛围浓厚致业务无法发展，这是腾讯业务的最大问题吗？",
+        "url": "https://www.zhihu.com/question/2063382652334207964",
+        "hot": null,
+        "desc": "",
+        "time": 1784728760000,
+        "source": "知乎",
+        "rank": 3,
+        "category": "人文"
+      },
+      {
+        "title": "如何评价GPT5.6为了在跑分上作弊，自主挖掘零日漏洞从沙盒逃逸，然后把Hugging Face黑了？",
+        "url": "https://www.zhihu.com/question/2063229032708284873",
+        "hot": null,
+        "desc": "",
+        "time": 1784692134000,
+        "source": "知乎",
+        "rank": 4,
+        "category": "人文"
+      },
+      {
+        "title": "为什么祁同伟和高启强并不讨人厌，反而侯亮平和安欣会让人反感呢？",
+        "url": "https://www.zhihu.com/question/2060313146192143108",
+        "hot": null,
+        "desc": "",
+        "time": 1783996932000,
+        "source": "知乎",
+        "rank": 5,
+        "category": "人文"
+      },
+      {
+        "title": "小红书被曝正主动联系相关老员工，愿补发期权换签署相关条款，真实性多大？若能达成一致，能顺利IPO吗？",
+        "url": "https://www.zhihu.com/question/2063292318887539352",
+        "hot": null,
+        "desc": "",
+        "time": 1784707222000,
+        "source": "知乎",
+        "rank": 6,
+        "category": "人文"
+      }
+    ],
+    "社会": [
+      {
+        "title": "灿如繁星 数据异常",
+        "url": "https://s.weibo.com/weibo?q=%E7%81%BF%E5%A6%82%E7%B9%81%E6%98%9F%20%E6%95%B0%E6%8D%AE%E5%BC%82%E5%B8%B8",
+        "hot": 529114,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 1,
+        "category": "社会"
+      },
+      {
+        "title": "董璇张维伊当着小酒窝的面亲亲",
+        "url": "https://s.weibo.com/weibo?q=%E8%91%A3%E7%92%87%E5%BC%A0%E7%BB%B4%E4%BC%8A%E5%BD%93%E7%9D%80%E5%B0%8F%E9%85%92%E7%AA%9D%E7%9A%84%E9%9D%A2%E4%BA%B2%E4%BA%B2",
+        "hot": 256909,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 2,
+        "category": "社会"
+      },
+      {
+        "title": "A股行情",
+        "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%E8%A1%8C%E6%83%85",
+        "hot": 252780,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "社会"
+      },
+      {
+        "title": "一中国籍男童在日本被撞身亡",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%80%E4%B8%AD%E5%9B%BD%E7%B1%8D%E7%94%B7%E7%AB%A5%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1",
+        "hot": 252605,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "社会"
+      },
+      {
+        "title": "王鹤棣谢景行杀青照",
+        "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3%E8%B0%A2%E6%99%AF%E8%A1%8C%E6%9D%80%E9%9D%92%E7%85%A7",
+        "hot": 239558,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "社会"
+      },
+      {
+        "title": "张月帮忙寻狗最后发现寻的是自己",
+        "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9C%88%E5%B8%AE%E5%BF%99%E5%AF%BB%E7%8B%97%E6%9C%80%E5%90%8E%E5%8F%91%E7%8E%B0%E5%AF%BB%E7%9A%84%E6%98%AF%E8%87%AA%E5%B7%B1",
+        "hot": 174430,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "社会"
+      },
+      {
+        "title": "三星折叠三旗舰齐发",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%89%E6%98%9F%E6%8A%98%E5%8F%A0%E4%B8%89%E6%97%97%E8%88%B0%E9%BD%90%E5%8F%91",
+        "hot": 150618,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 7,
+        "category": "社会"
+      },
+      {
+        "title": "王楚钦突然飙粤语",
+        "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%AA%81%E7%84%B6%E9%A3%99%E7%B2%A4%E8%AF%AD",
+        "hot": 150400,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 8,
+        "category": "社会"
+      }
+    ],
+    "教育": [
+      {
+        "title": "报道称《功夫女足》线上被偷票房超 2000 万，全国偷漏占比约28%，损失票房超 4 亿，这么严重吗？",
+        "url": "https://www.zhihu.com/question/2063269666466932392",
+        "hot": null,
+        "desc": "",
+        "time": 1784701822000,
+        "source": "知乎",
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "title": "小红书被曝正主动联系相关老员工，愿补发期权换签署相关条款，真实性多大？若能达成一致，能顺利IPO吗？",
+        "url": "https://www.zhihu.com/question/2063292318887539352",
+        "hot": null,
+        "desc": "",
+        "time": 1784707222000,
+        "source": "知乎",
+        "rank": 2,
+        "category": "教育"
+      },
+      {
+        "title": "西门庆有钱有势的不能补偿武大些钱，让他与潘金莲和离吗，或者再给武大娶个媳妇，为什么非要杀了武大呢？",
+        "url": "https://www.zhihu.com/question/2047419289150477897",
+        "hot": null,
+        "desc": "",
+        "time": 1780922797000,
+        "source": "知乎",
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "title": "为什么祁同伟和高启强并不讨人厌，反而侯亮平和安欣会让人反感呢？",
+        "url": "https://www.zhihu.com/question/2060313146192143108",
+        "hot": null,
+        "desc": "",
+        "time": 1783996932000,
+        "source": "知乎",
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "title": "如何评价GPT5.6为了在跑分上作弊，自主挖掘零日漏洞从沙盒逃逸，然后把Hugging Face黑了？",
+        "url": "https://www.zhihu.com/question/2063229032708284873",
+        "hot": null,
+        "desc": "",
+        "time": 1784692134000,
+        "source": "知乎",
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "title": "如何评价腾讯员工发布的《置身宝内》？员工称权谋氛围浓厚致业务无法发展，这是腾讯业务的最大问题吗？",
+        "url": "https://www.zhihu.com/question/2063382652334207964",
+        "hot": null,
+        "desc": "",
+        "time": 1784728760000,
+        "source": "知乎",
+        "rank": 6,
+        "category": "教育"
+      }
+    ],
+    "娱乐": [
+      {
+        "title": "iPhone18系列已量产",
+        "url": "https://www.douyin.com/search/iPhone18%E7%B3%BB%E5%88%97%E5%B7%B2%E9%87%8F%E4%BA%A7",
+        "hot": 7719278,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 1,
+        "category": "娱乐"
+      },
+      {
+        "title": "楚雨荨白月光的杀伤力",
+        "url": "https://www.douyin.com/search/%E6%A5%9A%E9%9B%A8%E8%8D%A8%E7%99%BD%E6%9C%88%E5%85%89%E7%9A%84%E6%9D%80%E4%BC%A4%E5%8A%9B",
+        "hot": 7695583,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 2,
+        "category": "娱乐"
+      },
+      {
+        "title": "闫闯被指数年前曾过失致人死亡",
+        "url": "https://s.weibo.com/weibo?q=%E9%97%AB%E9%97%AF%E8%A2%AB%E6%8C%87%E6%95%B0%E5%B9%B4%E5%89%8D%E6%9B%BE%E8%BF%87%E5%A4%B1%E8%87%B4%E4%BA%BA%E6%AD%BB%E4%BA%A1",
+        "hot": 315909,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "娱乐"
+      },
+      {
+        "title": "A股行情",
+        "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%E8%A1%8C%E6%83%85",
+        "hot": 252780,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "娱乐"
+      },
+      {
+        "title": "王鹤棣谢景行杀青照",
+        "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3%E8%B0%A2%E6%99%AF%E8%A1%8C%E6%9D%80%E9%9D%92%E7%85%A7",
+        "hot": 239558,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "娱乐"
+      },
+      {
+        "title": "峰学蔚来股权变更",
+        "url": "https://s.weibo.com/weibo?q=%E5%B3%B0%E5%AD%A6%E8%94%9A%E6%9D%A5%E8%82%A1%E6%9D%83%E5%8F%98%E6%9B%B4",
+        "hot": 178322,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "娱乐"
+      }
+    ],
+    "医疗": [
+      {
+        "title": "贝克汉姆秃顶了",
+        "url": "https://s.weibo.com/weibo?q=%E8%B4%9D%E5%85%8B%E6%B1%89%E5%A7%86%E7%A7%83%E9%A1%B6%E4%BA%86",
+        "hot": 1601958,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 1,
+        "category": "医疗"
+      },
+      {
+        "title": "台风",
+        "url": "https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E",
+        "hot": 1027353,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 2,
+        "category": "医疗"
+      },
+      {
+        "title": "2026数字丝路发展论坛",
+        "url": "https://s.weibo.com/weibo?q=2026%E6%95%B0%E5%AD%97%E4%B8%9D%E8%B7%AF%E5%8F%91%E5%B1%95%E8%AE%BA%E5%9D%9B",
+        "hot": 1002519,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "医疗"
+      },
+      {
+        "title": "第一个发明睡帽的人简直就是天才",
+        "url": "https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8F%91%E6%98%8E%E7%9D%A1%E5%B8%BD%E7%9A%84%E4%BA%BA%E7%AE%80%E7%9B%B4%E5%B0%B1%E6%98%AF%E5%A4%A9%E6%89%8D",
+        "hot": 983879,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "医疗"
+      },
+      {
+        "title": "滔搏暴力打折甩卖耐克库存",
+        "url": "https://s.weibo.com/weibo?q=%E6%BB%94%E6%90%8F%E6%9A%B4%E5%8A%9B%E6%89%93%E6%8A%98%E7%94%A9%E5%8D%96%E8%80%90%E5%85%8B%E5%BA%93%E5%AD%98",
+        "hot": 904832,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "医疗"
+      },
+      {
+        "title": "梁文锋四小时投资人会议实录",
+        "url": "https://s.weibo.com/weibo?q=%E6%A2%81%E6%96%87%E9%94%8B%E5%9B%9B%E5%B0%8F%E6%97%B6%E6%8A%95%E8%B5%84%E4%BA%BA%E4%BC%9A%E8%AE%AE%E5%AE%9E%E5%BD%95",
+        "hot": 540857,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "医疗"
+      }
+    ],
+    "财经": [
+      {
+        "title": "贝克汉姆秃顶了",
+        "url": "https://s.weibo.com/weibo?q=%E8%B4%9D%E5%85%8B%E6%B1%89%E5%A7%86%E7%A7%83%E9%A1%B6%E4%BA%86",
+        "hot": 1601958,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "title": "台风",
+        "url": "https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E",
+        "hot": 1027353,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 2,
+        "category": "财经"
+      },
+      {
+        "title": "2026数字丝路发展论坛",
+        "url": "https://s.weibo.com/weibo?q=2026%E6%95%B0%E5%AD%97%E4%B8%9D%E8%B7%AF%E5%8F%91%E5%B1%95%E8%AE%BA%E5%9D%9B",
+        "hot": 1002519,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "title": "女子买理财7万多本金一天亏157元",
+        "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E4%B9%B0%E7%90%86%E8%B4%A27%E4%B8%87%E5%A4%9A%E6%9C%AC%E9%87%91%E4%B8%80%E5%A4%A9%E4%BA%8F157%E5%85%83",
+        "hot": 307355,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "title": "A股行情",
+        "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%E8%A1%8C%E6%83%85",
+        "hot": 252780,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "title": "银行理财究竟怎么了",
+        "url": "https://s.weibo.com/weibo?q=%E9%93%B6%E8%A1%8C%E7%90%86%E8%B4%A2%E7%A9%B6%E7%AB%9F%E6%80%8E%E4%B9%88%E4%BA%86",
+        "hot": 151014,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "财经"
+      }
+    ],
+    "体育": [
+      {
+        "title": "贝克汉姆秃顶了",
+        "url": "https://s.weibo.com/weibo?q=%E8%B4%9D%E5%85%8B%E6%B1%89%E5%A7%86%E7%A7%83%E9%A1%B6%E4%BA%86",
+        "hot": 1601958,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "title": "台风",
+        "url": "https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E",
+        "hot": 1027353,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "title": "2026数字丝路发展论坛",
+        "url": "https://s.weibo.com/weibo?q=2026%E6%95%B0%E5%AD%97%E4%B8%9D%E8%B7%AF%E5%8F%91%E5%B1%95%E8%AE%BA%E5%9D%9B",
+        "hot": 1002519,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "title": "第一个发明睡帽的人简直就是天才",
+        "url": "https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8F%91%E6%98%8E%E7%9D%A1%E5%B8%BD%E7%9A%84%E4%BA%BA%E7%AE%80%E7%9B%B4%E5%B0%B1%E6%98%AF%E5%A4%A9%E6%89%8D",
+        "hot": 983879,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "title": "滔搏暴力打折甩卖耐克库存",
+        "url": "https://s.weibo.com/weibo?q=%E6%BB%94%E6%90%8F%E6%9A%B4%E5%8A%9B%E6%89%93%E6%8A%98%E7%94%A9%E5%8D%96%E8%80%90%E5%85%8B%E5%BA%93%E5%AD%98",
+        "hot": 904832,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "title": "梁文锋四小时投资人会议实录",
+        "url": "https://s.weibo.com/weibo?q=%E6%A2%81%E6%96%87%E9%94%8B%E5%9B%9B%E5%B0%8F%E6%97%B6%E6%8A%95%E8%B5%84%E4%BA%BA%E4%BC%9A%E8%AE%AE%E5%AE%9E%E5%BD%95",
+        "hot": 540857,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "体育"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "我的夏日主线任务online",
+        "url": "https://www.douyin.com/search/%E6%88%91%E7%9A%84%E5%A4%8F%E6%97%A5%E4%B8%BB%E7%BA%BF%E4%BB%BB%E5%8A%A1online",
+        "hot": 12106793,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "title": "今年菲尔兹奖候选人都在研究啥",
+        "url": "https://www.douyin.com/search/%E4%BB%8A%E5%B9%B4%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E5%80%99%E9%80%89%E4%BA%BA%E9%83%BD%E5%9C%A8%E7%A0%94%E7%A9%B6%E5%95%A5",
+        "hot": 12075408,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 2,
+        "category": "游戏"
+      },
+      {
+        "title": "上半年我国财政运行总体平稳",
+        "url": "https://www.douyin.com/search/%E4%B8%8A%E5%8D%8A%E5%B9%B4%E6%88%91%E5%9B%BD%E8%B4%A2%E6%94%BF%E8%BF%90%E8%A1%8C%E6%80%BB%E4%BD%93%E5%B9%B3%E7%A8%B3",
+        "hot": 11596680,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "title": "当我在暑假和crush表白成功后",
+        "url": "https://www.douyin.com/search/%E5%BD%93%E6%88%91%E5%9C%A8%E6%9A%91%E5%81%87%E5%92%8Ccrush%E8%A1%A8%E7%99%BD%E6%88%90%E5%8A%9F%E5%90%8E",
+        "hot": 10911552,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "title": "这届非遗手作太好玩了",
+        "url": "https://www.douyin.com/search/%E8%BF%99%E5%B1%8A%E9%9D%9E%E9%81%97%E6%89%8B%E4%BD%9C%E5%A4%AA%E5%A5%BD%E7%8E%A9%E4%BA%86",
+        "hot": 10299863,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "title": "净网：网警发布20起涉汛涉灾谣言案例",
+        "url": "https://www.douyin.com/search/%E5%87%80%E7%BD%91%EF%BC%9A%E7%BD%91%E8%AD%A6%E5%8F%91%E5%B8%8320%E8%B5%B7%E6%B6%89%E6%B1%9B%E6%B6%89%E7%81%BE%E8%B0%A3%E8%A8%80%E6%A1%88%E4%BE%8B",
+        "hot": 10253680,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 6,
+        "category": "游戏"
+      }
+    ],
+    "汽车": [
+      {
+        "title": "贝克汉姆秃顶了",
+        "url": "https://s.weibo.com/weibo?q=%E8%B4%9D%E5%85%8B%E6%B1%89%E5%A7%86%E7%A7%83%E9%A1%B6%E4%BA%86",
+        "hot": 1601958,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "title": "台风",
+        "url": "https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E",
+        "hot": 1027353,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 2,
+        "category": "汽车"
+      },
+      {
+        "title": "2026数字丝路发展论坛",
+        "url": "https://s.weibo.com/weibo?q=2026%E6%95%B0%E5%AD%97%E4%B8%9D%E8%B7%AF%E5%8F%91%E5%B1%95%E8%AE%BA%E5%9D%9B",
+        "hot": 1002519,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "汽车"
+      },
+      {
+        "title": "第一个发明睡帽的人简直就是天才",
+        "url": "https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8F%91%E6%98%8E%E7%9D%A1%E5%B8%BD%E7%9A%84%E4%BA%BA%E7%AE%80%E7%9B%B4%E5%B0%B1%E6%98%AF%E5%A4%A9%E6%89%8D",
+        "hot": 983879,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "title": "滔搏暴力打折甩卖耐克库存",
+        "url": "https://s.weibo.com/weibo?q=%E6%BB%94%E6%90%8F%E6%9A%B4%E5%8A%9B%E6%89%93%E6%8A%98%E7%94%A9%E5%8D%96%E8%80%90%E5%85%8B%E5%BA%93%E5%AD%98",
+        "hot": 904832,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "title": "梁文锋四小时投资人会议实录",
+        "url": "https://s.weibo.com/weibo?q=%E6%A2%81%E6%96%87%E9%94%8B%E5%9B%9B%E5%B0%8F%E6%97%B6%E6%8A%95%E8%B5%84%E4%BA%BA%E4%BC%9A%E8%AE%AE%E5%AE%9E%E5%BD%95",
+        "hot": 540857,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "汽车"
+      }
+    ],
+    "美食": [
+      {
+        "title": "贝克汉姆秃顶了",
+        "url": "https://s.weibo.com/weibo?q=%E8%B4%9D%E5%85%8B%E6%B1%89%E5%A7%86%E7%A7%83%E9%A1%B6%E4%BA%86",
+        "hot": 1601958,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "title": "台风",
+        "url": "https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E",
+        "hot": 1027353,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 2,
+        "category": "美食"
+      },
+      {
+        "title": "2026数字丝路发展论坛",
+        "url": "https://s.weibo.com/weibo?q=2026%E6%95%B0%E5%AD%97%E4%B8%9D%E8%B7%AF%E5%8F%91%E5%B1%95%E8%AE%BA%E5%9D%9B",
+        "hot": 1002519,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "title": "第一个发明睡帽的人简直就是天才",
+        "url": "https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8F%91%E6%98%8E%E7%9D%A1%E5%B8%BD%E7%9A%84%E4%BA%BA%E7%AE%80%E7%9B%B4%E5%B0%B1%E6%98%AF%E5%A4%A9%E6%89%8D",
+        "hot": 983879,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "title": "滔搏暴力打折甩卖耐克库存",
+        "url": "https://s.weibo.com/weibo?q=%E6%BB%94%E6%90%8F%E6%9A%B4%E5%8A%9B%E6%89%93%E6%8A%98%E7%94%A9%E5%8D%96%E8%80%90%E5%85%8B%E5%BA%93%E5%AD%98",
+        "hot": 904832,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "title": "梁文锋四小时投资人会议实录",
+        "url": "https://s.weibo.com/weibo?q=%E6%A2%81%E6%96%87%E9%94%8B%E5%9B%9B%E5%B0%8F%E6%97%B6%E6%8A%95%E8%B5%84%E4%BA%BA%E4%BC%9A%E8%AE%AE%E5%AE%9E%E5%BD%95",
+        "hot": 540857,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "美食"
+      }
+    ],
+    "旅游": [
+      {
+        "title": "这世界大得让你很难不旅游",
+        "url": "https://www.douyin.com/search/%E8%BF%99%E4%B8%96%E7%95%8C%E5%A4%A7%E5%BE%97%E8%AE%A9%E4%BD%A0%E5%BE%88%E9%9A%BE%E4%B8%8D%E6%97%85%E6%B8%B8",
+        "hot": 9047946,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 1,
+        "category": "旅游"
+      },
+      {
+        "title": "贝克汉姆秃顶了",
+        "url": "https://s.weibo.com/weibo?q=%E8%B4%9D%E5%85%8B%E6%B1%89%E5%A7%86%E7%A7%83%E9%A1%B6%E4%BA%86",
+        "hot": 1601958,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 2,
+        "category": "旅游"
+      },
+      {
+        "title": "台风",
+        "url": "https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E",
+        "hot": 1027353,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "旅游"
+      },
+      {
+        "title": "2026数字丝路发展论坛",
+        "url": "https://s.weibo.com/weibo?q=2026%E6%95%B0%E5%AD%97%E4%B8%9D%E8%B7%AF%E5%8F%91%E5%B1%95%E8%AE%BA%E5%9D%9B",
+        "hot": 1002519,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "title": "第一个发明睡帽的人简直就是天才",
+        "url": "https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8F%91%E6%98%8E%E7%9D%A1%E5%B8%BD%E7%9A%84%E4%BA%BA%E7%AE%80%E7%9B%B4%E5%B0%B1%E6%98%AF%E5%A4%A9%E6%89%8D",
+        "hot": 983879,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "旅游"
+      },
+      {
+        "title": "滔搏暴力打折甩卖耐克库存",
+        "url": "https://s.weibo.com/weibo?q=%E6%BB%94%E6%90%8F%E6%9A%B4%E5%8A%9B%E6%89%93%E6%8A%98%E7%94%A9%E5%8D%96%E8%80%90%E5%85%8B%E5%BA%93%E5%AD%98",
+        "hot": 904832,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "旅游"
+      }
+    ],
+    "军事": [
+      {
+        "title": "贝克汉姆秃顶了",
+        "url": "https://s.weibo.com/weibo?q=%E8%B4%9D%E5%85%8B%E6%B1%89%E5%A7%86%E7%A7%83%E9%A1%B6%E4%BA%86",
+        "hot": 1601958,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 1,
+        "category": "军事"
+      },
+      {
+        "title": "台风",
+        "url": "https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E",
+        "hot": 1027353,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "title": "2026数字丝路发展论坛",
+        "url": "https://s.weibo.com/weibo?q=2026%E6%95%B0%E5%AD%97%E4%B8%9D%E8%B7%AF%E5%8F%91%E5%B1%95%E8%AE%BA%E5%9D%9B",
+        "hot": 1002519,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "军事"
+      },
+      {
+        "title": "第一个发明睡帽的人简直就是天才",
+        "url": "https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8F%91%E6%98%8E%E7%9D%A1%E5%B8%BD%E7%9A%84%E4%BA%BA%E7%AE%80%E7%9B%B4%E5%B0%B1%E6%98%AF%E5%A4%A9%E6%89%8D",
+        "hot": 983879,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "军事"
+      },
+      {
+        "title": "滔搏暴力打折甩卖耐克库存",
+        "url": "https://s.weibo.com/weibo?q=%E6%BB%94%E6%90%8F%E6%9A%B4%E5%8A%9B%E6%89%93%E6%8A%98%E7%94%A9%E5%8D%96%E8%80%90%E5%85%8B%E5%BA%93%E5%AD%98",
+        "hot": 904832,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "军事"
+      },
+      {
+        "title": "梁文锋四小时投资人会议实录",
+        "url": "https://s.weibo.com/weibo?q=%E6%A2%81%E6%96%87%E9%94%8B%E5%9B%9B%E5%B0%8F%E6%97%B6%E6%8A%95%E8%B5%84%E4%BA%BA%E4%BC%9A%E8%AE%AE%E5%AE%9E%E5%BD%95",
+        "hot": 540857,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "军事"
+      }
+    ],
+    "国际": [
+      {
+        "title": "贝克汉姆秃顶了",
+        "url": "https://s.weibo.com/weibo?q=%E8%B4%9D%E5%85%8B%E6%B1%89%E5%A7%86%E7%A7%83%E9%A1%B6%E4%BA%86",
+        "hot": 1601958,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 1,
+        "category": "国际"
+      },
+      {
+        "title": "台风",
+        "url": "https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E",
+        "hot": 1027353,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 2,
+        "category": "国际"
+      },
+      {
+        "title": "2026数字丝路发展论坛",
+        "url": "https://s.weibo.com/weibo?q=2026%E6%95%B0%E5%AD%97%E4%B8%9D%E8%B7%AF%E5%8F%91%E5%B1%95%E8%AE%BA%E5%9D%9B",
+        "hot": 1002519,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "国际"
+      },
+      {
+        "title": "第一个发明睡帽的人简直就是天才",
+        "url": "https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8F%91%E6%98%8E%E7%9D%A1%E5%B8%BD%E7%9A%84%E4%BA%BA%E7%AE%80%E7%9B%B4%E5%B0%B1%E6%98%AF%E5%A4%A9%E6%89%8D",
+        "hot": 983879,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "国际"
+      },
+      {
+        "title": "滔搏暴力打折甩卖耐克库存",
+        "url": "https://s.weibo.com/weibo?q=%E6%BB%94%E6%90%8F%E6%9A%B4%E5%8A%9B%E6%89%93%E6%8A%98%E7%94%A9%E5%8D%96%E8%80%90%E5%85%8B%E5%BA%93%E5%AD%98",
+        "hot": 904832,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "国际"
+      },
+      {
+        "title": "卡塞米罗官宣加盟迈阿密国际",
+        "url": "https://www.toutiao.com/trending/7665034898935218212",
+        "hot": 742598,
+        "desc": "",
+        "time": null,
+        "source": "今日头条",
+        "rank": 6,
+        "category": "国际"
+      }
+    ],
+    "文化": [
+      {
+        "title": "如何看待库里成为首位拥有名人堂独立展览的现役球员？",
+        "url": "https://www.zhihu.com/question/2063177625057617826",
+        "hot": null,
+        "desc": "",
+        "time": 1784679877000,
+        "source": "知乎",
+        "rank": 1,
+        "category": "文化"
+      },
+      {
+        "title": "西门庆有钱有势的不能补偿武大些钱，让他与潘金莲和离吗，或者再给武大娶个媳妇，为什么非要杀了武大呢？",
+        "url": "https://www.zhihu.com/question/2047419289150477897",
+        "hot": null,
+        "desc": "",
+        "time": 1780922797000,
+        "source": "知乎",
+        "rank": 2,
+        "category": "文化"
+      },
+      {
+        "title": "鲁迅和郭沫若，谁的文学水平高？",
+        "url": "https://www.zhihu.com/question/1915100498509399686",
+        "hot": null,
+        "desc": "",
+        "time": 1749375539000,
+        "source": "知乎",
+        "rank": 3,
+        "category": "文化"
+      },
+      {
+        "title": "如何评价GPT5.6为了在跑分上作弊，自主挖掘零日漏洞从沙盒逃逸，然后把Hugging Face黑了？",
+        "url": "https://www.zhihu.com/question/2063229032708284873",
+        "hot": null,
+        "desc": "",
+        "time": 1784692134000,
+        "source": "知乎",
+        "rank": 4,
+        "category": "文化"
+      },
+      {
+        "title": "小红书被曝正主动联系相关老员工，愿补发期权换签署相关条款，真实性多大？若能达成一致，能顺利IPO吗？",
+        "url": "https://www.zhihu.com/question/2063292318887539352",
+        "hot": null,
+        "desc": "",
+        "time": 1784707222000,
+        "source": "知乎",
+        "rank": 5,
+        "category": "文化"
+      },
+      {
+        "title": "报道称《功夫女足》线上被偷票房超 2000 万，全国偷漏占比约28%，损失票房超 4 亿，这么严重吗？",
+        "url": "https://www.zhihu.com/question/2063269666466932392",
+        "hot": null,
+        "desc": "",
+        "time": 1784701822000,
+        "source": "知乎",
+        "rank": 6,
+        "category": "文化"
+      }
+    ]
+  },
+  "total": 100
+}
