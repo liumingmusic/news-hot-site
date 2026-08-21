@@ -1,0 +1,1137 @@
+{
+  "generatedAt": "2026-08-21T02:24:41.217Z",
+  "source": "60s.viki.moe",
+  "headlines": [
+    {
+      "title": "美这件事我只取悦自己",
+      "url": "https://www.douyin.com/search/%E7%BE%8E%E8%BF%99%E4%BB%B6%E4%BA%8B%E6%88%91%E5%8F%AA%E5%8F%96%E6%82%A6%E8%87%AA%E5%B7%B1",
+      "hot": 11910013,
+      "desc": "",
+      "time": null,
+      "source": "抖音",
+      "rank": 1,
+      "category": "游戏",
+      "_domain": "游戏"
+    },
+    {
+      "title": "娃圈总动员全体开动",
+      "url": "https://www.douyin.com/search/%E5%A8%83%E5%9C%88%E6%80%BB%E5%8A%A8%E5%91%98%E5%85%A8%E4%BD%93%E5%BC%80%E5%8A%A8",
+      "hot": 10391862,
+      "desc": "",
+      "time": null,
+      "source": "抖音",
+      "rank": 1,
+      "category": "娱乐",
+      "_domain": "娱乐"
+    },
+    {
+      "title": "对话吉利汽车创始人李书福",
+      "url": "https://www.douyin.com/search/%E5%AF%B9%E8%AF%9D%E5%90%89%E5%88%A9%E6%B1%BD%E8%BD%A6%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%9D%8E%E4%B9%A6%E7%A6%8F",
+      "hot": 9103196,
+      "desc": "",
+      "time": null,
+      "source": "抖音",
+      "rank": 1,
+      "category": "汽车",
+      "_domain": "汽车"
+    },
+    {
+      "title": "第五人格加页手记噩梦难度攻略",
+      "url": "https://www.douyin.com/search/%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%E5%8A%A0%E9%A1%B5%E6%89%8B%E8%AE%B0%E5%99%A9%E6%A2%A6%E9%9A%BE%E5%BA%A6%E6%94%BB%E7%95%A5",
+      "hot": 7665653,
+      "desc": "",
+      "time": null,
+      "source": "抖音",
+      "rank": 1,
+      "category": "旅游",
+      "_domain": "旅游"
+    },
+    {
+      "title": "潮汕开海美食申请出战",
+      "url": "https://www.douyin.com/search/%E6%BD%AE%E6%B1%95%E5%BC%80%E6%B5%B7%E7%BE%8E%E9%A3%9F%E7%94%B3%E8%AF%B7%E5%87%BA%E6%88%98",
+      "hot": 7629175,
+      "desc": "",
+      "time": null,
+      "source": "抖音",
+      "rank": 1,
+      "category": "美食",
+      "_domain": "美食"
+    },
+    {
+      "title": "狂飙美债对全球意味着什么",
+      "url": "https://www.toutiao.com/trending/7676018598879432235",
+      "hot": 4045881,
+      "desc": "",
+      "time": null,
+      "source": "今日头条",
+      "rank": 1,
+      "category": "国际",
+      "_domain": "国际"
+    }
+  ],
+  "categories": {
+    "科技": [
+      {
+        "title": "华为阔直板手机亮相",
+        "url": "https://www.toutiao.com/trending/7675773540247044139",
+        "hot": 902758,
+        "desc": "",
+        "time": null,
+        "source": "今日头条",
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "title": "中国铁路加速驶入AI赋能新阶段",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E9%93%81%E8%B7%AF%E5%8A%A0%E9%80%9F%E9%A9%B6%E5%85%A5AI%E8%B5%8B%E8%83%BD%E6%96%B0%E9%98%B6%E6%AE%B5",
+        "hot": 614412,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "title": "曾辉小沈阳这段诡异得像AI生成",
+        "url": "https://s.weibo.com/weibo?q=%E6%9B%BE%E8%BE%89%E5%B0%8F%E6%B2%88%E9%98%B3%E8%BF%99%E6%AE%B5%E8%AF%A1%E5%BC%82%E5%BE%97%E5%83%8FAI%E7%94%9F%E6%88%90",
+        "hot": 391599,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "title": "比亚迪高管称智驾能力比华为强",
+        "url": "https://s.weibo.com/weibo?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%E9%AB%98%E7%AE%A1%E7%A7%B0%E6%99%BA%E9%A9%BE%E8%83%BD%E5%8A%9B%E6%AF%94%E5%8D%8E%E4%B8%BA%E5%BC%BA",
+        "hot": 164695,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "title": "柯洁称找到了破解围棋AI的方法，只需要装弱智哪怕让AI九子也能赢，这招可行吗？是什么原理？",
+        "url": "https://www.zhihu.com/question/2073421689262532035",
+        "hot": null,
+        "desc": "",
+        "time": 1787122253000,
+        "source": "知乎",
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "title": "《一饭封神》里评委说莫氏鸡煲“技术含量不高”，谢霆锋却夸“鸡好汤好喝”，你更认同哪种评价？",
+        "url": "https://www.zhihu.com/question/2067638264555747023",
+        "hot": null,
+        "desc": "",
+        "time": 1785743377000,
+        "source": "知乎",
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "title": "华为发布全球首款阔直板手机，此前被曝定价 6000-7000 元，你看好其市场前景吗？",
+        "url": "https://www.zhihu.com/question/2073122669688533530",
+        "hot": null,
+        "desc": "",
+        "time": 1787050961000,
+        "source": "知乎",
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "title": "小米扫拖机器人避障不灵撞坏百万家具，消费者质疑商家宣传未说明缺点，能向小米索赔吗？",
+        "url": "https://www.zhihu.com/question/2073796382792443105",
+        "hot": null,
+        "desc": "",
+        "time": 1787211586000,
+        "source": "知乎",
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "title": "如何看待起点中文网集中处置下架一批 AI 痕迹过重的网络小说，不予推荐？",
+        "url": "https://www.zhihu.com/question/2073052781208920108",
+        "hot": null,
+        "desc": "",
+        "time": 1787034298000,
+        "source": "知乎",
+        "rank": 9,
+        "category": "科技"
+      }
+    ],
+    "人工智能": [
+      {
+        "title": "中国铁路加速驶入AI赋能新阶段",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E9%93%81%E8%B7%AF%E5%8A%A0%E9%80%9F%E9%A9%B6%E5%85%A5AI%E8%B5%8B%E8%83%BD%E6%96%B0%E9%98%B6%E6%AE%B5",
+        "hot": 614412,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 1,
+        "category": "人工智能"
+      },
+      {
+        "title": "曾辉小沈阳这段诡异得像AI生成",
+        "url": "https://s.weibo.com/weibo?q=%E6%9B%BE%E8%BE%89%E5%B0%8F%E6%B2%88%E9%98%B3%E8%BF%99%E6%AE%B5%E8%AF%A1%E5%BC%82%E5%BE%97%E5%83%8FAI%E7%94%9F%E6%88%90",
+        "hot": 391599,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 2,
+        "category": "人工智能"
+      },
+      {
+        "title": "柯洁称找到了破解围棋AI的方法，只需要装弱智哪怕让AI九子也能赢，这招可行吗？是什么原理？",
+        "url": "https://www.zhihu.com/question/2073421689262532035",
+        "hot": null,
+        "desc": "",
+        "time": 1787122253000,
+        "source": "知乎",
+        "rank": 3,
+        "category": "人工智能"
+      },
+      {
+        "title": "如何看待起点中文网集中处置下架一批 AI 痕迹过重的网络小说，不予推荐？",
+        "url": "https://www.zhihu.com/question/2073052781208920108",
+        "hot": null,
+        "desc": "",
+        "time": 1787034298000,
+        "source": "知乎",
+        "rank": 4,
+        "category": "人工智能"
+      },
+      {
+        "title": "如何看待蒙不法分子擅闯中资营地侮辱中方员工，中方向蒙方提出交涉？",
+        "url": "https://www.zhihu.com/question/2073199570427953525",
+        "hot": null,
+        "desc": "",
+        "time": 1787069295000,
+        "source": "知乎",
+        "rank": 5,
+        "category": "人工智能"
+      },
+      {
+        "title": "小米扫拖机器人避障不灵撞坏百万家具，消费者质疑商家宣传未说明缺点，能向小米索赔吗？",
+        "url": "https://www.zhihu.com/question/2073796382792443105",
+        "hot": null,
+        "desc": "",
+        "time": 1787211586000,
+        "source": "知乎",
+        "rank": 6,
+        "category": "人工智能"
+      }
+    ],
+    "人文": [
+      {
+        "title": "男子不接受公司主动离职安排，公司设「监狱式待岗工位」，每日打卡四次并接受监控，公司这么做合适吗？",
+        "url": "https://www.zhihu.com/question/2073722027542893779",
+        "hot": null,
+        "desc": "",
+        "time": 1787193859000,
+        "source": "知乎",
+        "rank": 1,
+        "category": "人文"
+      },
+      {
+        "title": "孩子小学二年级，班主任为51个娃设53个官职，包括窗台管理员、前后门管理员等，如何评价此事？",
+        "url": "https://www.zhihu.com/question/552899415",
+        "hot": null,
+        "desc": "",
+        "time": 1662868363000,
+        "source": "知乎",
+        "rank": 2,
+        "category": "人文"
+      },
+      {
+        "title": "字已经丑到了人神共愤的地步，请问怎么把字练好？",
+        "url": "https://www.zhihu.com/question/25058494",
+        "hot": null,
+        "desc": "",
+        "time": 1409480328000,
+        "source": "知乎",
+        "rank": 3,
+        "category": "人文"
+      },
+      {
+        "title": "如何看待蒙不法分子擅闯中资营地侮辱中方员工，中方向蒙方提出交涉？",
+        "url": "https://www.zhihu.com/question/2073199570427953525",
+        "hot": null,
+        "desc": "",
+        "time": 1787069295000,
+        "source": "知乎",
+        "rank": 4,
+        "category": "人文"
+      },
+      {
+        "title": "女子多次凌晨倒掉爱心水只为拿走空瓶，这种行为出于什么心理？从法律角度来看，捐水的店主有啥维权的办法吗？",
+        "url": "https://www.zhihu.com/question/2073677774934341205",
+        "hot": null,
+        "desc": "",
+        "time": 1787183308000,
+        "source": "知乎",
+        "rank": 5,
+        "category": "人文"
+      },
+      {
+        "title": "怎么看待芬兰研究人员发现儿童的屏幕时间与青少年时期认知处理能力的正向统计关联？",
+        "url": "https://www.zhihu.com/question/2072964563851658129",
+        "hot": null,
+        "desc": "",
+        "time": 1787013265000,
+        "source": "知乎",
+        "rank": 6,
+        "category": "人文"
+      }
+    ],
+    "社会": [
+      {
+        "title": "曾辉小沈阳这段诡异得像AI生成",
+        "url": "https://s.weibo.com/weibo?q=%E6%9B%BE%E8%BE%89%E5%B0%8F%E6%B2%88%E9%98%B3%E8%BF%99%E6%AE%B5%E8%AF%A1%E5%BC%82%E5%BE%97%E5%83%8FAI%E7%94%9F%E6%88%90",
+        "hot": 391599,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 1,
+        "category": "社会"
+      },
+      {
+        "title": "孙骁骁说生二胎是对老公和婆家的肯定",
+        "url": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%AA%81%E9%AA%81%E8%AF%B4%E7%94%9F%E4%BA%8C%E8%83%8E%E6%98%AF%E5%AF%B9%E8%80%81%E5%85%AC%E5%92%8C%E5%A9%86%E5%AE%B6%E7%9A%84%E8%82%AF%E5%AE%9A",
+        "hot": 389980,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 2,
+        "category": "社会"
+      },
+      {
+        "title": "孙骁骁写信深情表白任重",
+        "url": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%AA%81%E9%AA%81%E5%86%99%E4%BF%A1%E6%B7%B1%E6%83%85%E8%A1%A8%E7%99%BD%E4%BB%BB%E9%87%8D",
+        "hot": 326172,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "社会"
+      },
+      {
+        "title": "迪丽热巴跑男时期的感觉回来啦",
+        "url": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%B7%91%E7%94%B7%E6%97%B6%E6%9C%9F%E7%9A%84%E6%84%9F%E8%A7%89%E5%9B%9E%E6%9D%A5%E5%95%A6",
+        "hot": 285810,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "社会"
+      },
+      {
+        "title": "宇树上市答谢宴未见茅台",
+        "url": "https://s.weibo.com/weibo?q=%E5%AE%87%E6%A0%91%E4%B8%8A%E5%B8%82%E7%AD%94%E8%B0%A2%E5%AE%B4%E6%9C%AA%E8%A7%81%E8%8C%85%E5%8F%B0",
+        "hot": 206415,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "社会"
+      },
+      {
+        "title": "大冰称婚后上交工资是三观问题",
+        "url": "https://s.weibo.com/weibo?q=%E5%A4%A7%E5%86%B0%E7%A7%B0%E5%A9%9A%E5%90%8E%E4%B8%8A%E4%BA%A4%E5%B7%A5%E8%B5%84%E6%98%AF%E4%B8%89%E8%A7%82%E9%97%AE%E9%A2%98",
+        "hot": 192215,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "社会"
+      },
+      {
+        "title": "女子发现孩子没出地铁强行往车厢挤",
+        "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E5%8F%91%E7%8E%B0%E5%AD%A9%E5%AD%90%E6%B2%A1%E5%87%BA%E5%9C%B0%E9%93%81%E5%BC%BA%E8%A1%8C%E5%BE%80%E8%BD%A6%E5%8E%A2%E6%8C%A4",
+        "hot": 190527,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 7,
+        "category": "社会"
+      },
+      {
+        "title": "仅退款的风吹到了医疗界",
+        "url": "https://s.weibo.com/weibo?q=%E4%BB%85%E9%80%80%E6%AC%BE%E7%9A%84%E9%A3%8E%E5%90%B9%E5%88%B0%E4%BA%86%E5%8C%BB%E7%96%97%E7%95%8C",
+        "hot": 179502,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 8,
+        "category": "社会"
+      },
+      {
+        "title": "医院能办结婚证了",
+        "url": "https://s.weibo.com/weibo?q=%E5%8C%BB%E9%99%A2%E8%83%BD%E5%8A%9E%E7%BB%93%E5%A9%9A%E8%AF%81%E4%BA%86",
+        "hot": 168703,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 9,
+        "category": "社会"
+      }
+    ],
+    "教育": [
+      {
+        "title": "孩子小学二年级，班主任为51个娃设53个官职，包括窗台管理员、前后门管理员等，如何评价此事？",
+        "url": "https://www.zhihu.com/question/552899415",
+        "hot": null,
+        "desc": "",
+        "time": 1662868363000,
+        "source": "知乎",
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "title": "字已经丑到了人神共愤的地步，请问怎么把字练好？",
+        "url": "https://www.zhihu.com/question/25058494",
+        "hot": null,
+        "desc": "",
+        "time": 1409480328000,
+        "source": "知乎",
+        "rank": 2,
+        "category": "教育"
+      },
+      {
+        "title": "如何看待蒙不法分子擅闯中资营地侮辱中方员工，中方向蒙方提出交涉？",
+        "url": "https://www.zhihu.com/question/2073199570427953525",
+        "hot": null,
+        "desc": "",
+        "time": 1787069295000,
+        "source": "知乎",
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "title": "大学生疯狂刷多段实习，有人大二时已经积累了六段实习，实习为什么越来越「卷」？这份实习焦虑从何而来？",
+        "url": "https://www.zhihu.com/question/2073466638532358880",
+        "hot": null,
+        "desc": "",
+        "time": 1787132969000,
+        "source": "知乎",
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "title": "男子不接受公司主动离职安排，公司设「监狱式待岗工位」，每日打卡四次并接受监控，公司这么做合适吗？",
+        "url": "https://www.zhihu.com/question/2073722027542893779",
+        "hot": null,
+        "desc": "",
+        "time": 1787193859000,
+        "source": "知乎",
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "title": "怎么看待芬兰研究人员发现儿童的屏幕时间与青少年时期认知处理能力的正向统计关联？",
+        "url": "https://www.zhihu.com/question/2072964563851658129",
+        "hot": null,
+        "desc": "",
+        "time": 1787013265000,
+        "source": "知乎",
+        "rank": 6,
+        "category": "教育"
+      }
+    ],
+    "娱乐": [
+      {
+        "title": "娃圈总动员全体开动",
+        "url": "https://www.douyin.com/search/%E5%A8%83%E5%9C%88%E6%80%BB%E5%8A%A8%E5%91%98%E5%85%A8%E4%BD%93%E5%BC%80%E5%8A%A8",
+        "hot": 10391862,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 1,
+        "category": "娱乐"
+      },
+      {
+        "title": "深度解析黑神话钟馗实机演示",
+        "url": "https://www.douyin.com/search/%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E9%BB%91%E7%A5%9E%E8%AF%9D%E9%92%9F%E9%A6%97%E5%AE%9E%E6%9C%BA%E6%BC%94%E7%A4%BA",
+        "hot": 7682939,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 2,
+        "category": "娱乐"
+      },
+      {
+        "title": "河南文旅你的兵来了",
+        "url": "https://www.douyin.com/search/%E6%B2%B3%E5%8D%97%E6%96%87%E6%97%85%E4%BD%A0%E7%9A%84%E5%85%B5%E6%9D%A5%E4%BA%86",
+        "hot": 7664914,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 3,
+        "category": "娱乐"
+      },
+      {
+        "title": "逆天邪神云澈苍月洞房泪吻",
+        "url": "https://www.douyin.com/search/%E9%80%86%E5%A4%A9%E9%82%AA%E7%A5%9E%E4%BA%91%E6%BE%88%E8%8B%8D%E6%9C%88%E6%B4%9E%E6%88%BF%E6%B3%AA%E5%90%BB",
+        "hot": 7662854,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 4,
+        "category": "娱乐"
+      },
+      {
+        "title": "扎气球挑战都谁通关了",
+        "url": "https://www.douyin.com/search/%E6%89%8E%E6%B0%94%E7%90%83%E6%8C%91%E6%88%98%E9%83%BD%E8%B0%81%E9%80%9A%E5%85%B3%E4%BA%86",
+        "hot": 7648713,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 5,
+        "category": "娱乐"
+      },
+      {
+        "title": "是时候跟上蔡徐坤的old school了",
+        "url": "https://www.douyin.com/search/%E6%98%AF%E6%97%B6%E5%80%99%E8%B7%9F%E4%B8%8A%E8%94%A1%E5%BE%90%E5%9D%A4%E7%9A%84old%20school%E4%BA%86",
+        "hot": 7631115,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 6,
+        "category": "娱乐"
+      },
+      {
+        "title": "美27岁女子让多人性侵自己2个女儿",
+        "url": "https://s.weibo.com/weibo?q=%E7%BE%8E27%E5%B2%81%E5%A5%B3%E5%AD%90%E8%AE%A9%E5%A4%9A%E4%BA%BA%E6%80%A7%E4%BE%B5%E8%87%AA%E5%B7%B12%E4%B8%AA%E5%A5%B3%E5%84%BF",
+        "hot": 161991,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 7,
+        "category": "娱乐"
+      }
+    ],
+    "医疗": [
+      {
+        "title": "张雪说送到统一为止",
+        "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%AA%E8%AF%B4%E9%80%81%E5%88%B0%E7%BB%9F%E4%B8%80%E4%B8%BA%E6%AD%A2",
+        "hot": 1114144,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 1,
+        "category": "医疗"
+      },
+      {
+        "title": "男子捡3根金条以为假的随手扔掉",
+        "url": "https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E6%8D%A13%E6%A0%B9%E9%87%91%E6%9D%A1%E4%BB%A5%E4%B8%BA%E5%81%87%E7%9A%84%E9%9A%8F%E6%89%8B%E6%89%94%E6%8E%89",
+        "hot": 800496,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 2,
+        "category": "医疗"
+      },
+      {
+        "title": "仅退款的风吹到了医疗界",
+        "url": "https://s.weibo.com/weibo?q=%E4%BB%85%E9%80%80%E6%AC%BE%E7%9A%84%E9%A3%8E%E5%90%B9%E5%88%B0%E4%BA%86%E5%8C%BB%E7%96%97%E7%95%8C",
+        "hot": 179502,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "医疗"
+      },
+      {
+        "title": "癌症疫苗离普通患者有多远",
+        "url": "https://s.weibo.com/weibo?q=%E7%99%8C%E7%97%87%E7%96%AB%E8%8B%97%E7%A6%BB%E6%99%AE%E9%80%9A%E6%82%A3%E8%80%85%E6%9C%89%E5%A4%9A%E8%BF%9C",
+        "hot": 174229,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "医疗"
+      },
+      {
+        "title": "癌症疫苗 个性化VS广谱",
+        "url": "https://s.weibo.com/weibo?q=%E7%99%8C%E7%97%87%E7%96%AB%E8%8B%97%20%E4%B8%AA%E6%80%A7%E5%8C%96VS%E5%B9%BF%E8%B0%B1",
+        "hot": 172163,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "医疗"
+      },
+      {
+        "title": "医院能办结婚证了",
+        "url": "https://s.weibo.com/weibo?q=%E5%8C%BB%E9%99%A2%E8%83%BD%E5%8A%9E%E7%BB%93%E5%A9%9A%E8%AF%81%E4%BA%86",
+        "hot": 168703,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "医疗"
+      }
+    ],
+    "财经": [
+      {
+        "title": "张雪说送到统一为止",
+        "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%AA%E8%AF%B4%E9%80%81%E5%88%B0%E7%BB%9F%E4%B8%80%E4%B8%BA%E6%AD%A2",
+        "hot": 1114144,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "title": "男子捡3根金条以为假的随手扔掉",
+        "url": "https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E6%8D%A13%E6%A0%B9%E9%87%91%E6%9D%A1%E4%BB%A5%E4%B8%BA%E5%81%87%E7%9A%84%E9%9A%8F%E6%89%8B%E6%89%94%E6%8E%89",
+        "hot": 800496,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 2,
+        "category": "财经"
+      },
+      {
+        "title": "中国铁路加速驶入AI赋能新阶段",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E9%93%81%E8%B7%AF%E5%8A%A0%E9%80%9F%E9%A9%B6%E5%85%A5AI%E8%B5%8B%E8%83%BD%E6%96%B0%E9%98%B6%E6%AE%B5",
+        "hot": 614412,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "title": "女子被30公斤大狗撕咬死亡",
+        "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E8%A2%AB30%E5%85%AC%E6%96%A4%E5%A4%A7%E7%8B%97%E6%92%95%E5%92%AC%E6%AD%BB%E4%BA%A1",
+        "hot": 609496,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "title": "网红卖淫秽视频被抓时问会判刑吗",
+        "url": "https://s.weibo.com/weibo?q=%E7%BD%91%E7%BA%A2%E5%8D%96%E6%B7%AB%E7%A7%BD%E8%A7%86%E9%A2%91%E8%A2%AB%E6%8A%93%E6%97%B6%E9%97%AE%E4%BC%9A%E5%88%A4%E5%88%91%E5%90%97",
+        "hot": 609077,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "title": "398一杯的芋圆葡萄",
+        "url": "https://s.weibo.com/weibo?q=398%E4%B8%80%E6%9D%AF%E7%9A%84%E8%8A%8B%E5%9C%86%E8%91%A1%E8%90%84",
+        "hot": 601744,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "财经"
+      }
+    ],
+    "体育": [
+      {
+        "title": "张雪说送到统一为止",
+        "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%AA%E8%AF%B4%E9%80%81%E5%88%B0%E7%BB%9F%E4%B8%80%E4%B8%BA%E6%AD%A2",
+        "hot": 1114144,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "title": "男子捡3根金条以为假的随手扔掉",
+        "url": "https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E6%8D%A13%E6%A0%B9%E9%87%91%E6%9D%A1%E4%BB%A5%E4%B8%BA%E5%81%87%E7%9A%84%E9%9A%8F%E6%89%8B%E6%89%94%E6%8E%89",
+        "hot": 800496,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "title": "中国铁路加速驶入AI赋能新阶段",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E9%93%81%E8%B7%AF%E5%8A%A0%E9%80%9F%E9%A9%B6%E5%85%A5AI%E8%B5%8B%E8%83%BD%E6%96%B0%E9%98%B6%E6%AE%B5",
+        "hot": 614412,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "title": "女子被30公斤大狗撕咬死亡",
+        "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E8%A2%AB30%E5%85%AC%E6%96%A4%E5%A4%A7%E7%8B%97%E6%92%95%E5%92%AC%E6%AD%BB%E4%BA%A1",
+        "hot": 609496,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "title": "网红卖淫秽视频被抓时问会判刑吗",
+        "url": "https://s.weibo.com/weibo?q=%E7%BD%91%E7%BA%A2%E5%8D%96%E6%B7%AB%E7%A7%BD%E8%A7%86%E9%A2%91%E8%A2%AB%E6%8A%93%E6%97%B6%E9%97%AE%E4%BC%9A%E5%88%A4%E5%88%91%E5%90%97",
+        "hot": 609077,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "title": "398一杯的芋圆葡萄",
+        "url": "https://s.weibo.com/weibo?q=398%E4%B8%80%E6%9D%AF%E7%9A%84%E8%8A%8B%E5%9C%86%E8%91%A1%E8%90%84",
+        "hot": 601744,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "体育"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "美这件事我只取悦自己",
+        "url": "https://www.douyin.com/search/%E7%BE%8E%E8%BF%99%E4%BB%B6%E4%BA%8B%E6%88%91%E5%8F%AA%E5%8F%96%E6%82%A6%E8%87%AA%E5%B7%B1",
+        "hot": 11910013,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "title": "AI补全了我对长辈的所有未知",
+        "url": "https://www.douyin.com/search/AI%E8%A1%A5%E5%85%A8%E4%BA%86%E6%88%91%E5%AF%B9%E9%95%BF%E8%BE%88%E7%9A%84%E6%89%80%E6%9C%89%E6%9C%AA%E7%9F%A5",
+        "hot": 11187780,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 2,
+        "category": "游戏"
+      },
+      {
+        "title": "我国服务业持续扩能提质",
+        "url": "https://www.douyin.com/search/%E6%88%91%E5%9B%BD%E6%9C%8D%E5%8A%A1%E4%B8%9A%E6%8C%81%E7%BB%AD%E6%89%A9%E8%83%BD%E6%8F%90%E8%B4%A8",
+        "hot": 11102892,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "title": "追梦这件事只要开始就不晚",
+        "url": "https://www.douyin.com/search/%E8%BF%BD%E6%A2%A6%E8%BF%99%E4%BB%B6%E4%BA%8B%E5%8F%AA%E8%A6%81%E5%BC%80%E5%A7%8B%E5%B0%B1%E4%B8%8D%E6%99%9A",
+        "hot": 10971024,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "title": "一文前瞻王者S45新赛季",
+        "url": "https://www.douyin.com/search/%E4%B8%80%E6%96%87%E5%89%8D%E7%9E%BB%E7%8E%8B%E8%80%85S45%E6%96%B0%E8%B5%9B%E5%AD%A3",
+        "hot": 7729900,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "title": "王者荣耀8.20正式服调整",
+        "url": "https://www.douyin.com/search/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%808.20%E6%AD%A3%E5%BC%8F%E6%9C%8D%E8%B0%83%E6%95%B4",
+        "hot": 7656078,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 6,
+        "category": "游戏"
+      }
+    ],
+    "汽车": [
+      {
+        "title": "对话吉利汽车创始人李书福",
+        "url": "https://www.douyin.com/search/%E5%AF%B9%E8%AF%9D%E5%90%89%E5%88%A9%E6%B1%BD%E8%BD%A6%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%9D%8E%E4%B9%A6%E7%A6%8F",
+        "hot": 9103196,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "title": "张雪说送到统一为止",
+        "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%AA%E8%AF%B4%E9%80%81%E5%88%B0%E7%BB%9F%E4%B8%80%E4%B8%BA%E6%AD%A2",
+        "hot": 1114144,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 2,
+        "category": "汽车"
+      },
+      {
+        "title": "男子捡3根金条以为假的随手扔掉",
+        "url": "https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E6%8D%A13%E6%A0%B9%E9%87%91%E6%9D%A1%E4%BB%A5%E4%B8%BA%E5%81%87%E7%9A%84%E9%9A%8F%E6%89%8B%E6%89%94%E6%8E%89",
+        "hot": 800496,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "汽车"
+      },
+      {
+        "title": "中国铁路加速驶入AI赋能新阶段",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E9%93%81%E8%B7%AF%E5%8A%A0%E9%80%9F%E9%A9%B6%E5%85%A5AI%E8%B5%8B%E8%83%BD%E6%96%B0%E9%98%B6%E6%AE%B5",
+        "hot": 614412,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "title": "女子被30公斤大狗撕咬死亡",
+        "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E8%A2%AB30%E5%85%AC%E6%96%A4%E5%A4%A7%E7%8B%97%E6%92%95%E5%92%AC%E6%AD%BB%E4%BA%A1",
+        "hot": 609496,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "title": "比亚迪高管称智驾能力比华为强",
+        "url": "https://s.weibo.com/weibo?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%E9%AB%98%E7%AE%A1%E7%A7%B0%E6%99%BA%E9%A9%BE%E8%83%BD%E5%8A%9B%E6%AF%94%E5%8D%8E%E4%B8%BA%E5%BC%BA",
+        "hot": 164695,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "汽车"
+      }
+    ],
+    "美食": [
+      {
+        "title": "潮汕开海美食申请出战",
+        "url": "https://www.douyin.com/search/%E6%BD%AE%E6%B1%95%E5%BC%80%E6%B5%B7%E7%BE%8E%E9%A3%9F%E7%94%B3%E8%AF%B7%E5%87%BA%E6%88%98",
+        "hot": 7629175,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "title": "张雪说送到统一为止",
+        "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%AA%E8%AF%B4%E9%80%81%E5%88%B0%E7%BB%9F%E4%B8%80%E4%B8%BA%E6%AD%A2",
+        "hot": 1114144,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 2,
+        "category": "美食"
+      },
+      {
+        "title": "男子捡3根金条以为假的随手扔掉",
+        "url": "https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E6%8D%A13%E6%A0%B9%E9%87%91%E6%9D%A1%E4%BB%A5%E4%B8%BA%E5%81%87%E7%9A%84%E9%9A%8F%E6%89%8B%E6%89%94%E6%8E%89",
+        "hot": 800496,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "title": "中国铁路加速驶入AI赋能新阶段",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E9%93%81%E8%B7%AF%E5%8A%A0%E9%80%9F%E9%A9%B6%E5%85%A5AI%E8%B5%8B%E8%83%BD%E6%96%B0%E9%98%B6%E6%AE%B5",
+        "hot": 614412,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "title": "女子被30公斤大狗撕咬死亡",
+        "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E8%A2%AB30%E5%85%AC%E6%96%A4%E5%A4%A7%E7%8B%97%E6%92%95%E5%92%AC%E6%AD%BB%E4%BA%A1",
+        "hot": 609496,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "title": "网红卖淫秽视频被抓时问会判刑吗",
+        "url": "https://s.weibo.com/weibo?q=%E7%BD%91%E7%BA%A2%E5%8D%96%E6%B7%AB%E7%A7%BD%E8%A7%86%E9%A2%91%E8%A2%AB%E6%8A%93%E6%97%B6%E9%97%AE%E4%BC%9A%E5%88%A4%E5%88%91%E5%90%97",
+        "hot": 609077,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "美食"
+      }
+    ],
+    "旅游": [
+      {
+        "title": "第五人格加页手记噩梦难度攻略",
+        "url": "https://www.douyin.com/search/%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%E5%8A%A0%E9%A1%B5%E6%89%8B%E8%AE%B0%E5%99%A9%E6%A2%A6%E9%9A%BE%E5%BA%A6%E6%94%BB%E7%95%A5",
+        "hot": 7665653,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 1,
+        "category": "旅游"
+      },
+      {
+        "title": "张雪说送到统一为止",
+        "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%AA%E8%AF%B4%E9%80%81%E5%88%B0%E7%BB%9F%E4%B8%80%E4%B8%BA%E6%AD%A2",
+        "hot": 1114144,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 2,
+        "category": "旅游"
+      },
+      {
+        "title": "男子捡3根金条以为假的随手扔掉",
+        "url": "https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E6%8D%A13%E6%A0%B9%E9%87%91%E6%9D%A1%E4%BB%A5%E4%B8%BA%E5%81%87%E7%9A%84%E9%9A%8F%E6%89%8B%E6%89%94%E6%8E%89",
+        "hot": 800496,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "旅游"
+      },
+      {
+        "title": "中国铁路加速驶入AI赋能新阶段",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E9%93%81%E8%B7%AF%E5%8A%A0%E9%80%9F%E9%A9%B6%E5%85%A5AI%E8%B5%8B%E8%83%BD%E6%96%B0%E9%98%B6%E6%AE%B5",
+        "hot": 614412,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "title": "女子被30公斤大狗撕咬死亡",
+        "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E8%A2%AB30%E5%85%AC%E6%96%A4%E5%A4%A7%E7%8B%97%E6%92%95%E5%92%AC%E6%AD%BB%E4%BA%A1",
+        "hot": 609496,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "旅游"
+      },
+      {
+        "title": "网红卖淫秽视频被抓时问会判刑吗",
+        "url": "https://s.weibo.com/weibo?q=%E7%BD%91%E7%BA%A2%E5%8D%96%E6%B7%AB%E7%A7%BD%E8%A7%86%E9%A2%91%E8%A2%AB%E6%8A%93%E6%97%B6%E9%97%AE%E4%BC%9A%E5%88%A4%E5%88%91%E5%90%97",
+        "hot": 609077,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "旅游"
+      }
+    ],
+    "军事": [
+      {
+        "title": "张雪说送到统一为止",
+        "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%AA%E8%AF%B4%E9%80%81%E5%88%B0%E7%BB%9F%E4%B8%80%E4%B8%BA%E6%AD%A2",
+        "hot": 1114144,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 1,
+        "category": "军事"
+      },
+      {
+        "title": "男子捡3根金条以为假的随手扔掉",
+        "url": "https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E6%8D%A13%E6%A0%B9%E9%87%91%E6%9D%A1%E4%BB%A5%E4%B8%BA%E5%81%87%E7%9A%84%E9%9A%8F%E6%89%8B%E6%89%94%E6%8E%89",
+        "hot": 800496,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "title": "中国铁路加速驶入AI赋能新阶段",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E9%93%81%E8%B7%AF%E5%8A%A0%E9%80%9F%E9%A9%B6%E5%85%A5AI%E8%B5%8B%E8%83%BD%E6%96%B0%E9%98%B6%E6%AE%B5",
+        "hot": 614412,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "军事"
+      },
+      {
+        "title": "女子被30公斤大狗撕咬死亡",
+        "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E8%A2%AB30%E5%85%AC%E6%96%A4%E5%A4%A7%E7%8B%97%E6%92%95%E5%92%AC%E6%AD%BB%E4%BA%A1",
+        "hot": 609496,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "军事"
+      },
+      {
+        "title": "网红卖淫秽视频被抓时问会判刑吗",
+        "url": "https://s.weibo.com/weibo?q=%E7%BD%91%E7%BA%A2%E5%8D%96%E6%B7%AB%E7%A7%BD%E8%A7%86%E9%A2%91%E8%A2%AB%E6%8A%93%E6%97%B6%E9%97%AE%E4%BC%9A%E5%88%A4%E5%88%91%E5%90%97",
+        "hot": 609077,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "军事"
+      },
+      {
+        "title": "398一杯的芋圆葡萄",
+        "url": "https://s.weibo.com/weibo?q=398%E4%B8%80%E6%9D%AF%E7%9A%84%E8%8A%8B%E5%9C%86%E8%91%A1%E8%90%84",
+        "hot": 601744,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "军事"
+      }
+    ],
+    "国际": [
+      {
+        "title": "狂飙美债对全球意味着什么",
+        "url": "https://www.toutiao.com/trending/7676018598879432235",
+        "hot": 4045881,
+        "desc": "",
+        "time": null,
+        "source": "今日头条",
+        "rank": 1,
+        "category": "国际"
+      },
+      {
+        "title": "如何看待低生育率席卷全球",
+        "url": "https://www.toutiao.com/trending/7676232407246179883",
+        "hot": 2712035,
+        "desc": "",
+        "time": null,
+        "source": "今日头条",
+        "rank": 2,
+        "category": "国际"
+      },
+      {
+        "title": "俄乌战场正变为日本大型军事试验场",
+        "url": "https://www.toutiao.com/trending/7675061879219175466",
+        "hot": 2220427,
+        "desc": "",
+        "time": null,
+        "source": "今日头条",
+        "rank": 3,
+        "category": "国际"
+      },
+      {
+        "title": "俄称目前不存在俄乌冲突和平解决前提",
+        "url": "https://www.toutiao.com/trending/7676108321099874310",
+        "hot": 1644932,
+        "desc": "",
+        "time": null,
+        "source": "今日头条",
+        "rank": 4,
+        "category": "国际"
+      },
+      {
+        "title": "张雪说送到统一为止",
+        "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%AA%E8%AF%B4%E9%80%81%E5%88%B0%E7%BB%9F%E4%B8%80%E4%B8%BA%E6%AD%A2",
+        "hot": 1114144,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "国际"
+      },
+      {
+        "title": "男子捡3根金条以为假的随手扔掉",
+        "url": "https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E6%8D%A13%E6%A0%B9%E9%87%91%E6%9D%A1%E4%BB%A5%E4%B8%BA%E5%81%87%E7%9A%84%E9%9A%8F%E6%89%8B%E6%89%94%E6%8E%89",
+        "hot": 800496,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "国际"
+      }
+    ],
+    "文化": [
+      {
+        "title": "女子多次凌晨倒掉爱心水只为拿走空瓶，这种行为出于什么心理？从法律角度来看，捐水的店主有啥维权的办法吗？",
+        "url": "https://www.zhihu.com/question/2073677774934341205",
+        "hot": null,
+        "desc": "",
+        "time": 1787183308000,
+        "source": "知乎",
+        "rank": 1,
+        "category": "文化"
+      },
+      {
+        "title": "字已经丑到了人神共愤的地步，请问怎么把字练好？",
+        "url": "https://www.zhihu.com/question/25058494",
+        "hot": null,
+        "desc": "",
+        "time": 1409480328000,
+        "source": "知乎",
+        "rank": 2,
+        "category": "文化"
+      },
+      {
+        "title": "怎么看待芬兰研究人员发现儿童的屏幕时间与青少年时期认知处理能力的正向统计关联？",
+        "url": "https://www.zhihu.com/question/2072964563851658129",
+        "hot": null,
+        "desc": "",
+        "time": 1787013265000,
+        "source": "知乎",
+        "rank": 3,
+        "category": "文化"
+      },
+      {
+        "title": "如何看待蒙不法分子擅闯中资营地侮辱中方员工，中方向蒙方提出交涉？",
+        "url": "https://www.zhihu.com/question/2073199570427953525",
+        "hot": null,
+        "desc": "",
+        "time": 1787069295000,
+        "source": "知乎",
+        "rank": 4,
+        "category": "文化"
+      },
+      {
+        "title": "男子不接受公司主动离职安排，公司设「监狱式待岗工位」，每日打卡四次并接受监控，公司这么做合适吗？",
+        "url": "https://www.zhihu.com/question/2073722027542893779",
+        "hot": null,
+        "desc": "",
+        "time": 1787193859000,
+        "source": "知乎",
+        "rank": 5,
+        "category": "文化"
+      },
+      {
+        "title": "孩子小学二年级，班主任为51个娃设53个官职，包括窗台管理员、前后门管理员等，如何评价此事？",
+        "url": "https://www.zhihu.com/question/552899415",
+        "hot": null,
+        "desc": "",
+        "time": 1662868363000,
+        "source": "知乎",
+        "rank": 6,
+        "category": "文化"
+      }
+    ]
+  },
+  "total": 103
+}
