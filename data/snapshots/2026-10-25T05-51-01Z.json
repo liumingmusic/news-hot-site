@@ -1,0 +1,1187 @@
+{
+  "generatedAt": "2026-10-25T05:51:01.825Z",
+  "source": "60s.viki.moe",
+  "headlines": [
+    {
+      "title": "火箭险胜老鹰豪取三连胜",
+      "url": "https://www.douyin.com/search/%E7%81%AB%E7%AE%AD%E9%99%A9%E8%83%9C%E8%80%81%E9%B9%B0%E8%B1%AA%E5%8F%96%E4%B8%89%E8%BF%9E%E8%83%9C",
+      "hot": 12288320,
+      "desc": "",
+      "time": null,
+      "source": "抖音",
+      "rank": 1,
+      "category": "游戏",
+      "_domain": "游戏"
+    },
+    {
+      "title": "女生拒绝表白后照片被发色情软件",
+      "url": "https://www.toutiao.com/trending/7700440450536292393",
+      "hot": 12066561,
+      "desc": "",
+      "time": null,
+      "source": "今日头条",
+      "rank": 1,
+      "category": "科技",
+      "_domain": "科技"
+    },
+    {
+      "title": "台风蔷琵正在我国近海活跃",
+      "url": "https://www.douyin.com/search/%E5%8F%B0%E9%A3%8E%E8%94%B7%E7%90%B5%E6%AD%A3%E5%9C%A8%E6%88%91%E5%9B%BD%E8%BF%91%E6%B5%B7%E6%B4%BB%E8%B7%83",
+      "hot": 8856844,
+      "desc": "",
+      "time": null,
+      "source": "抖音",
+      "rank": 1,
+      "category": "娱乐",
+      "_domain": "娱乐"
+    },
+    {
+      "title": "江苏姑娘网购鹤岗房搬进去后傻眼",
+      "url": "https://s.weibo.com/weibo?q=%E6%B1%9F%E8%8B%8F%E5%A7%91%E5%A8%98%E7%BD%91%E8%B4%AD%E9%B9%A4%E5%B2%97%E6%88%BF%E6%90%AC%E8%BF%9B%E5%8E%BB%E5%90%8E%E5%82%BB%E7%9C%BC",
+      "hot": 1179300,
+      "desc": "",
+      "time": null,
+      "source": "微博",
+      "rank": 1,
+      "category": "医疗",
+      "_domain": "医疗"
+    },
+    {
+      "title": "县委书记拒绝张雪为家乡打广告",
+      "url": "https://s.weibo.com/weibo?q=%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%8B%92%E7%BB%9D%E5%BC%A0%E9%9B%AA%E4%B8%BA%E5%AE%B6%E4%B9%A1%E6%89%93%E5%B9%BF%E5%91%8A",
+      "hot": 937331,
+      "desc": "",
+      "time": null,
+      "source": "微博",
+      "rank": 2,
+      "category": "财经",
+      "_domain": "财经"
+    },
+    {
+      "title": "深圳水贝被挤爆",
+      "url": "https://s.weibo.com/weibo?q=%E6%B7%B1%E5%9C%B3%E6%B0%B4%E8%B4%9D%E8%A2%AB%E6%8C%A4%E7%88%86",
+      "hot": 784956,
+      "desc": "",
+      "time": null,
+      "source": "微博",
+      "rank": 1,
+      "category": "社会",
+      "_domain": "社会"
+    }
+  ],
+  "categories": {
+    "科技": [
+      {
+        "title": "女生拒绝表白后照片被发色情软件",
+        "url": "https://www.toutiao.com/trending/7700440450536292393",
+        "hot": 12066561,
+        "desc": "",
+        "time": null,
+        "source": "今日头条",
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "title": "苹果首款折叠屏手机口碑为何翻车",
+        "url": "https://www.toutiao.com/trending/7700444360927612459",
+        "hot": 2692413,
+        "desc": "",
+        "time": null,
+        "source": "今日头条",
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "title": "巴西总统卢拉为何开始使用智能手机",
+        "url": "https://www.toutiao.com/trending/7700437060892495401",
+        "hot": 990483,
+        "desc": "",
+        "time": null,
+        "source": "今日头条",
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "title": "华为换苹果卡在办手机卡",
+        "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E6%8D%A2%E8%8B%B9%E6%9E%9C%E5%8D%A1%E5%9C%A8%E5%8A%9E%E6%89%8B%E6%9C%BA%E5%8D%A1",
+        "hot": 244058,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "title": "美初创公司宣称已实现「汞变稳定黄金」，但成果尚未得到独立验证，技术原理是啥？技术可行性与商业价值如何？",
+        "url": "https://www.zhihu.com/question/2097101591828607209",
+        "hot": null,
+        "desc": "",
+        "time": 1792767981000,
+        "source": "知乎",
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "title": "陶哲轩称 AI 的数学成果称把解题当基准测试，犹如抛出「有毒废料」，如何看待这一评价？",
+        "url": "https://www.zhihu.com/question/2096913276739367170",
+        "hot": null,
+        "desc": "",
+        "time": 1792723083000,
+        "source": "知乎",
+        "rank": 6,
+        "category": "科技"
+      }
+    ],
+    "人工智能": [
+      {
+        "title": "陶哲轩称 AI 的数学成果称把解题当基准测试，犹如抛出「有毒废料」，如何看待这一评价？",
+        "url": "https://www.zhihu.com/question/2096913276739367170",
+        "hot": null,
+        "desc": "",
+        "time": 1792723083000,
+        "source": "知乎",
+        "rank": 1,
+        "category": "人工智能"
+      },
+      {
+        "title": "你有5分钟把一个回形针藏在家里，侦探有24小时来找，找不到就给你1万美元。你会藏在哪里？",
+        "url": "https://www.zhihu.com/question/2097021346526001046",
+        "hot": null,
+        "desc": "",
+        "time": 1792748849000,
+        "source": "知乎",
+        "rank": 2,
+        "category": "人工智能"
+      },
+      {
+        "title": "广西一病人转院被网约车司机丢弃致死，家属索赔96万，法院一审判司机平台赔1.3万，如何从法律角度解读？",
+        "url": "https://www.zhihu.com/question/2097409044340105309",
+        "hot": null,
+        "desc": "",
+        "time": 1792841284000,
+        "source": "知乎",
+        "rank": 3,
+        "category": "人工智能"
+      },
+      {
+        "title": "美初创公司宣称已实现「汞变稳定黄金」，但成果尚未得到独立验证，技术原理是啥？技术可行性与商业价值如何？",
+        "url": "https://www.zhihu.com/question/2097101591828607209",
+        "hot": null,
+        "desc": "",
+        "time": 1792767981000,
+        "source": "知乎",
+        "rank": 4,
+        "category": "人工智能"
+      },
+      {
+        "title": "重点中学教师称高一开学仅一个月，其任教的每个班均有学生因心理问题休学，这是普遍现象吗？为什么会这样？",
+        "url": "https://www.zhihu.com/question/2097263594421188141",
+        "hot": null,
+        "desc": "",
+        "time": 1792806606000,
+        "source": "知乎",
+        "rank": 5,
+        "category": "人工智能"
+      },
+      {
+        "title": "S16 瑞士轮次日 TES 1:0 击败 AL 拿下首胜，如何评价这场比赛？",
+        "url": "https://www.zhihu.com/question/2097479998525518163",
+        "hot": null,
+        "desc": "",
+        "time": 1792858200000,
+        "source": "知乎",
+        "rank": 6,
+        "category": "人工智能"
+      }
+    ],
+    "人文": [
+      {
+        "title": "你有5分钟把一个回形针藏在家里，侦探有24小时来找，找不到就给你1万美元。你会藏在哪里？",
+        "url": "https://www.zhihu.com/question/2097021346526001046",
+        "hot": null,
+        "desc": "",
+        "time": 1792748849000,
+        "source": "知乎",
+        "rank": 1,
+        "category": "人文"
+      },
+      {
+        "title": "S16 瑞士轮次日 TES 1:0 击败 AL 拿下首胜，如何评价这场比赛？",
+        "url": "https://www.zhihu.com/question/2097479998525518163",
+        "hot": null,
+        "desc": "",
+        "time": 1792858200000,
+        "source": "知乎",
+        "rank": 2,
+        "category": "人文"
+      },
+      {
+        "title": "美初创公司宣称已实现「汞变稳定黄金」，但成果尚未得到独立验证，技术原理是啥？技术可行性与商业价值如何？",
+        "url": "https://www.zhihu.com/question/2097101591828607209",
+        "hot": null,
+        "desc": "",
+        "time": 1792767981000,
+        "source": "知乎",
+        "rank": 3,
+        "category": "人文"
+      },
+      {
+        "title": "重点中学教师称高一开学仅一个月，其任教的每个班均有学生因心理问题休学，这是普遍现象吗？为什么会这样？",
+        "url": "https://www.zhihu.com/question/2097263594421188141",
+        "hot": null,
+        "desc": "",
+        "time": 1792806606000,
+        "source": "知乎",
+        "rank": 4,
+        "category": "人文"
+      },
+      {
+        "title": "76 年过后，抗美援朝战争对当今中国有着怎样的意义？这场战争在历史上留下的痕迹，还在怎样影响着我们？",
+        "url": "https://www.zhihu.com/question/2097019307393802452",
+        "hot": null,
+        "desc": "",
+        "time": 1792748363000,
+        "source": "知乎",
+        "rank": 5,
+        "category": "人文"
+      },
+      {
+        "title": "广西一病人转院被网约车司机丢弃致死，家属索赔96万，法院一审判司机平台赔1.3万，如何从法律角度解读？",
+        "url": "https://www.zhihu.com/question/2097409044340105309",
+        "hot": null,
+        "desc": "",
+        "time": 1792841284000,
+        "source": "知乎",
+        "rank": 6,
+        "category": "人文"
+      }
+    ],
+    "社会": [
+      {
+        "title": "深圳水贝被挤爆",
+        "url": "https://s.weibo.com/weibo?q=%E6%B7%B1%E5%9C%B3%E6%B0%B4%E8%B4%9D%E8%A2%AB%E6%8C%A4%E7%88%86",
+        "hot": 784956,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 1,
+        "category": "社会"
+      },
+      {
+        "title": "张雪刷新吉尼斯纪录",
+        "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%AA%E5%88%B7%E6%96%B0%E5%90%89%E5%B0%BC%E6%96%AF%E7%BA%AA%E5%BD%95",
+        "hot": 477761,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 2,
+        "category": "社会"
+      },
+      {
+        "title": "31省份2025年人口出生率公布",
+        "url": "https://s.weibo.com/weibo?q=31%E7%9C%81%E4%BB%BD2025%E5%B9%B4%E4%BA%BA%E5%8F%A3%E5%87%BA%E7%94%9F%E7%8E%87%E5%85%AC%E5%B8%83",
+        "hot": 252133,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "社会"
+      },
+      {
+        "title": "华为换苹果卡在办手机卡",
+        "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E6%8D%A2%E8%8B%B9%E6%9E%9C%E5%8D%A1%E5%9C%A8%E5%8A%9E%E6%89%8B%E6%9C%BA%E5%8D%A1",
+        "hot": 244058,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "社会"
+      },
+      {
+        "title": "55岁男子性功能下降确诊更年期",
+        "url": "https://s.weibo.com/weibo?q=55%E5%B2%81%E7%94%B7%E5%AD%90%E6%80%A7%E5%8A%9F%E8%83%BD%E4%B8%8B%E9%99%8D%E7%A1%AE%E8%AF%8A%E6%9B%B4%E5%B9%B4%E6%9C%9F",
+        "hot": 207853,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "社会"
+      },
+      {
+        "title": "茉莉雨",
+        "url": "https://s.weibo.com/weibo?q=%E8%8C%89%E8%8E%89%E9%9B%A8",
+        "hot": 207675,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "社会"
+      },
+      {
+        "title": "恋与深空",
+        "url": "https://s.weibo.com/weibo?q=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA",
+        "hot": 183247,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 7,
+        "category": "社会"
+      },
+      {
+        "title": "陈奕迅女儿称分手后情绪低落",
+        "url": "https://s.weibo.com/weibo?q=%E9%99%88%E5%A5%95%E8%BF%85%E5%A5%B3%E5%84%BF%E7%A7%B0%E5%88%86%E6%89%8B%E5%90%8E%E6%83%85%E7%BB%AA%E4%BD%8E%E8%90%BD",
+        "hot": 178432,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 8,
+        "category": "社会"
+      },
+      {
+        "title": "李艺彤黄婷婷be原因",
+        "url": "https://s.weibo.com/weibo?q=%E6%9D%8E%E8%89%BA%E5%BD%A4%E9%BB%84%E5%A9%B7%E5%A9%B7be%E5%8E%9F%E5%9B%A0",
+        "hot": 161965,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 9,
+        "category": "社会"
+      },
+      {
+        "title": "品牌方回应肖战广告位只抢到12集",
+        "url": "https://s.weibo.com/weibo?q=%E5%93%81%E7%89%8C%E6%96%B9%E5%9B%9E%E5%BA%94%E8%82%96%E6%88%98%E5%B9%BF%E5%91%8A%E4%BD%8D%E5%8F%AA%E6%8A%A2%E5%88%B012%E9%9B%86",
+        "hot": 138858,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 10,
+        "category": "社会"
+      },
+      {
+        "title": "孟子义逗李昀锐叫姐姐",
+        "url": "https://s.weibo.com/weibo?q=%E5%AD%9F%E5%AD%90%E4%B9%89%E9%80%97%E6%9D%8E%E6%98%80%E9%94%90%E5%8F%AB%E5%A7%90%E5%A7%90",
+        "hot": 138168,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 11,
+        "category": "社会"
+      },
+      {
+        "title": "日剧把日军罪行嫁接给中国人",
+        "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E5%89%A7%E6%8A%8A%E6%97%A5%E5%86%9B%E7%BD%AA%E8%A1%8C%E5%AB%81%E6%8E%A5%E7%BB%99%E4%B8%AD%E5%9B%BD%E4%BA%BA",
+        "hot": 132051,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 12,
+        "category": "社会"
+      }
+    ],
+    "教育": [
+      {
+        "title": "广西一病人转院被网约车司机丢弃致死，家属索赔96万，法院一审判司机平台赔1.3万，如何从法律角度解读？",
+        "url": "https://www.zhihu.com/question/2097409044340105309",
+        "hot": null,
+        "desc": "",
+        "time": 1792841284000,
+        "source": "知乎",
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "title": "重点中学教师称高一开学仅一个月，其任教的每个班均有学生因心理问题休学，这是普遍现象吗？为什么会这样？",
+        "url": "https://www.zhihu.com/question/2097263594421188141",
+        "hot": null,
+        "desc": "",
+        "time": 1792806606000,
+        "source": "知乎",
+        "rank": 2,
+        "category": "教育"
+      },
+      {
+        "title": "S16 瑞士轮次日 TES 1:0 击败 AL 拿下首胜，如何评价这场比赛？",
+        "url": "https://www.zhihu.com/question/2097479998525518163",
+        "hot": null,
+        "desc": "",
+        "time": 1792858200000,
+        "source": "知乎",
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "title": "男孩偷超市饮料，被父亲拿着戒尺送到派出所「自首」，感受手铐重量后向店主道歉，你支持这种教育方式吗？",
+        "url": "https://www.zhihu.com/question/2097008886175872404",
+        "hot": null,
+        "desc": "",
+        "time": 1792745879000,
+        "source": "知乎",
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "title": "你有5分钟把一个回形针藏在家里，侦探有24小时来找，找不到就给你1万美元。你会藏在哪里？",
+        "url": "https://www.zhihu.com/question/2097021346526001046",
+        "hot": null,
+        "desc": "",
+        "time": 1792748849000,
+        "source": "知乎",
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "title": "美初创公司宣称已实现「汞变稳定黄金」，但成果尚未得到独立验证，技术原理是啥？技术可行性与商业价值如何？",
+        "url": "https://www.zhihu.com/question/2097101591828607209",
+        "hot": null,
+        "desc": "",
+        "time": 1792767981000,
+        "source": "知乎",
+        "rank": 6,
+        "category": "教育"
+      }
+    ],
+    "娱乐": [
+      {
+        "title": "台风蔷琵正在我国近海活跃",
+        "url": "https://www.douyin.com/search/%E5%8F%B0%E9%A3%8E%E8%94%B7%E7%90%B5%E6%AD%A3%E5%9C%A8%E6%88%91%E5%9B%BD%E8%BF%91%E6%B5%B7%E6%B4%BB%E8%B7%83",
+        "hot": 8856844,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 1,
+        "category": "娱乐"
+      },
+      {
+        "title": "在九寨沟拍到野生水獭的含金量",
+        "url": "https://www.douyin.com/search/%E5%9C%A8%E4%B9%9D%E5%AF%A8%E6%B2%9F%E6%8B%8D%E5%88%B0%E9%87%8E%E7%94%9F%E6%B0%B4%E7%8D%AD%E7%9A%84%E5%90%AB%E9%87%91%E9%87%8F",
+        "hot": 7979467,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 2,
+        "category": "娱乐"
+      },
+      {
+        "title": "原来生抽是咕嘟的",
+        "url": "https://www.douyin.com/search/%E5%8E%9F%E6%9D%A5%E7%94%9F%E6%8A%BD%E6%98%AF%E5%92%95%E5%98%9F%E7%9A%84",
+        "hot": 7725384,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 3,
+        "category": "娱乐"
+      },
+      {
+        "title": "VOGUE红毯女明星战袍解析",
+        "url": "https://www.douyin.com/search/VOGUE%E7%BA%A2%E6%AF%AF%E5%A5%B3%E6%98%8E%E6%98%9F%E6%88%98%E8%A2%8D%E8%A7%A3%E6%9E%90",
+        "hot": 7681890,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 4,
+        "category": "娱乐"
+      },
+      {
+        "title": "跟着与辉同行打开贵州",
+        "url": "https://www.douyin.com/search/%E8%B7%9F%E7%9D%80%E4%B8%8E%E8%BE%89%E5%90%8C%E8%A1%8C%E6%89%93%E5%BC%80%E8%B4%B5%E5%B7%9E",
+        "hot": 7670837,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 5,
+        "category": "娱乐"
+      },
+      {
+        "title": "王者共创之夜阵容太夯了",
+        "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E5%85%B1%E5%88%9B%E4%B9%8B%E5%A4%9C%E9%98%B5%E5%AE%B9%E5%A4%AA%E5%A4%AF%E4%BA%86",
+        "hot": 248181,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "娱乐"
+      },
+      {
+        "title": "小城良方再闹叶文洁按按钮了",
+        "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%E5%86%8D%E9%97%B9%E5%8F%B6%E6%96%87%E6%B4%81%E6%8C%89%E6%8C%89%E9%92%AE%E4%BA%86",
+        "hot": 242423,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 7,
+        "category": "娱乐"
+      },
+      {
+        "title": "玉簟秋 咬脖吻",
+        "url": "https://s.weibo.com/weibo?q=%E7%8E%89%E7%B0%9F%E7%A7%8B%20%E5%92%AC%E8%84%96%E5%90%BB",
+        "hot": 224765,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 8,
+        "category": "娱乐"
+      },
+      {
+        "title": "宋慧乔从出现开始就美得在发光",
+        "url": "https://s.weibo.com/weibo?q=%E5%AE%8B%E6%85%A7%E4%B9%94%E4%BB%8E%E5%87%BA%E7%8E%B0%E5%BC%80%E5%A7%8B%E5%B0%B1%E7%BE%8E%E5%BE%97%E5%9C%A8%E5%8F%91%E5%85%89",
+        "hot": 206366,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 9,
+        "category": "娱乐"
+      },
+      {
+        "title": "iPhoneDuo内部结构曝光",
+        "url": "https://s.weibo.com/weibo?q=iPhoneDuo%E5%86%85%E9%83%A8%E7%BB%93%E6%9E%84%E6%9B%9D%E5%85%89",
+        "hot": 178262,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 10,
+        "category": "娱乐"
+      },
+      {
+        "title": "明日方舟",
+        "url": "https://s.weibo.com/weibo?q=%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F",
+        "hot": 168672,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 11,
+        "category": "娱乐"
+      },
+      {
+        "title": "孟子义逗李昀锐叫姐姐",
+        "url": "https://s.weibo.com/weibo?q=%E5%AD%9F%E5%AD%90%E4%B9%89%E9%80%97%E6%9D%8E%E6%98%80%E9%94%90%E5%8F%AB%E5%A7%90%E5%A7%90",
+        "hot": 138168,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 12,
+        "category": "娱乐"
+      }
+    ],
+    "医疗": [
+      {
+        "title": "江苏姑娘网购鹤岗房搬进去后傻眼",
+        "url": "https://s.weibo.com/weibo?q=%E6%B1%9F%E8%8B%8F%E5%A7%91%E5%A8%98%E7%BD%91%E8%B4%AD%E9%B9%A4%E5%B2%97%E6%88%BF%E6%90%AC%E8%BF%9B%E5%8E%BB%E5%90%8E%E5%82%BB%E7%9C%BC",
+        "hot": 1179300,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 1,
+        "category": "医疗"
+      },
+      {
+        "title": "县委书记拒绝张雪为家乡打广告",
+        "url": "https://s.weibo.com/weibo?q=%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%8B%92%E7%BB%9D%E5%BC%A0%E9%9B%AA%E4%B8%BA%E5%AE%B6%E4%B9%A1%E6%89%93%E5%B9%BF%E5%91%8A",
+        "hot": 937331,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 2,
+        "category": "医疗"
+      },
+      {
+        "title": "向英雄致敬迎英雄回家",
+        "url": "https://s.weibo.com/weibo?q=%E5%90%91%E8%8B%B1%E9%9B%84%E8%87%B4%E6%95%AC%E8%BF%8E%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6",
+        "hot": 793453,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "医疗"
+      },
+      {
+        "title": "深圳水贝被挤爆",
+        "url": "https://s.weibo.com/weibo?q=%E6%B7%B1%E5%9C%B3%E6%B0%B4%E8%B4%9D%E8%A2%AB%E6%8C%A4%E7%88%86",
+        "hot": 784956,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "医疗"
+      },
+      {
+        "title": "日剧Vivant抹黑中国",
+        "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E5%89%A7Vivant%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9B%BD",
+        "hot": 726563,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "医疗"
+      },
+      {
+        "title": "2025年出生人口男孩多于女孩",
+        "url": "https://s.weibo.com/weibo?q=2025%E5%B9%B4%E5%87%BA%E7%94%9F%E4%BA%BA%E5%8F%A3%E7%94%B7%E5%AD%A9%E5%A4%9A%E4%BA%8E%E5%A5%B3%E5%AD%A9",
+        "hot": 552632,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "医疗"
+      }
+    ],
+    "财经": [
+      {
+        "title": "江苏姑娘网购鹤岗房搬进去后傻眼",
+        "url": "https://s.weibo.com/weibo?q=%E6%B1%9F%E8%8B%8F%E5%A7%91%E5%A8%98%E7%BD%91%E8%B4%AD%E9%B9%A4%E5%B2%97%E6%88%BF%E6%90%AC%E8%BF%9B%E5%8E%BB%E5%90%8E%E5%82%BB%E7%9C%BC",
+        "hot": 1179300,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "title": "县委书记拒绝张雪为家乡打广告",
+        "url": "https://s.weibo.com/weibo?q=%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%8B%92%E7%BB%9D%E5%BC%A0%E9%9B%AA%E4%B8%BA%E5%AE%B6%E4%B9%A1%E6%89%93%E5%B9%BF%E5%91%8A",
+        "hot": 937331,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 2,
+        "category": "财经"
+      },
+      {
+        "title": "向英雄致敬迎英雄回家",
+        "url": "https://s.weibo.com/weibo?q=%E5%90%91%E8%8B%B1%E9%9B%84%E8%87%B4%E6%95%AC%E8%BF%8E%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6",
+        "hot": 793453,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "title": "深圳水贝被挤爆",
+        "url": "https://s.weibo.com/weibo?q=%E6%B7%B1%E5%9C%B3%E6%B0%B4%E8%B4%9D%E8%A2%AB%E6%8C%A4%E7%88%86",
+        "hot": 784956,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "title": "日剧Vivant抹黑中国",
+        "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E5%89%A7Vivant%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9B%BD",
+        "hot": 726563,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "title": "2025年出生人口男孩多于女孩",
+        "url": "https://s.weibo.com/weibo?q=2025%E5%B9%B4%E5%87%BA%E7%94%9F%E4%BA%BA%E5%8F%A3%E7%94%B7%E5%AD%A9%E5%A4%9A%E4%BA%8E%E5%A5%B3%E5%AD%A9",
+        "hot": 552632,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "财经"
+      }
+    ],
+    "体育": [
+      {
+        "title": "江苏姑娘网购鹤岗房搬进去后傻眼",
+        "url": "https://s.weibo.com/weibo?q=%E6%B1%9F%E8%8B%8F%E5%A7%91%E5%A8%98%E7%BD%91%E8%B4%AD%E9%B9%A4%E5%B2%97%E6%88%BF%E6%90%AC%E8%BF%9B%E5%8E%BB%E5%90%8E%E5%82%BB%E7%9C%BC",
+        "hot": 1179300,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "title": "县委书记拒绝张雪为家乡打广告",
+        "url": "https://s.weibo.com/weibo?q=%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%8B%92%E7%BB%9D%E5%BC%A0%E9%9B%AA%E4%B8%BA%E5%AE%B6%E4%B9%A1%E6%89%93%E5%B9%BF%E5%91%8A",
+        "hot": 937331,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "title": "向英雄致敬迎英雄回家",
+        "url": "https://s.weibo.com/weibo?q=%E5%90%91%E8%8B%B1%E9%9B%84%E8%87%B4%E6%95%AC%E8%BF%8E%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6",
+        "hot": 793453,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "title": "深圳水贝被挤爆",
+        "url": "https://s.weibo.com/weibo?q=%E6%B7%B1%E5%9C%B3%E6%B0%B4%E8%B4%9D%E8%A2%AB%E6%8C%A4%E7%88%86",
+        "hot": 784956,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "title": "日剧Vivant抹黑中国",
+        "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E5%89%A7Vivant%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9B%BD",
+        "hot": 726563,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "title": "2025年出生人口男孩多于女孩",
+        "url": "https://s.weibo.com/weibo?q=2025%E5%B9%B4%E5%87%BA%E7%94%9F%E4%BA%BA%E5%8F%A3%E7%94%B7%E5%AD%A9%E5%A4%9A%E4%BA%8E%E5%A5%B3%E5%AD%A9",
+        "hot": 552632,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "体育"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "火箭险胜老鹰豪取三连胜",
+        "url": "https://www.douyin.com/search/%E7%81%AB%E7%AE%AD%E9%99%A9%E8%83%9C%E8%80%81%E9%B9%B0%E8%B1%AA%E5%8F%96%E4%B8%89%E8%BF%9E%E8%83%9C",
+        "hot": 12288320,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "title": "台湾光复81周年",
+        "url": "https://www.douyin.com/search/%E5%8F%B0%E6%B9%BE%E5%85%89%E5%A4%8D81%E5%91%A8%E5%B9%B4",
+        "hot": 11770214,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 2,
+        "category": "游戏"
+      },
+      {
+        "title": "致敬最可爱的人",
+        "url": "https://www.douyin.com/search/%E8%87%B4%E6%95%AC%E6%9C%80%E5%8F%AF%E7%88%B1%E7%9A%84%E4%BA%BA",
+        "hot": 11095920,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "title": "我的王者嘉年华日记",
+        "url": "https://www.douyin.com/search/%E6%88%91%E7%9A%84%E7%8E%8B%E8%80%85%E5%98%89%E5%B9%B4%E5%8D%8E%E6%97%A5%E8%AE%B0",
+        "hot": 7754907,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "title": "王者万象棋深圳线下人山人海",
+        "url": "https://www.douyin.com/search/%E7%8E%8B%E8%80%85%E4%B8%87%E8%B1%A1%E6%A3%8B%E6%B7%B1%E5%9C%B3%E7%BA%BF%E4%B8%8B%E4%BA%BA%E5%B1%B1%E4%BA%BA%E6%B5%B7",
+        "hot": 7665104,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "title": "王者万象棋棋盘变秀场",
+        "url": "https://www.douyin.com/search/%E7%8E%8B%E8%80%85%E4%B8%87%E8%B1%A1%E6%A3%8B%E6%A3%8B%E7%9B%98%E5%8F%98%E7%A7%80%E5%9C%BA",
+        "hot": 7635462,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 6,
+        "category": "游戏"
+      }
+    ],
+    "汽车": [
+      {
+        "title": "江苏姑娘网购鹤岗房搬进去后傻眼",
+        "url": "https://s.weibo.com/weibo?q=%E6%B1%9F%E8%8B%8F%E5%A7%91%E5%A8%98%E7%BD%91%E8%B4%AD%E9%B9%A4%E5%B2%97%E6%88%BF%E6%90%AC%E8%BF%9B%E5%8E%BB%E5%90%8E%E5%82%BB%E7%9C%BC",
+        "hot": 1179300,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "title": "县委书记拒绝张雪为家乡打广告",
+        "url": "https://s.weibo.com/weibo?q=%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%8B%92%E7%BB%9D%E5%BC%A0%E9%9B%AA%E4%B8%BA%E5%AE%B6%E4%B9%A1%E6%89%93%E5%B9%BF%E5%91%8A",
+        "hot": 937331,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 2,
+        "category": "汽车"
+      },
+      {
+        "title": "向英雄致敬迎英雄回家",
+        "url": "https://s.weibo.com/weibo?q=%E5%90%91%E8%8B%B1%E9%9B%84%E8%87%B4%E6%95%AC%E8%BF%8E%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6",
+        "hot": 793453,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "汽车"
+      },
+      {
+        "title": "深圳水贝被挤爆",
+        "url": "https://s.weibo.com/weibo?q=%E6%B7%B1%E5%9C%B3%E6%B0%B4%E8%B4%9D%E8%A2%AB%E6%8C%A4%E7%88%86",
+        "hot": 784956,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "title": "日剧Vivant抹黑中国",
+        "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E5%89%A7Vivant%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9B%BD",
+        "hot": 726563,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "title": "2025年出生人口男孩多于女孩",
+        "url": "https://s.weibo.com/weibo?q=2025%E5%B9%B4%E5%87%BA%E7%94%9F%E4%BA%BA%E5%8F%A3%E7%94%B7%E5%AD%A9%E5%A4%9A%E4%BA%8E%E5%A5%B3%E5%AD%A9",
+        "hot": 552632,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "汽车"
+      }
+    ],
+    "美食": [
+      {
+        "title": "江苏姑娘网购鹤岗房搬进去后傻眼",
+        "url": "https://s.weibo.com/weibo?q=%E6%B1%9F%E8%8B%8F%E5%A7%91%E5%A8%98%E7%BD%91%E8%B4%AD%E9%B9%A4%E5%B2%97%E6%88%BF%E6%90%AC%E8%BF%9B%E5%8E%BB%E5%90%8E%E5%82%BB%E7%9C%BC",
+        "hot": 1179300,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "title": "县委书记拒绝张雪为家乡打广告",
+        "url": "https://s.weibo.com/weibo?q=%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%8B%92%E7%BB%9D%E5%BC%A0%E9%9B%AA%E4%B8%BA%E5%AE%B6%E4%B9%A1%E6%89%93%E5%B9%BF%E5%91%8A",
+        "hot": 937331,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 2,
+        "category": "美食"
+      },
+      {
+        "title": "向英雄致敬迎英雄回家",
+        "url": "https://s.weibo.com/weibo?q=%E5%90%91%E8%8B%B1%E9%9B%84%E8%87%B4%E6%95%AC%E8%BF%8E%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6",
+        "hot": 793453,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "title": "深圳水贝被挤爆",
+        "url": "https://s.weibo.com/weibo?q=%E6%B7%B1%E5%9C%B3%E6%B0%B4%E8%B4%9D%E8%A2%AB%E6%8C%A4%E7%88%86",
+        "hot": 784956,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "title": "日剧Vivant抹黑中国",
+        "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E5%89%A7Vivant%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9B%BD",
+        "hot": 726563,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "title": "2025年出生人口男孩多于女孩",
+        "url": "https://s.weibo.com/weibo?q=2025%E5%B9%B4%E5%87%BA%E7%94%9F%E4%BA%BA%E5%8F%A3%E7%94%B7%E5%AD%A9%E5%A4%9A%E4%BA%8E%E5%A5%B3%E5%AD%A9",
+        "hot": 552632,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "美食"
+      }
+    ],
+    "旅游": [
+      {
+        "title": "江苏姑娘网购鹤岗房搬进去后傻眼",
+        "url": "https://s.weibo.com/weibo?q=%E6%B1%9F%E8%8B%8F%E5%A7%91%E5%A8%98%E7%BD%91%E8%B4%AD%E9%B9%A4%E5%B2%97%E6%88%BF%E6%90%AC%E8%BF%9B%E5%8E%BB%E5%90%8E%E5%82%BB%E7%9C%BC",
+        "hot": 1179300,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 1,
+        "category": "旅游"
+      },
+      {
+        "title": "县委书记拒绝张雪为家乡打广告",
+        "url": "https://s.weibo.com/weibo?q=%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%8B%92%E7%BB%9D%E5%BC%A0%E9%9B%AA%E4%B8%BA%E5%AE%B6%E4%B9%A1%E6%89%93%E5%B9%BF%E5%91%8A",
+        "hot": 937331,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 2,
+        "category": "旅游"
+      },
+      {
+        "title": "向英雄致敬迎英雄回家",
+        "url": "https://s.weibo.com/weibo?q=%E5%90%91%E8%8B%B1%E9%9B%84%E8%87%B4%E6%95%AC%E8%BF%8E%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6",
+        "hot": 793453,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "旅游"
+      },
+      {
+        "title": "深圳水贝被挤爆",
+        "url": "https://s.weibo.com/weibo?q=%E6%B7%B1%E5%9C%B3%E6%B0%B4%E8%B4%9D%E8%A2%AB%E6%8C%A4%E7%88%86",
+        "hot": 784956,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "title": "日剧Vivant抹黑中国",
+        "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E5%89%A7Vivant%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9B%BD",
+        "hot": 726563,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "旅游"
+      },
+      {
+        "title": "2025年出生人口男孩多于女孩",
+        "url": "https://s.weibo.com/weibo?q=2025%E5%B9%B4%E5%87%BA%E7%94%9F%E4%BA%BA%E5%8F%A3%E7%94%B7%E5%AD%A9%E5%A4%9A%E4%BA%8E%E5%A5%B3%E5%AD%A9",
+        "hot": 552632,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "旅游"
+      }
+    ],
+    "军事": [
+      {
+        "title": "江苏姑娘网购鹤岗房搬进去后傻眼",
+        "url": "https://s.weibo.com/weibo?q=%E6%B1%9F%E8%8B%8F%E5%A7%91%E5%A8%98%E7%BD%91%E8%B4%AD%E9%B9%A4%E5%B2%97%E6%88%BF%E6%90%AC%E8%BF%9B%E5%8E%BB%E5%90%8E%E5%82%BB%E7%9C%BC",
+        "hot": 1179300,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 1,
+        "category": "军事"
+      },
+      {
+        "title": "县委书记拒绝张雪为家乡打广告",
+        "url": "https://s.weibo.com/weibo?q=%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%8B%92%E7%BB%9D%E5%BC%A0%E9%9B%AA%E4%B8%BA%E5%AE%B6%E4%B9%A1%E6%89%93%E5%B9%BF%E5%91%8A",
+        "hot": 937331,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "title": "向英雄致敬迎英雄回家",
+        "url": "https://s.weibo.com/weibo?q=%E5%90%91%E8%8B%B1%E9%9B%84%E8%87%B4%E6%95%AC%E8%BF%8E%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6",
+        "hot": 793453,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "军事"
+      },
+      {
+        "title": "深圳水贝被挤爆",
+        "url": "https://s.weibo.com/weibo?q=%E6%B7%B1%E5%9C%B3%E6%B0%B4%E8%B4%9D%E8%A2%AB%E6%8C%A4%E7%88%86",
+        "hot": 784956,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "军事"
+      },
+      {
+        "title": "日剧Vivant抹黑中国",
+        "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E5%89%A7Vivant%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9B%BD",
+        "hot": 726563,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "军事"
+      },
+      {
+        "title": "2025年出生人口男孩多于女孩",
+        "url": "https://s.weibo.com/weibo?q=2025%E5%B9%B4%E5%87%BA%E7%94%9F%E4%BA%BA%E5%8F%A3%E7%94%B7%E5%AD%A9%E5%A4%9A%E4%BA%8E%E5%A5%B3%E5%AD%A9",
+        "hot": 552632,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "军事"
+      }
+    ],
+    "国际": [
+      {
+        "title": "江苏姑娘网购鹤岗房搬进去后傻眼",
+        "url": "https://s.weibo.com/weibo?q=%E6%B1%9F%E8%8B%8F%E5%A7%91%E5%A8%98%E7%BD%91%E8%B4%AD%E9%B9%A4%E5%B2%97%E6%88%BF%E6%90%AC%E8%BF%9B%E5%8E%BB%E5%90%8E%E5%82%BB%E7%9C%BC",
+        "hot": 1179300,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 1,
+        "category": "国际"
+      },
+      {
+        "title": "县委书记拒绝张雪为家乡打广告",
+        "url": "https://s.weibo.com/weibo?q=%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%8B%92%E7%BB%9D%E5%BC%A0%E9%9B%AA%E4%B8%BA%E5%AE%B6%E4%B9%A1%E6%89%93%E5%B9%BF%E5%91%8A",
+        "hot": 937331,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 2,
+        "category": "国际"
+      },
+      {
+        "title": "向英雄致敬迎英雄回家",
+        "url": "https://s.weibo.com/weibo?q=%E5%90%91%E8%8B%B1%E9%9B%84%E8%87%B4%E6%95%AC%E8%BF%8E%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6",
+        "hot": 793453,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "国际"
+      },
+      {
+        "title": "深圳水贝被挤爆",
+        "url": "https://s.weibo.com/weibo?q=%E6%B7%B1%E5%9C%B3%E6%B0%B4%E8%B4%9D%E8%A2%AB%E6%8C%A4%E7%88%86",
+        "hot": 784956,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "国际"
+      },
+      {
+        "title": "日剧Vivant抹黑中国",
+        "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E5%89%A7Vivant%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9B%BD",
+        "hot": 726563,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "国际"
+      },
+      {
+        "title": "2025年出生人口男孩多于女孩",
+        "url": "https://s.weibo.com/weibo?q=2025%E5%B9%B4%E5%87%BA%E7%94%9F%E4%BA%BA%E5%8F%A3%E7%94%B7%E5%AD%A9%E5%A4%9A%E4%BA%8E%E5%A5%B3%E5%AD%A9",
+        "hot": 552632,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "国际"
+      }
+    ],
+    "文化": [
+      {
+        "title": "重点中学教师称高一开学仅一个月，其任教的每个班均有学生因心理问题休学，这是普遍现象吗？为什么会这样？",
+        "url": "https://www.zhihu.com/question/2097263594421188141",
+        "hot": null,
+        "desc": "",
+        "time": 1792806606000,
+        "source": "知乎",
+        "rank": 1,
+        "category": "文化"
+      },
+      {
+        "title": "你有5分钟把一个回形针藏在家里，侦探有24小时来找，找不到就给你1万美元。你会藏在哪里？",
+        "url": "https://www.zhihu.com/question/2097021346526001046",
+        "hot": null,
+        "desc": "",
+        "time": 1792748849000,
+        "source": "知乎",
+        "rank": 2,
+        "category": "文化"
+      },
+      {
+        "title": "广西一病人转院被网约车司机丢弃致死，家属索赔96万，法院一审判司机平台赔1.3万，如何从法律角度解读？",
+        "url": "https://www.zhihu.com/question/2097409044340105309",
+        "hot": null,
+        "desc": "",
+        "time": 1792841284000,
+        "source": "知乎",
+        "rank": 3,
+        "category": "文化"
+      },
+      {
+        "title": "夫妻花67.3万买劳力士却不挑选不试戴，店员果断报警，最终证实夫妻两人遭遇诈骗，这背后有着怎样的骗局？",
+        "url": "https://www.zhihu.com/question/2094830367932770236",
+        "hot": null,
+        "desc": "",
+        "time": 1792226479000,
+        "source": "知乎",
+        "rank": 4,
+        "category": "文化"
+      },
+      {
+        "title": "美初创公司宣称已实现「汞变稳定黄金」，但成果尚未得到独立验证，技术原理是啥？技术可行性与商业价值如何？",
+        "url": "https://www.zhihu.com/question/2097101591828607209",
+        "hot": null,
+        "desc": "",
+        "time": 1792767981000,
+        "source": "知乎",
+        "rank": 5,
+        "category": "文化"
+      },
+      {
+        "title": "S16 瑞士轮次日 TES 1:0 击败 AL 拿下首胜，如何评价这场比赛？",
+        "url": "https://www.zhihu.com/question/2097479998525518163",
+        "hot": null,
+        "desc": "",
+        "time": 1792858200000,
+        "source": "知乎",
+        "rank": 6,
+        "category": "文化"
+      }
+    ]
+  },
+  "total": 108
+}
