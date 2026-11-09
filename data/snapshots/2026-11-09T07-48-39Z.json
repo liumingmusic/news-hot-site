@@ -1,0 +1,1137 @@
+{
+  "generatedAt": "2026-11-09T07:48:39.686Z",
+  "source": "60s.viki.moe",
+  "headlines": [
+    {
+      "title": "BLG战胜T1挺进决赛",
+      "url": "https://www.douyin.com/search/BLG%E6%88%98%E8%83%9CT1%E6%8C%BA%E8%BF%9B%E5%86%B3%E8%B5%9B",
+      "hot": 12103935,
+      "desc": "",
+      "time": null,
+      "source": "抖音",
+      "rank": 1,
+      "category": "游戏",
+      "_domain": "游戏"
+    },
+    {
+      "title": "今日寒衣节",
+      "url": "https://www.douyin.com/search/%E4%BB%8A%E6%97%A5%E5%AF%92%E8%A1%A3%E8%8A%82",
+      "hot": 11032324,
+      "desc": "",
+      "time": null,
+      "source": "抖音",
+      "rank": 1,
+      "category": "娱乐",
+      "_domain": "娱乐"
+    },
+    {
+      "title": "大连时隔21年重夺中超冠军",
+      "url": "https://www.douyin.com/search/%E5%A4%A7%E8%BF%9E%E6%97%B6%E9%9A%9421%E5%B9%B4%E9%87%8D%E5%A4%BA%E4%B8%AD%E8%B6%85%E5%86%A0%E5%86%9B",
+      "hot": 7682864,
+      "desc": "",
+      "time": null,
+      "source": "抖音",
+      "rank": 1,
+      "category": "体育",
+      "_domain": "体育"
+    },
+    {
+      "title": "iG投资人开团AL",
+      "url": "https://s.weibo.com/weibo?q=iG%E6%8A%95%E8%B5%84%E4%BA%BA%E5%BC%80%E5%9B%A2AL",
+      "hot": 1510382,
+      "desc": "",
+      "time": null,
+      "source": "微博",
+      "rank": 1,
+      "category": "医疗",
+      "_domain": "医疗"
+    },
+    {
+      "title": "为什么满地都是口腔诊所",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%BB%A1%E5%9C%B0%E9%83%BD%E6%98%AF%E5%8F%A3%E8%85%94%E8%AF%8A%E6%89%80",
+      "hot": 888986,
+      "desc": "",
+      "time": null,
+      "source": "微博",
+      "rank": 2,
+      "category": "财经",
+      "_domain": "财经"
+    },
+    {
+      "title": "俄乌谈判之际俄军炸乌发电厂有何考量",
+      "url": "https://www.toutiao.com/trending/7706050945347489323",
+      "hot": 1494513,
+      "desc": "",
+      "time": null,
+      "source": "今日头条",
+      "rank": 2,
+      "category": "国际",
+      "_domain": "国际"
+    }
+  ],
+  "categories": {
+    "科技": [
+      {
+        "title": "院士：时空信息在智能决策中作用凸显",
+        "url": "https://www.toutiao.com/trending/7706063137334411305",
+        "hot": 407302,
+        "desc": "",
+        "time": null,
+        "source": "今日头条",
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "title": "为什么小米、华为、理想、小鹏、蔚来等新能源车企虽然有竞争，却都不约而同要放弃和宁德时代的单一合作？",
+        "url": "https://www.zhihu.com/question/2081333782171465172",
+        "hot": null,
+        "desc": "",
+        "time": 1789008642000,
+        "source": "知乎",
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "title": "BLG 连斩 LCK 三队晋级总决赛，他们能在决赛上击败 GEN，一穿四夺冠吗？",
+        "url": "https://www.zhihu.com/question/2103059281805304888",
+        "hot": null,
+        "desc": "",
+        "time": 1794188405000,
+        "source": "知乎",
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "title": "黄渤自曝今年几乎没戏拍，如何看待实力派演员陷入空窗期？",
+        "url": "https://www.zhihu.com/question/2102012267004958599",
+        "hot": null,
+        "desc": "",
+        "time": 1793938777000,
+        "source": "知乎",
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "title": "S16 半决赛 BLG 3:1 淘汰卫冕冠军 T1，终结 T1 四连冠可能性，如何评价这场比赛？",
+        "url": "https://www.zhihu.com/question/2102992165089579738",
+        "hot": null,
+        "desc": "",
+        "time": 1794172403000,
+        "source": "知乎",
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "title": "自媒体曝胖东来爆火的卡蓓诺洗发水疑为非日本制造，胖东来否认产地造假并将启动维权，哪些信息值得关注？",
+        "url": "https://www.zhihu.com/question/2102487963552765120",
+        "hot": null,
+        "desc": "",
+        "time": 1794052192000,
+        "source": "知乎",
+        "rank": 6,
+        "category": "科技"
+      }
+    ],
+    "人工智能": [
+      {
+        "title": "黄渤自曝今年几乎没戏拍，如何看待实力派演员陷入空窗期？",
+        "url": "https://www.zhihu.com/question/2102012267004958599",
+        "hot": null,
+        "desc": "",
+        "time": 1793938777000,
+        "source": "知乎",
+        "rank": 1,
+        "category": "人工智能"
+      },
+      {
+        "title": "BLG 连斩 LCK 三队晋级总决赛，他们能在决赛上击败 GEN，一穿四夺冠吗？",
+        "url": "https://www.zhihu.com/question/2103059281805304888",
+        "hot": null,
+        "desc": "",
+        "time": 1794188405000,
+        "source": "知乎",
+        "rank": 2,
+        "category": "人工智能"
+      },
+      {
+        "title": "实验猴涨至26万一只，部分养殖企业已无猴可售，会对医药行业产生哪些影响？涨价热潮可能还会持续多久？",
+        "url": "https://www.zhihu.com/question/2102042105917063375",
+        "hot": null,
+        "desc": "",
+        "time": 1793945892000,
+        "source": "知乎",
+        "rank": 3,
+        "category": "人工智能"
+      },
+      {
+        "title": "自媒体曝胖东来爆火的卡蓓诺洗发水疑为非日本制造，胖东来否认产地造假并将启动维权，哪些信息值得关注？",
+        "url": "https://www.zhihu.com/question/2102487963552765120",
+        "hot": null,
+        "desc": "",
+        "time": 1794052192000,
+        "source": "知乎",
+        "rank": 4,
+        "category": "人工智能"
+      },
+      {
+        "title": "汝南那么好听，为什么要改成驻马店？",
+        "url": "https://www.zhihu.com/question/418412789",
+        "hot": null,
+        "desc": "",
+        "time": 1598763887000,
+        "source": "知乎",
+        "rank": 5,
+        "category": "人工智能"
+      },
+      {
+        "title": "S16 半决赛 BLG 3:1 淘汰卫冕冠军 T1，终结 T1 四连冠可能性，如何评价这场比赛？",
+        "url": "https://www.zhihu.com/question/2102992165089579738",
+        "hot": null,
+        "desc": "",
+        "time": 1794172403000,
+        "source": "知乎",
+        "rank": 6,
+        "category": "人工智能"
+      }
+    ],
+    "人文": [
+      {
+        "title": "BLG 连斩 LCK 三队晋级总决赛，他们能在决赛上击败 GEN，一穿四夺冠吗？",
+        "url": "https://www.zhihu.com/question/2103059281805304888",
+        "hot": null,
+        "desc": "",
+        "time": 1794188405000,
+        "source": "知乎",
+        "rank": 1,
+        "category": "人文"
+      },
+      {
+        "title": "S16 半决赛 BLG 3:1 淘汰卫冕冠军 T1，终结 T1 四连冠可能性，如何评价这场比赛？",
+        "url": "https://www.zhihu.com/question/2102992165089579738",
+        "hot": null,
+        "desc": "",
+        "time": 1794172403000,
+        "source": "知乎",
+        "rank": 2,
+        "category": "人文"
+      },
+      {
+        "title": "自媒体曝胖东来爆火的卡蓓诺洗发水疑为非日本制造，胖东来否认产地造假并将启动维权，哪些信息值得关注？",
+        "url": "https://www.zhihu.com/question/2102487963552765120",
+        "hot": null,
+        "desc": "",
+        "time": 1794052192000,
+        "source": "知乎",
+        "rank": 3,
+        "category": "人文"
+      },
+      {
+        "title": "黄渤自曝今年几乎没戏拍，如何看待实力派演员陷入空窗期？",
+        "url": "https://www.zhihu.com/question/2102012267004958599",
+        "hot": null,
+        "desc": "",
+        "time": 1793938777000,
+        "source": "知乎",
+        "rank": 4,
+        "category": "人文"
+      },
+      {
+        "title": "汝南那么好听，为什么要改成驻马店？",
+        "url": "https://www.zhihu.com/question/418412789",
+        "hot": null,
+        "desc": "",
+        "time": 1598763887000,
+        "source": "知乎",
+        "rank": 5,
+        "category": "人文"
+      },
+      {
+        "title": "实验猴涨至26万一只，部分养殖企业已无猴可售，会对医药行业产生哪些影响？涨价热潮可能还会持续多久？",
+        "url": "https://www.zhihu.com/question/2102042105917063375",
+        "hot": null,
+        "desc": "",
+        "time": 1793945892000,
+        "source": "知乎",
+        "rank": 6,
+        "category": "人文"
+      }
+    ],
+    "社会": [
+      {
+        "title": "日本地铁太压抑了",
+        "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%93%81%E5%A4%AA%E5%8E%8B%E6%8A%91%E4%BA%86",
+        "hot": 514845,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 1,
+        "category": "社会"
+      },
+      {
+        "title": "青稚今天我给白小纯道歉了",
+        "url": "https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A%E4%BB%8A%E5%A4%A9%E6%88%91%E7%BB%99%E7%99%BD%E5%B0%8F%E7%BA%AF%E9%81%93%E6%AD%89%E4%BA%86",
+        "hot": 396098,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 2,
+        "category": "社会"
+      },
+      {
+        "title": "Bin说GEN不如T1",
+        "url": "https://s.weibo.com/weibo?q=Bin%E8%AF%B4GEN%E4%B8%8D%E5%A6%82T1",
+        "hot": 394578,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "社会"
+      },
+      {
+        "title": "大连几乎所有饭店宣布夺冠就免单",
+        "url": "https://s.weibo.com/weibo?q=%E5%A4%A7%E8%BF%9E%E5%87%A0%E4%B9%8E%E6%89%80%E6%9C%89%E9%A5%AD%E5%BA%97%E5%AE%A3%E5%B8%83%E5%A4%BA%E5%86%A0%E5%B0%B1%E5%85%8D%E5%8D%95",
+        "hot": 381872,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "社会"
+      },
+      {
+        "title": "黄仁勋出轨对英伟达影响有多大",
+        "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E4%BB%81%E5%8B%8B%E5%87%BA%E8%BD%A8%E5%AF%B9%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%BD%B1%E5%93%8D%E6%9C%89%E5%A4%9A%E5%A4%A7",
+        "hot": 378791,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "社会"
+      },
+      {
+        "title": "山姆回应加拿大鹅不支持无理由退换",
+        "url": "https://s.weibo.com/weibo?q=%E5%B1%B1%E5%A7%86%E5%9B%9E%E5%BA%94%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%B9%85%E4%B8%8D%E6%94%AF%E6%8C%81%E6%97%A0%E7%90%86%E7%94%B1%E9%80%80%E6%8D%A2",
+        "hot": 370769,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "社会"
+      },
+      {
+        "title": "天天在外旅游的猫",
+        "url": "https://s.weibo.com/weibo?q=%E5%A4%A9%E5%A4%A9%E5%9C%A8%E5%A4%96%E6%97%85%E6%B8%B8%E7%9A%84%E7%8C%AB",
+        "hot": 347818,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 7,
+        "category": "社会"
+      },
+      {
+        "title": "刘诗诗 W盛典",
+        "url": "https://s.weibo.com/weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%20W%E7%9B%9B%E5%85%B8",
+        "hot": 311383,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 8,
+        "category": "社会"
+      },
+      {
+        "title": "王安宇和王楚然吃晕碳了",
+        "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AE%89%E5%AE%87%E5%92%8C%E7%8E%8B%E6%A5%9A%E7%84%B6%E5%90%83%E6%99%95%E7%A2%B3%E4%BA%86",
+        "hot": 225075,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 9,
+        "category": "社会"
+      },
+      {
+        "title": "太原火灾",
+        "url": "https://s.weibo.com/weibo?q=%E5%A4%AA%E5%8E%9F%E7%81%AB%E7%81%BE",
+        "hot": 221211,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 10,
+        "category": "社会"
+      }
+    ],
+    "教育": [
+      {
+        "title": "S16 半决赛 BLG 3:1 淘汰卫冕冠军 T1，终结 T1 四连冠可能性，如何评价这场比赛？",
+        "url": "https://www.zhihu.com/question/2102992165089579738",
+        "hot": null,
+        "desc": "",
+        "time": 1794172403000,
+        "source": "知乎",
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "title": "黄渤自曝今年几乎没戏拍，如何看待实力派演员陷入空窗期？",
+        "url": "https://www.zhihu.com/question/2102012267004958599",
+        "hot": null,
+        "desc": "",
+        "time": 1793938777000,
+        "source": "知乎",
+        "rank": 2,
+        "category": "教育"
+      },
+      {
+        "title": "BLG 连斩 LCK 三队晋级总决赛，他们能在决赛上击败 GEN，一穿四夺冠吗？",
+        "url": "https://www.zhihu.com/question/2103059281805304888",
+        "hot": null,
+        "desc": "",
+        "time": 1794188405000,
+        "source": "知乎",
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "title": "自媒体曝胖东来爆火的卡蓓诺洗发水疑为非日本制造，胖东来否认产地造假并将启动维权，哪些信息值得关注？",
+        "url": "https://www.zhihu.com/question/2102487963552765120",
+        "hot": null,
+        "desc": "",
+        "time": 1794052192000,
+        "source": "知乎",
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "title": "实验猴涨至26万一只，部分养殖企业已无猴可售，会对医药行业产生哪些影响？涨价热潮可能还会持续多久？",
+        "url": "https://www.zhihu.com/question/2102042105917063375",
+        "hot": null,
+        "desc": "",
+        "time": 1793945892000,
+        "source": "知乎",
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "title": "把娃户口挪去东北（比如鹤岗），读高中和高考，是否可行？ 哪个城市比较建议？",
+        "url": "https://www.zhihu.com/question/2098513012952979066",
+        "hot": null,
+        "desc": "",
+        "time": 1793104490000,
+        "source": "知乎",
+        "rank": 6,
+        "category": "教育"
+      }
+    ],
+    "娱乐": [
+      {
+        "title": "今日寒衣节",
+        "url": "https://www.douyin.com/search/%E4%BB%8A%E6%97%A5%E5%AF%92%E8%A1%A3%E8%8A%82",
+        "hot": 11032324,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 1,
+        "category": "娱乐"
+      },
+      {
+        "title": "波兰枪击事件致9死16伤",
+        "url": "https://www.douyin.com/search/%E6%B3%A2%E5%85%B0%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6%E8%87%B49%E6%AD%BB16%E4%BC%A4",
+        "hot": 8717459,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 2,
+        "category": "娱乐"
+      },
+      {
+        "title": "昊天武道会锋18杀破开赛记录",
+        "url": "https://www.douyin.com/search/%E6%98%8A%E5%A4%A9%E6%AD%A6%E9%81%93%E4%BC%9A%E9%94%8B18%E6%9D%80%E7%A0%B4%E5%BC%80%E8%B5%9B%E8%AE%B0%E5%BD%95",
+        "hot": 7642251,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 3,
+        "category": "娱乐"
+      },
+      {
+        "title": "张颂文周海洋彻底黑化",
+        "url": "https://www.douyin.com/search/%E5%BC%A0%E9%A2%82%E6%96%87%E5%91%A8%E6%B5%B7%E6%B4%8B%E5%BD%BB%E5%BA%95%E9%BB%91%E5%8C%96",
+        "hot": 7630066,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 4,
+        "category": "娱乐"
+      },
+      {
+        "title": "Doran说T1本可以赢BLG",
+        "url": "https://s.weibo.com/weibo?q=Doran%E8%AF%B4T1%E6%9C%AC%E5%8F%AF%E4%BB%A5%E8%B5%A2BLG",
+        "hot": 525448,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "娱乐"
+      },
+      {
+        "title": "黄仁勋出轨对英伟达影响有多大",
+        "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E4%BB%81%E5%8B%8B%E5%87%BA%E8%BD%A8%E5%AF%B9%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%BD%B1%E5%93%8D%E6%9C%89%E5%A4%9A%E5%A4%A7",
+        "hot": 378791,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "娱乐"
+      },
+      {
+        "title": "英伟达",
+        "url": "https://s.weibo.com/weibo?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE",
+        "hot": 376169,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 7,
+        "category": "娱乐"
+      },
+      {
+        "title": "花坛白骨案死者前夫被亲友怀疑28年",
+        "url": "https://s.weibo.com/weibo?q=%E8%8A%B1%E5%9D%9B%E7%99%BD%E9%AA%A8%E6%A1%88%E6%AD%BB%E8%80%85%E5%89%8D%E5%A4%AB%E8%A2%AB%E4%BA%B2%E5%8F%8B%E6%80%80%E7%96%9128%E5%B9%B4",
+        "hot": 237355,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 8,
+        "category": "娱乐"
+      },
+      {
+        "title": "刘浩存 喜欢什么就穿什么",
+        "url": "https://s.weibo.com/weibo?q=%E5%88%98%E6%B5%A9%E5%AD%98%20%E5%96%9C%E6%AC%A2%E4%BB%80%E4%B9%88%E5%B0%B1%E7%A9%BF%E4%BB%80%E4%B9%88",
+        "hot": 210670,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 9,
+        "category": "娱乐"
+      }
+    ],
+    "医疗": [
+      {
+        "title": "iG投资人开团AL",
+        "url": "https://s.weibo.com/weibo?q=iG%E6%8A%95%E8%B5%84%E4%BA%BA%E5%BC%80%E5%9B%A2AL",
+        "hot": 1510382,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 1,
+        "category": "医疗"
+      },
+      {
+        "title": "为什么满地都是口腔诊所",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%BB%A1%E5%9C%B0%E9%83%BD%E6%98%AF%E5%8F%A3%E8%85%94%E8%AF%8A%E6%89%80",
+        "hot": 888986,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 2,
+        "category": "医疗"
+      },
+      {
+        "title": "为了守护万家灯火他们迎难而上",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BA%86%E5%AE%88%E6%8A%A4%E4%B8%87%E5%AE%B6%E7%81%AF%E7%81%AB%E4%BB%96%E4%BB%AC%E8%BF%8E%E9%9A%BE%E8%80%8C%E4%B8%8A",
+        "hot": 721158,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "医疗"
+      },
+      {
+        "title": "Doran说T1本可以赢BLG",
+        "url": "https://s.weibo.com/weibo?q=Doran%E8%AF%B4T1%E6%9C%AC%E5%8F%AF%E4%BB%A5%E8%B5%A2BLG",
+        "hot": 525448,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "医疗"
+      },
+      {
+        "title": "日本地铁太压抑了",
+        "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%93%81%E5%A4%AA%E5%8E%8B%E6%8A%91%E4%BA%86",
+        "hot": 514845,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "医疗"
+      },
+      {
+        "title": "张雪机车米兰展车零件被偷光",
+        "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E7%B1%B3%E5%85%B0%E5%B1%95%E8%BD%A6%E9%9B%B6%E4%BB%B6%E8%A2%AB%E5%81%B7%E5%85%89",
+        "hot": 505678,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "医疗"
+      }
+    ],
+    "财经": [
+      {
+        "title": "iG投资人开团AL",
+        "url": "https://s.weibo.com/weibo?q=iG%E6%8A%95%E8%B5%84%E4%BA%BA%E5%BC%80%E5%9B%A2AL",
+        "hot": 1510382,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "title": "为什么满地都是口腔诊所",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%BB%A1%E5%9C%B0%E9%83%BD%E6%98%AF%E5%8F%A3%E8%85%94%E8%AF%8A%E6%89%80",
+        "hot": 888986,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 2,
+        "category": "财经"
+      },
+      {
+        "title": "为了守护万家灯火他们迎难而上",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BA%86%E5%AE%88%E6%8A%A4%E4%B8%87%E5%AE%B6%E7%81%AF%E7%81%AB%E4%BB%96%E4%BB%AC%E8%BF%8E%E9%9A%BE%E8%80%8C%E4%B8%8A",
+        "hot": 721158,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "title": "Doran说T1本可以赢BLG",
+        "url": "https://s.weibo.com/weibo?q=Doran%E8%AF%B4T1%E6%9C%AC%E5%8F%AF%E4%BB%A5%E8%B5%A2BLG",
+        "hot": 525448,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "title": "日本地铁太压抑了",
+        "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%93%81%E5%A4%AA%E5%8E%8B%E6%8A%91%E4%BA%86",
+        "hot": 514845,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "title": "张雪机车米兰展车零件被偷光",
+        "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E7%B1%B3%E5%85%B0%E5%B1%95%E8%BD%A6%E9%9B%B6%E4%BB%B6%E8%A2%AB%E5%81%B7%E5%85%89",
+        "hot": 505678,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "财经"
+      }
+    ],
+    "体育": [
+      {
+        "title": "大连时隔21年重夺中超冠军",
+        "url": "https://www.douyin.com/search/%E5%A4%A7%E8%BF%9E%E6%97%B6%E9%9A%9421%E5%B9%B4%E9%87%8D%E5%A4%BA%E4%B8%AD%E8%B6%85%E5%86%A0%E5%86%9B",
+        "hot": 7682864,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "title": "iG投资人开团AL",
+        "url": "https://s.weibo.com/weibo?q=iG%E6%8A%95%E8%B5%84%E4%BA%BA%E5%BC%80%E5%9B%A2AL",
+        "hot": 1510382,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "title": "为什么满地都是口腔诊所",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%BB%A1%E5%9C%B0%E9%83%BD%E6%98%AF%E5%8F%A3%E8%85%94%E8%AF%8A%E6%89%80",
+        "hot": 888986,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "title": "为了守护万家灯火他们迎难而上",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BA%86%E5%AE%88%E6%8A%A4%E4%B8%87%E5%AE%B6%E7%81%AF%E7%81%AB%E4%BB%96%E4%BB%AC%E8%BF%8E%E9%9A%BE%E8%80%8C%E4%B8%8A",
+        "hot": 721158,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "title": "Doran说T1本可以赢BLG",
+        "url": "https://s.weibo.com/weibo?q=Doran%E8%AF%B4T1%E6%9C%AC%E5%8F%AF%E4%BB%A5%E8%B5%A2BLG",
+        "hot": 525448,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "title": "日本地铁太压抑了",
+        "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%93%81%E5%A4%AA%E5%8E%8B%E6%8A%91%E4%BA%86",
+        "hot": 514845,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "体育"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "BLG战胜T1挺进决赛",
+        "url": "https://www.douyin.com/search/BLG%E6%88%98%E8%83%9CT1%E6%8C%BA%E8%BF%9B%E5%86%B3%E8%B5%9B",
+        "hot": 12103935,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "title": "后知后觉又过了一个秋",
+        "url": "https://www.douyin.com/search/%E5%90%8E%E7%9F%A5%E5%90%8E%E8%A7%89%E5%8F%88%E8%BF%87%E4%BA%86%E4%B8%80%E4%B8%AA%E7%A7%8B",
+        "hot": 12068701,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 2,
+        "category": "游戏"
+      },
+      {
+        "title": "中国新发展为世界提供新机遇",
+        "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E6%96%B0%E5%8F%91%E5%B1%95%E4%B8%BA%E4%B8%96%E7%95%8C%E6%8F%90%E4%BE%9B%E6%96%B0%E6%9C%BA%E9%81%87",
+        "hot": 11454122,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "title": "今日寒衣节",
+        "url": "https://www.douyin.com/search/%E4%BB%8A%E6%97%A5%E5%AF%92%E8%A1%A3%E8%8A%82",
+        "hot": 11032324,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "title": "76人送公牛7连败",
+        "url": "https://www.douyin.com/search/76%E4%BA%BA%E9%80%81%E5%85%AC%E7%89%9B7%E8%BF%9E%E8%B4%A5",
+        "hot": 10398941,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "title": "T1发文告别S16",
+        "url": "https://www.douyin.com/search/T1%E5%8F%91%E6%96%87%E5%91%8A%E5%88%ABS16",
+        "hot": 10319486,
+        "desc": "",
+        "time": null,
+        "source": "抖音",
+        "rank": 6,
+        "category": "游戏"
+      }
+    ],
+    "汽车": [
+      {
+        "title": "iG投资人开团AL",
+        "url": "https://s.weibo.com/weibo?q=iG%E6%8A%95%E8%B5%84%E4%BA%BA%E5%BC%80%E5%9B%A2AL",
+        "hot": 1510382,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "title": "为什么满地都是口腔诊所",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%BB%A1%E5%9C%B0%E9%83%BD%E6%98%AF%E5%8F%A3%E8%85%94%E8%AF%8A%E6%89%80",
+        "hot": 888986,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 2,
+        "category": "汽车"
+      },
+      {
+        "title": "为了守护万家灯火他们迎难而上",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BA%86%E5%AE%88%E6%8A%A4%E4%B8%87%E5%AE%B6%E7%81%AF%E7%81%AB%E4%BB%96%E4%BB%AC%E8%BF%8E%E9%9A%BE%E8%80%8C%E4%B8%8A",
+        "hot": 721158,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "汽车"
+      },
+      {
+        "title": "Doran说T1本可以赢BLG",
+        "url": "https://s.weibo.com/weibo?q=Doran%E8%AF%B4T1%E6%9C%AC%E5%8F%AF%E4%BB%A5%E8%B5%A2BLG",
+        "hot": 525448,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "title": "日本地铁太压抑了",
+        "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%93%81%E5%A4%AA%E5%8E%8B%E6%8A%91%E4%BA%86",
+        "hot": 514845,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "title": "张雪机车米兰展车零件被偷光",
+        "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E7%B1%B3%E5%85%B0%E5%B1%95%E8%BD%A6%E9%9B%B6%E4%BB%B6%E8%A2%AB%E5%81%B7%E5%85%89",
+        "hot": 505678,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "汽车"
+      }
+    ],
+    "美食": [
+      {
+        "title": "iG投资人开团AL",
+        "url": "https://s.weibo.com/weibo?q=iG%E6%8A%95%E8%B5%84%E4%BA%BA%E5%BC%80%E5%9B%A2AL",
+        "hot": 1510382,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "title": "为什么满地都是口腔诊所",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%BB%A1%E5%9C%B0%E9%83%BD%E6%98%AF%E5%8F%A3%E8%85%94%E8%AF%8A%E6%89%80",
+        "hot": 888986,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 2,
+        "category": "美食"
+      },
+      {
+        "title": "为了守护万家灯火他们迎难而上",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BA%86%E5%AE%88%E6%8A%A4%E4%B8%87%E5%AE%B6%E7%81%AF%E7%81%AB%E4%BB%96%E4%BB%AC%E8%BF%8E%E9%9A%BE%E8%80%8C%E4%B8%8A",
+        "hot": 721158,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "title": "Doran说T1本可以赢BLG",
+        "url": "https://s.weibo.com/weibo?q=Doran%E8%AF%B4T1%E6%9C%AC%E5%8F%AF%E4%BB%A5%E8%B5%A2BLG",
+        "hot": 525448,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "title": "日本地铁太压抑了",
+        "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%93%81%E5%A4%AA%E5%8E%8B%E6%8A%91%E4%BA%86",
+        "hot": 514845,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "title": "张雪机车米兰展车零件被偷光",
+        "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E7%B1%B3%E5%85%B0%E5%B1%95%E8%BD%A6%E9%9B%B6%E4%BB%B6%E8%A2%AB%E5%81%B7%E5%85%89",
+        "hot": 505678,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "美食"
+      }
+    ],
+    "旅游": [
+      {
+        "title": "iG投资人开团AL",
+        "url": "https://s.weibo.com/weibo?q=iG%E6%8A%95%E8%B5%84%E4%BA%BA%E5%BC%80%E5%9B%A2AL",
+        "hot": 1510382,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 1,
+        "category": "旅游"
+      },
+      {
+        "title": "为什么满地都是口腔诊所",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%BB%A1%E5%9C%B0%E9%83%BD%E6%98%AF%E5%8F%A3%E8%85%94%E8%AF%8A%E6%89%80",
+        "hot": 888986,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 2,
+        "category": "旅游"
+      },
+      {
+        "title": "为了守护万家灯火他们迎难而上",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BA%86%E5%AE%88%E6%8A%A4%E4%B8%87%E5%AE%B6%E7%81%AF%E7%81%AB%E4%BB%96%E4%BB%AC%E8%BF%8E%E9%9A%BE%E8%80%8C%E4%B8%8A",
+        "hot": 721158,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "旅游"
+      },
+      {
+        "title": "Doran说T1本可以赢BLG",
+        "url": "https://s.weibo.com/weibo?q=Doran%E8%AF%B4T1%E6%9C%AC%E5%8F%AF%E4%BB%A5%E8%B5%A2BLG",
+        "hot": 525448,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "title": "日本地铁太压抑了",
+        "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%93%81%E5%A4%AA%E5%8E%8B%E6%8A%91%E4%BA%86",
+        "hot": 514845,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "旅游"
+      },
+      {
+        "title": "天天在外旅游的猫",
+        "url": "https://s.weibo.com/weibo?q=%E5%A4%A9%E5%A4%A9%E5%9C%A8%E5%A4%96%E6%97%85%E6%B8%B8%E7%9A%84%E7%8C%AB",
+        "hot": 347818,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "旅游"
+      }
+    ],
+    "军事": [
+      {
+        "title": "iG投资人开团AL",
+        "url": "https://s.weibo.com/weibo?q=iG%E6%8A%95%E8%B5%84%E4%BA%BA%E5%BC%80%E5%9B%A2AL",
+        "hot": 1510382,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 1,
+        "category": "军事"
+      },
+      {
+        "title": "为什么满地都是口腔诊所",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%BB%A1%E5%9C%B0%E9%83%BD%E6%98%AF%E5%8F%A3%E8%85%94%E8%AF%8A%E6%89%80",
+        "hot": 888986,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "title": "为了守护万家灯火他们迎难而上",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BA%86%E5%AE%88%E6%8A%A4%E4%B8%87%E5%AE%B6%E7%81%AF%E7%81%AB%E4%BB%96%E4%BB%AC%E8%BF%8E%E9%9A%BE%E8%80%8C%E4%B8%8A",
+        "hot": 721158,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "军事"
+      },
+      {
+        "title": "Doran说T1本可以赢BLG",
+        "url": "https://s.weibo.com/weibo?q=Doran%E8%AF%B4T1%E6%9C%AC%E5%8F%AF%E4%BB%A5%E8%B5%A2BLG",
+        "hot": 525448,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "军事"
+      },
+      {
+        "title": "日本地铁太压抑了",
+        "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%93%81%E5%A4%AA%E5%8E%8B%E6%8A%91%E4%BA%86",
+        "hot": 514845,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 5,
+        "category": "军事"
+      },
+      {
+        "title": "张雪机车米兰展车零件被偷光",
+        "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E7%B1%B3%E5%85%B0%E5%B1%95%E8%BD%A6%E9%9B%B6%E4%BB%B6%E8%A2%AB%E5%81%B7%E5%85%89",
+        "hot": 505678,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "军事"
+      }
+    ],
+    "国际": [
+      {
+        "title": "iG投资人开团AL",
+        "url": "https://s.weibo.com/weibo?q=iG%E6%8A%95%E8%B5%84%E4%BA%BA%E5%BC%80%E5%9B%A2AL",
+        "hot": 1510382,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 1,
+        "category": "国际"
+      },
+      {
+        "title": "俄乌谈判之际俄军炸乌发电厂有何考量",
+        "url": "https://www.toutiao.com/trending/7706050945347489323",
+        "hot": 1494513,
+        "desc": "",
+        "time": null,
+        "source": "今日头条",
+        "rank": 2,
+        "category": "国际"
+      },
+      {
+        "title": "为什么满地都是口腔诊所",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%BB%A1%E5%9C%B0%E9%83%BD%E6%98%AF%E5%8F%A3%E8%85%94%E8%AF%8A%E6%89%80",
+        "hot": 888986,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 3,
+        "category": "国际"
+      },
+      {
+        "title": "为了守护万家灯火他们迎难而上",
+        "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BA%86%E5%AE%88%E6%8A%A4%E4%B8%87%E5%AE%B6%E7%81%AF%E7%81%AB%E4%BB%96%E4%BB%AC%E8%BF%8E%E9%9A%BE%E8%80%8C%E4%B8%8A",
+        "hot": 721158,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 4,
+        "category": "国际"
+      },
+      {
+        "title": "美国专家点赞中国载人登月方案",
+        "url": "https://www.toutiao.com/trending/7706042201628741129",
+        "hot": 450138,
+        "desc": "",
+        "time": null,
+        "source": "今日头条",
+        "rank": 5,
+        "category": "国际"
+      },
+      {
+        "title": "特朗普难以置信美国人厌恶以色列",
+        "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E9%9A%BE%E4%BB%A5%E7%BD%AE%E4%BF%A1%E7%BE%8E%E5%9B%BD%E4%BA%BA%E5%8E%8C%E6%81%B6%E4%BB%A5%E8%89%B2%E5%88%97",
+        "hot": 234187,
+        "desc": "",
+        "time": null,
+        "source": "微博",
+        "rank": 6,
+        "category": "国际"
+      }
+    ],
+    "文化": [
+      {
+        "title": "BLG 连斩 LCK 三队晋级总决赛，他们能在决赛上击败 GEN，一穿四夺冠吗？",
+        "url": "https://www.zhihu.com/question/2103059281805304888",
+        "hot": null,
+        "desc": "",
+        "time": 1794188405000,
+        "source": "知乎",
+        "rank": 1,
+        "category": "文化"
+      },
+      {
+        "title": "汝南那么好听，为什么要改成驻马店？",
+        "url": "https://www.zhihu.com/question/418412789",
+        "hot": null,
+        "desc": "",
+        "time": 1598763887000,
+        "source": "知乎",
+        "rank": 2,
+        "category": "文化"
+      },
+      {
+        "title": "实验猴涨至26万一只，部分养殖企业已无猴可售，会对医药行业产生哪些影响？涨价热潮可能还会持续多久？",
+        "url": "https://www.zhihu.com/question/2102042105917063375",
+        "hot": null,
+        "desc": "",
+        "time": 1793945892000,
+        "source": "知乎",
+        "rank": 3,
+        "category": "文化"
+      },
+      {
+        "title": "自媒体曝胖东来爆火的卡蓓诺洗发水疑为非日本制造，胖东来否认产地造假并将启动维权，哪些信息值得关注？",
+        "url": "https://www.zhihu.com/question/2102487963552765120",
+        "hot": null,
+        "desc": "",
+        "time": 1794052192000,
+        "source": "知乎",
+        "rank": 4,
+        "category": "文化"
+      },
+      {
+        "title": "黄渤自曝今年几乎没戏拍，如何看待实力派演员陷入空窗期？",
+        "url": "https://www.zhihu.com/question/2102012267004958599",
+        "hot": null,
+        "desc": "",
+        "time": 1793938777000,
+        "source": "知乎",
+        "rank": 5,
+        "category": "文化"
+      },
+      {
+        "title": "S16 半决赛 BLG 3:1 淘汰卫冕冠军 T1，终结 T1 四连冠可能性，如何评价这场比赛？",
+        "url": "https://www.zhihu.com/question/2102992165089579738",
+        "hot": null,
+        "desc": "",
+        "time": 1794172403000,
+        "source": "知乎",
+        "rank": 6,
+        "category": "文化"
+      }
+    ]
+  },
+  "total": 103
+}
